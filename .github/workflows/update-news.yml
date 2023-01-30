@@ -1,0 +1,44 @@
+name: update-news
+
+on:
+  schedule:
+    - cron: '40 0,3,6,9,12,15,18,21 * * *' # UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setting environment
+      run: |
+        echo "LINE_NOTIFY_TOKEN=${{ secrets.LINE_NOTIFY_TOKEN }}" >> $GITHUB_ENV
+    - uses: actions/checkout@v2
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+        architecture: 'x64'
+    - name: Install dependencies
+      run: |
+        pip install -r crawler/requirements.txt
+    - name: Update news and notify differences
+      run: |
+        scrapy crawl kantei
+    - name: Cleanup data directory
+      run: |
+        python crawler/cleanup_data_directory.py
+    - name: git setting
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    - name: Commit files
+      run: |
+        if [[ `git diff --exit-code --quiet; echo $?` -eq 1 ]]; then
+          git add .
+          git commit -m "Update news" -a
+          git pull
+          git push origin main
+        else
+          echo "Not update any news files"
+        fi
+        exit 0
