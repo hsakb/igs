@@ -12,10 +12,8 @@ jobs:
     - name: Setting environment
       run: |
         echo "LINE_NOTIFY_TOKEN=${{ secrets.LINE_NOTIFY_TOKEN }}" >> $GITHUB_ENV
-    - name: Create data directory
-      run: |
-        mkdir -p crawler/data
-    - uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v2
     - name: Setup Python
       uses: actions/setup-python@v2
       with:
