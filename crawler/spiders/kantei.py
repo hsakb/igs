@@ -59,8 +59,8 @@ class KanteiSpider(scrapy.Spider):
         for date, date_news in news_by_date.items():
             if not os.path.exists(f'{data_dir}{date}.json'):
                 # ファイルがなければ作成
-                # with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
-                #     json.dump(date_news, f, indent=4, ensure_ascii=False)
+                with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
+                    json.dump(date_news, f, indent=4, ensure_ascii=False)
                 with open(f'crawler/data/create.json', 'w', encoding='utf-8') as f:
                     json.dump(f'{data_dir}{date}', f, indent=4, ensure_ascii=False)
 
@@ -74,8 +74,8 @@ class KanteiSpider(scrapy.Spider):
                     diff_data = [d for d in date_news if d not in previous_data]
                     if len(diff_data) > 0:
                         previous_data.extend(diff_data)
-                        # with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
-                        #     json.dump(previous_data, f, indent=4, ensure_ascii=False)
+                        with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
+                            json.dump(previous_data, f, indent=4, ensure_ascii=False)
                         with open('crawler/data/update.json', 'w', encoding='utf-8') as f:
                             json.dump(f'{data_dir}{date}', f, indent=4, ensure_ascii=False)
                         
