@@ -36,7 +36,7 @@ class KanteiSpider(scrapy.Spider):
     def parse(self, response):
         li_list= []
         
-        with open(f'./crawler/data/create.json', 'w', encoding='utf-8') as f:
+        with open(f'create.json', 'w', encoding='utf-8') as f:
             json.dump('hogehoge', f, indent=4, ensure_ascii=False)
         
         # # 官邸の1ページ目のliのリスト取得
