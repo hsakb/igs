@@ -23,7 +23,6 @@ jobs:
         pip install -r crawler/requirements.txt
     - name: Update news and notify differences
       run: |
-        mkdir -p crawler/data
         scrapy crawl kantei
     - name: Cleanup data directory
       run: |
