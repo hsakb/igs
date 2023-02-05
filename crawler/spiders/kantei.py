@@ -18,14 +18,15 @@ def format_news_for_line_notification(date, news_json):
     return formatted_news
 
 def send_line_notification(notification_contents):
-    LINE_NOTIFY_TOKEN= os.environ["LINE_NOTIFY_TOKEN"]
-    api_url = "https://notify-api.line.me/api/notify"
+    # LINE_NOTIFY_TOKEN= os.environ["LINE_NOTIFY_TOKEN"]
+    # api_url = "https://notify-api.line.me/api/notify"
 
-    send_contents = notification_contents
+    # send_contents = notification_contents
 
-    TOKEN_dic = {"Authorization": "Bearer" + " " + LINE_NOTIFY_TOKEN}
-    send_dic = {"message": send_contents}
-    requests.post(api_url, headers=TOKEN_dic, data=send_dic)
+    # TOKEN_dic = {"Authorization": "Bearer" + " " + LINE_NOTIFY_TOKEN}
+    # send_dic = {"message": send_contents}
+    # requests.post(api_url, headers=TOKEN_dic, data=send_dic)
+    print (notification_contents)
 
 class KanteiSpider(scrapy.Spider):
     name = 'kantei'
