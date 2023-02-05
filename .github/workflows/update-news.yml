@@ -24,9 +24,9 @@ jobs:
     - name: Update news and notify differences
       run: |
         scrapy crawl kantei
-    - name: Cleanup data directory
-      run: |
-        python crawler/cleanup_data_directory.py
+    # - name: Cleanup data directory
+    #   run: |
+    #     python crawler/cleanup_data_directory.py
     - name: git setting
       run: |
         git config --local user.email "action@github.com"
