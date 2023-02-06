@@ -35,7 +35,7 @@ jobs:
       id: changes
       run: |
         git add -N . 
-        echo "::set-output name=count::$(git diff --name-only | wc -l)"
+        echo "count=$(git diff --name-only | wc -l)" >> $GITHUB_OUTPUT
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
