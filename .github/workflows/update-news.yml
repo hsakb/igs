@@ -28,25 +28,20 @@ jobs:
     - name: Update news and notify differences
       run: |
         scrapy crawl kantei
-    # - name: Cleanup data directory
-    #   run: |
-    #     python crawler/cleanup_data_directory.py
-    - name: git setting
+    - name: Cleanup data directory
+      run: |
+        python crawler/cleanup_data_directory.py
+    - name: Count changes
+      id: changes
+      run: |
+        git add -N . 
+        echo "::set-output name=count::$(git diff --name-only | wc -l)"
+    - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-    - name: Commit files
-      run: |
         git add .
         git commit -m "Update news" -a
         git pull
         git push origin main
-        # if [[ `git diff --exit-code --quiet; echo $?` -eq 1 ]]; then
-        #   git add .
-        #   git commit -m "Update news" -a
-        #   git pull
-        #   git push origin main
-        # else
-        #   echo "Not update any news files"
-        # fi
-        # exit 0
+      if: steps.changes.outputs.count > 0
