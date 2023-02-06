@@ -57,19 +57,22 @@ class KanteiSpider(scrapy.Spider):
         # 日付ごとにファイル更新
         data_dir = 'crawler/data/'
         for date, date_news in news_by_date.items():
-            if not os.path.exists(f'{data_dir}{date}.json'):
-                # ファイルがなければ作成
-                with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
-                    json.dump(date_news, f, indent=4, ensure_ascii=False)
-                send_line_notification(format_news_for_line_notification(date, date_news))
-            else:
-                # ファイルがあり、かつ差分があれば追記
-                with open(f'{data_dir}{date}.json') as f:
-                    previous_data = json.load(f)
-                    diff_data = [d for d in date_news if d not in previous_data]
-                    if len(diff_data) > 0:
-                        previous_data.extend(diff_data)
-                        with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
-                            json.dump(previous_data, f, indent=4, ensure_ascii=False)
-                        # LINE Notifyで差分を通知
-                        send_line_notification(format_news_for_line_notification(date, diff_data))
+            with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
+                json.dump(date_news, f, indent=4, ensure_ascii=False)
+            send_line_notification(format_news_for_line_notification(date, date_news))
+            # if not os.path.exists(f'{data_dir}{date}.json'):
+            #     # ファイルがなければ作成
+            #     with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
+            #         json.dump(date_news, f, indent=4, ensure_ascii=False)
+            #     send_line_notification(format_news_for_line_notification(date, date_news))
+            # else:
+            #     # ファイルがあり、かつ差分があれば追記
+            #     with open(f'{data_dir}{date}.json') as f:
+            #         previous_data = json.load(f)
+            #         diff_data = [d for d in date_news if d not in previous_data]
+            #         if len(diff_data) > 0:
+            #             previous_data.extend(diff_data)
+            #             with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
+            #                 json.dump(previous_data, f, indent=4, ensure_ascii=False)
+            #             # LINE Notifyで差分を通知
+            #             send_line_notification(format_news_for_line_notification(date, diff_data))
