@@ -62,6 +62,7 @@ class KanteiSpider(scrapy.Spider):
                 with open(f'{data_dir}{date}.json', 'w', encoding='utf-8') as f:
                     json.dump(date_news, f, indent=4, ensure_ascii=False)
                 send_line_notification(format_news_for_line_notification(date, date_news))
+                print(f'[AppLog] 新規作成: {data_dir}{date}.json')
             else:
                 # ファイルがあり、かつ差分があれば追記
                 with open(f'{data_dir}{date}.json') as f:
@@ -73,3 +74,6 @@ class KanteiSpider(scrapy.Spider):
                             json.dump(previous_data, f, indent=4, ensure_ascii=False)
                         # LINE Notifyで差分を通知
                         send_line_notification(format_news_for_line_notification(date, diff_data))
+                        print(f'[AppLog] 差分追記: {data_dir}{date}.json')
+                    else:
+                        print(f'[AppLog] 差分なし: {data_dir}{date}.json')
