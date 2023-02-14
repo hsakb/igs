@@ -103,5 +103,40 @@
         "category": "国土交通省",
         "title": "「地域一体となった観光地・観光産業の再生・高付加価値化」事業の事務局にてWebサイトを開設いたしました",
         "link": "http://www.mlit.go.jp/kankocho/page06_000297.html"
+    },
+    {
+        "category": "財務省",
+        "title": "新型コロナウイルス感染症・物価高騰の影響を受けている事業者の皆様へ",
+        "link": "https://www.mof.go.jp/policy/financial_system/fiscal_finance/coronavirus-jigyousya/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和4年12月31日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "金融庁",
+        "title": "株式会社足利銀行の産業競争力強化法に基づく 事業適応計画の認定について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/ginkou/20230214/20230214.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は第４回経済安全保障推進会議を開催しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202302/14keizaianpo.html"
+    },
+    {
+        "category": "総務省",
+        "title": "松本総務大臣閣議後記者会見の概要",
+        "link": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001211.html"
+    },
+    {
+        "category": "総務省",
+        "title": "総合職事務系説明会の情報を更新しました。",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/jsougou_setumei_index2.html"
     }
 ]
