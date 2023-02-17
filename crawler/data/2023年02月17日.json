@@ -118,5 +118,25 @@
         "category": "国土交通省",
         "title": "「UNWTOベスト・ツーリズム・ビレッジ2023」を募集します！（農漁村観光地域の優良事例を募集）",
         "link": "http://www.mlit.go.jp/kankocho/page07_000070.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "私立学校法の一部を改正する法律案",
+        "link": "https://www.mext.go.jp/b_menu/houan/an/detail/mext_00041.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第63回労働政策審議会職業安定分科会雇用対策基本問題部会建設労働専門委員会資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31245.html"
+    },
+    {
+        "category": "総務省",
+        "title": "大臣官房政策評価広報課広報室 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02koho03_03004266.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会　ITU部会　放送業務委員会（第48回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/docs_Broadcast/02ryutsu08_04000524.html"
     }
 ]
