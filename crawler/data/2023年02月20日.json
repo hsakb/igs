@@ -113,5 +113,115 @@
         "category": "総務省",
         "title": "総合職事務系説明会の情報を更新しました。",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/jsougou_setumei_index2.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫歳入歳出状況（令和4年度　令和4年12月分）",
+        "link": "https://www.mof.go.jp/policy/budget/report/revenue_and_expenditure/fy2022/0412a.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和５年２月１７日（金）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00388.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年２月17日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023a/20230217-1.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「防災気象情報に関する検討会」サブワーキンググループ（第３回）の開催について",
+        "link": "https://www.jma.go.jp/jma/press/2302/20a/20230220_kentoukai_SWG03.html?253"
+    },
+    {
+        "category": "経済産業省",
+        "title": "G7デジタル・技術大臣会合公式官民イベント「デジタル・トランスフォーメーション・サミット（略称：DXサミット）」を開催します",
+        "link": "https://www.meti.go.jp/press/2022/02/20230220001/20230216001.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "香港向け家きん由来製品の輸出再開について（宮崎県及び青森県）",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/230220.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "国産ジビエ認証施設の第33号認証について（天草ジビエ倉岳加工所）",
+        "link": "https://www.maff.go.jp/j/press/nousin/tyozyu/230220.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "発散防止抑制措置特例実施許可に関する専門家検討会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-roudou_182373.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働基準法第113条の規定による公聴会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_30737.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第354回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_30746.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第38回 旧優生保護法一時金認定審査会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_0225001_00037.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第157回医学的検証作業グループ（Web会議）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31162.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第22回発散防止抑制措置特例実施許可に関する専門家検討会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31214.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第152回日本ユネスコ国内委員会（総会）の開催について",
+        "link": "https://www.mext.go.jp/unesco/001/2019/1420208_00023.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第26回キャリアコンサルタント登録制度等に関する検討会更新講習（技能講習）作業部会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_30649.html"
+    },
+    {
+        "category": "財務省",
+        "title": "産業投資現在高（令和5年1月末）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_balance/santou/santou0501.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資の実績（令和４年度）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/zaitojisseki/r04_zaitoujisseki.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金現在高（令和5年1月末）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_balance/zaiyuu/zaiyuu0501.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札結果（令和5年2月20日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/resul376.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会大学分科会（第172回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/kaisai/1422340_00027.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "初等中等教育分科会（第138回）議事録",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1422565_00025.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "北朝鮮による弾道ミサイル発射についての会見",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/statement/2023/20bura.html"
     }
 ]
