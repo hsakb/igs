@@ -88,5 +88,25 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 全国 2023年(令和5年)1月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000250.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "「東日本大震災の弔意表明について」が閣議了解されました（令和５年２月24日）",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat1/sub-cat1-23/index2.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田内閣総理大臣の談話「国民の皆様へ」を掲載しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230224danwa.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「気象業務法及び水防法の一部を改正する法律案」を閣議決定〜官民の予報を高度化し、防災に関する情報提供を充実させます〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo02_hh_000032.html"
     }
 ]
