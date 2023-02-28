@@ -118,5 +118,45 @@
         "category": "総務省",
         "title": "総合職技術系説明会の情報を更新しました。",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/isougou_setumeikai.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法制審議会第１９７回会議（令和５年２月１７日開催）",
+        "link": "http://www.moj.go.jp/shingi1/shingi03500044_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "後発医薬品品質情報No.16を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31373.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療機関等情報支援システム（G-MIS）：Gathering Medical Information System",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00130.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "ウクライナ情勢に関する外国為替及び外国貿易法に基づく措置を実施します",
+        "link": "https://www.meti.go.jp/press/2022/02/20230228004/20230228004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第47回　厚生科学審議会地域保健健康増進栄養部会（議事録）（2022年11月24日）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31484.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "野村農林水産大臣の国内出張について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/230224.html"
     }
 ]
