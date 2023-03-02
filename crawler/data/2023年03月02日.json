@@ -108,5 +108,35 @@
         "category": "警察庁",
         "title": "令和５年１月の特殊詐欺認知・検挙状況等について",
         "link": "http://www.npa.go.jp/newlyarrived/2023/20230221001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度「英知を結集した原子力科学技術・人材育成推進事業」における新規採択課題の公募開始に関するお知らせ ～課題解決型廃炉研究プログラム～",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00283.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（健康局、医薬・生活衛生局、社会・援護局（援護行政）、政策統括官（統計・情報政策、労使関係担当））募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hijoukin.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2023年3月2日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/032365/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第107回労働政策審議会労働条件分科会労災保険部会（資料)    ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31552.html"
     }
 ]
