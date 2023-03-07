@@ -1,0 +1,67 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「生産性・所得・付加価値に関する研究会」第4回会合を開催しました",
+        "link": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第77回）の入札発行（令和5年3月7日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230307.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（3月債）の発行予定額等（令和5年3月7日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230307.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202303/7_a.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融庁主催　サステナビリティ開示に係る国際カンファレンスのアーカイブ動画を専用ウェブサイトに掲載しました。",
+        "link": "https://www.fsa.go.jp/news/r4/sonota/20230207/20230207.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年3月6日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "外貨準備等の状況（令和5年2月末現在）",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0502.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和5年2月上中旬分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20230306154821.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査ー令和5年1月分結果速報",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/2301p/2301p.html"
+    },
+    {
+        "category": "総務省",
+        "title": "大臣官房秘書課障害者雇用推進室（障害者雇用） 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kanbo01_03001178.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回　データヘルス計画（国保・後期）の在り方に関する検討会の開催について（オンライン会議）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_30265.html"
+    }
+]
