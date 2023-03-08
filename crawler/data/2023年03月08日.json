@@ -223,5 +223,110 @@
         "category": "首相官邸",
         "title": "野口英世アフリカ賞受賞者訪日招へいについて",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202303/8_a.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "福岡県で確認された高病原性鳥インフルエンザの疑似患畜（国内77例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/230308_1.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "新潟県で確認された高病原性鳥インフルエンザの疑似患畜（国内78例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/230308.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年３月７日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023a/20230307-1.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "小学校高学年における教科担任制に関する事例集～小学校教育の活性化に繋げるために～（令和5年3月）",
+        "link": "https://www.mext.go.jp/a_menu/other/mext_00005.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料（発生状況、検疫事例）を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00421.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年２月の地震活動及び火山活動について",
+        "link": "https://www.jma.go.jp/jma/press/2303/08a/2302jishin.html?259"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「サイバー攻撃被害に係る情報の共有・公表ガイダンス（案）」に対する意見募集の結果及び「サイバー攻撃被害に係る情報の共有・公表ガイダンス」の公表",
+        "link": "https://www.meti.go.jp/press/2022/03/20230308006/20230308006.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "海業(うみぎょう)振興モデル地区の選定結果について",
+        "link": "https://www.jfa.maff.go.jp/j/press/keikaku/230308.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "出荷制限一覧表",
+        "link": "https://www.mhlw.go.jp/stf/kinkyu/0000030874.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "これまでの出荷制限等の解除",
+        "link": "https://www.mhlw.go.jp/stf/kinkyu/2r9852000001ddg2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の患者の発生について （検疫）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31732.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第74回 公共料金等専門調査会【3月13日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/074/kaisai/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第394回 消費者委員会本会議【3月13日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2023/394/kaisai/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の現在の状況について（令和５年３月８日版）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31729.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "2025年大阪・関西万博　「女性活躍推進館（仮称）」のパビリオン名称や建築デザイン等を発表しました",
+        "link": "https://www.meti.go.jp/press/2022/03/20230308005/20230308005.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「健康経営銘柄2023」に49社を選定しました！",
+        "link": "https://www.meti.go.jp/press/2022/03/20230308003/20230308003.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「健康経営優良法人2023」認定法人が決定しました！",
+        "link": "https://www.meti.go.jp/press/2022/03/20230308002/20230308002.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気ウォッチャー調査（令和5年2月調査）",
+        "link": "https://www5.cao.go.jp/keizai3/watcher_index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労災疾病臨床研究補助金事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労災疾病臨床研究補助金事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin_00004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労災疾病臨床研究補助金事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin_00005.html"
     }
 ]
