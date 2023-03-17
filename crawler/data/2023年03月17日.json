@@ -158,5 +158,45 @@
         "category": "厚生労働省",
         "title": "労働災害防止計画",
         "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000197308.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第3次産業活動指数（2023年1月分）",
+        "link": "https://www.meti.go.jp/statistics/tyo/sanzi/result-1.html?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "消費者庁",
+        "title": "河野大臣記者会見の動画を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/032566/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "親子のための相談LINE【厚生労働省】",
+        "link": "https://www.mhlw.go.jp/oyako-line/"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1146回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20230317.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "「ＳＮＳで実行犯を募集する手口による強盗や特殊詐欺事案に関する緊急対策プラン」　岸田総理からのメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230317message.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新しい時代の働き方に関する研究会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-roudou_558547_00021.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第１回「新しい時代の働き方に関する研究会」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31963.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療用医薬品の安定確保策に関する関係者会議（第７回）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32029.html"
     }
 ]
