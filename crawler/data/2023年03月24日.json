@@ -58,5 +58,70 @@
         "category": "法務省",
         "title": "令和４年における「人権侵犯事件」の状況について（概要）～法務省の人権擁護機関の取組～",
         "link": "http://www.moj.go.jp/JINKEN/jinken03_00215.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省関係独立行政法人の長の任命について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32196.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "専門職大学・専門職短期大学のパンフレットや、学生、企業等のインタビューページ等を掲載しました",
+        "link": "https://www.mext.go.jp/a_menu/koutou/senmon/index_pc.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政金融統計月報第848号＜対内外民間投資特集＞を掲載しました",
+        "link": "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g848/848.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2023年3月24日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/032636/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和3年度の公共建築物の木造率について",
+        "link": "https://www.rinya.maff.go.jp/j/press/riyou/230324.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食品ロス削減啓発動画を作成しました。",
+        "link": "https://www.caa.go.jp/notice/entry/032632/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「食品ロス削減関係参考資料」を更新しました",
+        "link": "https://www.caa.go.jp/notice/entry/032631/"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1147回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230324.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／内閣官房拉致問題対策本部事務局長の人事／独立行政法人北方領土問題対策協会理事長及び独立行政法人国民生活センター理事長の人事について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202303/24_a.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「自動車損害賠償保障法及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令」を閣議決定",
+        "link": "http://www.mlit.go.jp/report/press/jidosha02_hh_000560.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第5回　企画小委員会（会議資料）",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/kanmin/02shingi06_02000806.html"
+    },
+    {
+        "category": "総務省",
+        "title": "独立行政法人統計センター役員公募の結果",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000940.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "国土交通大学校からのお知らせ",
+        "link": "http://www.mlit.go.jp/page/kanbo01_hy_008884_re.html"
     }
 ]
