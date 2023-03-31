@@ -348,5 +348,145 @@
         "category": "総務省",
         "title": "令和３年度における消防職員の懲戒処分等の状況(令和３年４月1 日～令和４年３月31 日)",
         "link": "https://www.fdma.go.jp/pressrelease/houdou/2023/#066321"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「食品ロス削減自主宣言」事業者の公表について(令和5年2月末受付分)",
+        "link": "https://www.caa.go.jp/notice/entry/032780/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "住環境における高齢者の安全等に関する調査報告書を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/032779/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "原子力損害賠償・廃炉等支援機構法に基づく一般負担金年度総額及び負担金率、令和4事業年度特別負担金額、令和4事業年度廃炉等積立金の額を認可しました",
+        "link": "https://www.meti.go.jp/press/2022/03/20230331006/20230331006.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "１１月３０日は「年金の日」です！",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000052617.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和２年度および令和３年度「新生児聴覚検査の実施状況等について」の調査結果を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32451.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「大学入学者選抜の実態の把握及び分析等に関する調査研究」の報告書を掲載しました",
+        "link": "https://www.mext.go.jp/a_menu/koutou/itaku/1418400_00001.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "革新的GX技術開発小委員会（第5回）の配布資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/109/siryo/1421731_00004.htm"
+    },
+    {
+        "category": "金融庁",
+        "title": "「事務ガイドライン（第三分冊：金融会社関係）」の一部改正（案）のパブリックコメントの結果等について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/sonota/20230331-2/20230331-2.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "証券監督者国際機構（IOSCO）による「サステナビリティ関連企業報告のためのグローバルな保証フレームワークの開発に向けた国際的な作業に関する報告書」の公表について掲載しました。",
+        "link": "https://www.fsa.go.jp/inter/ios/20230331/20230331.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "無登録で暗号資産交換業を行うBitget Limitedに対して警告書を発出しました。",
+        "link": "https://www.fsa.go.jp/policy/virtual_currency02/BitgetLimited_keikokushiryo.pdf"
+    },
+    {
+        "category": "金融庁",
+        "title": "「気候変動リスク・機会の評価等に向けたシナリオ・データ関係機関懇談会」（第４回）の開催を公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/singi/20230405.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「気候変動リスク・機会の評価等に向けたシナリオ・データ関係機関懇談会」（第３回）議事次第を公表しました。",
+        "link": "https://www.fsa.go.jp/singi/scenario_data/siryou/20230309.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「気候変動リスク・機会の評価等に向けたシナリオ・データ関係機関懇談会」（第３回）議事要旨を公表しました。",
+        "link": "https://www.fsa.go.jp/singi/scenario_data/gijiyousi/20230309.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "偽造キャッシュカード等による被害発生等の状況について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/ginkou/20230331.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "ESG投信に関する「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/shouken/20230331-2/20230331-2.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "監査法人の処分について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/sonota/20230331.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "企業会計審議会総会を開催します。",
+        "link": "https://www.fsa.go.jp/news/r4/singi/20230331.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「保険会社向けの総合的な監督指針（別冊）（少額短期保険業者向けの監督指針）」の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/hoken/20230331-2/20230331-2.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「全資産担保を活用した融資・事業再生実務に関する研究会」報告書を公表しました。",
+        "link": "https://www.fsa.go.jp/common/about/research/20230331/20230331.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "高速取引行為の動向に関する資料について更新しました。",
+        "link": "https://www.fsa.go.jp/news/r2/sonota/20210630/20210630.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "自己資本比率規制等（バーゼル規制）のまとめページをリニューアルしました。",
+        "link": "https://www.fsa.go.jp/policy/basel_ii/index.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "北海道で確認された高病原性鳥インフルエンザの疑似患畜（国内82例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/230331.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「令和５年度財務省政策評価実施計画」等及び「政策評価に関する基本計画」を公表します",
+        "link": "https://www.mof.go.jp/about_mof/policy_evaluation/mof/fy2023/plan/2023keikakuhoudou.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「規制の事後評価書」を公表します（令和5年3月31日）",
+        "link": "https://www.mof.go.jp/about_mof/policy_evaluation/mof/fy2022/evaluation/202303kisei-jigohoudou.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和５年度塩需給見通し",
+        "link": "https://www.mof.go.jp/policy/tab_salt/reference/salt_forecast/st2023.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料（発生状況、検疫事例）を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00421.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症対策に係る各医療機関内の病床の確保状況・使用率等の報告を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00335.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症対策に係る各医療機関内の病床の確保状況・使用率等の報告を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00327.html"
     }
 ]
