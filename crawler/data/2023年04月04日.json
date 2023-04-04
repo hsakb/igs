@@ -23,5 +23,70 @@
         "category": "総務省",
         "title": "令和4年度における地域おこし協力隊の活動状況等",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei08_02000252.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和４年度労働政策審議会労働条件分科会報告を踏まえた労働契約法制の見直しについて（無期転換ルール及び労働契約関係の明確化）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32105.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第12回 デジタル化に伴う消費者問題ワーキング・グループ【4月4日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/digital/012/shiryou/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医薬品の迅速・安定供給実現に向けた総合対策に関する有識者検討会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-isei_ryutsu-yakka.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第370回）の入札発行（令和5年4月4日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230404.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（4月債）の発行予定額等（令和5年4月4日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230404.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札予定（令和5年4月4日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer230404.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（医政局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-iseikyoku.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第2回柔道整復療養費のオンライン請求導入等に関するワーキング・グループ議事要旨（2023年3月9日）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32477.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "福島国際研究教育機構（F-REI）設立記念シンポジウムを開催します",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat1/sub-cat1-21/20230403115556.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "ウクライナにおけるロシアの戦争犯罪等のアカウンタビリティに関するブチャ・サミット　岸田内閣総理大臣ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230231message.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／公共調達における人権尊重の取組の推進／再生可能エネルギー・水素等関係閣僚会議について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202304/4_a.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和5年2月28日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "警察庁",
+        "title": "令和５年２月の特殊詐欺認知・検挙状況等について",
+        "link": "http://www.npa.go.jp/newlyarrived/2023/20230221001.html"
     }
 ]
