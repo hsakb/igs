@@ -68,5 +68,80 @@
         "category": "総務省",
         "title": "家計調査報告（二人以上の世帯）2023年（令和5年）2月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000234.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「第105回コーデックス連絡協議会」の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/032665/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２１回「社会保障審議会企業年金・個人年金部会」の開催について（ペーパーレス開催）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32515.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2023年4月7日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/032844/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "指定棚田地域の指定について",
+        "link": "https://www.maff.go.jp/j/press/nousin/nihon/230407.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "みどりの食料システム法に基づく基盤確立事業実施計画の認定について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bio/230407.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和5年4月7日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer230407.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1150回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230407.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1151回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230407.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "外国為替及び外国貿易法に基づく北朝鮮輸出入禁止措置を延長しました",
+        "link": "https://www.meti.go.jp/press/2023/04/20230407001/20230407001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（社会・援護局（援護行政））募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-dna_kanteikensagishi.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（健康局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-kenkoukyoku.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学ファクトブック2023－「組織」対「組織」の本格的産学連携の拡大に向けて－",
+        "link": "https://www.mext.go.jp/a_menu/shinkou/sangaku/mext_00010.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "福島国際研究教育機構（F-REI）本部開所式（福島県双葉郡浪江町）［令和5年4月1日］",
+        "link": "https://www.reconstruction.go.jp/portal/chiiki/2023/20230406164544.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／我が国の対北朝鮮措置の延長について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202304/7_a.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "地域の観光圏整備実施計画を認定しました！",
+        "link": "http://www.mlit.go.jp/kankocho/page04_000208.html"
     }
 ]
