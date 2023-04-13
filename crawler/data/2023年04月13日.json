@@ -48,5 +48,45 @@
         "category": "財務省",
         "title": "G7財務大臣・中央銀行総裁声明",
         "link": "https://www.mof.go.jp/policy/international_policy/convention/g7/g7_20230412_1.pdf"
+    },
+    {
+        "category": "経済産業省",
+        "title": "中小M＆Aハンドブックを策定しました",
+        "link": "https://www.meti.go.jp/press/2020/09/20200904001/20200904001.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員(消費者庁取引対策課消費者取引対策官)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/032929/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "北朝鮮による弾道ミサイル発射について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202304/13_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（4月債）の発行予定額等（令和5年4月13日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230413.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和5年4月13日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer230413.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第379回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230413.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "柔道整復療養費に係る明細書を無償交付する施術所について",
+        "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_kouhu_sejutsusho.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "事業者のための消費者教育(新人研修向けプログラム)について",
+        "link": "https://www.caa.go.jp/notice/entry/032934/"
     }
 ]
