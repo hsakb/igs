@@ -173,5 +173,90 @@
         "category": "首相官邸",
         "title": "岸田総理は「インパクト投資とグローバルヘルスに係る研究会」有識者委員の渋澤健座長から報告書を受け取りました",
         "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202304/18syuko.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「革新的GX技術創出事業（GteX）」基本方針及び研究開発方針を公表しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/109/toushin/1388907_00001.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料（発生状況、検疫事例）を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00423.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "渡辺復興大臣記者会見録［令和５年４月18日］",
+        "link": "https://www.reconstruction.go.jp/topics/23/04/20230418144311.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "在外教育施設における教育の振興に関する施策を総合的かつ効果的に推進するための基本的な方針」を決定しました。",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01236.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和５年度における国民保護に係る国と地方公共団体の共同訓練の実施",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/2023/#066430"
+    },
+    {
+        "category": "金融庁",
+        "title": "「スチュワードシップ・コード及びコーポレートガバナンス・コードのフォローアップ会議」（第28回）議事次第を公表しました。",
+        "link": "https://www.fsa.go.jp/singi/follow-up/siryou/20230419.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融安定理事会によるサイバーインシデント報告の更なる収斂に向けた提案等に係る文書について掲載しました。",
+        "link": "https://www.fsa.go.jp/inter/fsf/20230418/20230418.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第380回)入札において追加発行した国債の銘柄",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230418a.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症治療薬の使用状況（政府確保分）について更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00324.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第76回 公共料金等専門調査会【4月25日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/076/kaisai/index.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "無登録で暗号資産交換業を行う者に対して警告書を発出しました。（株式会社ブリッジインベストメント及びクリプトカレンシーワールドワイド株式会社）",
+        "link": "https://www.fsa.go.jp/policy/virtual_currency02/kantou_keikokushiryo.pdf"
+    },
+    {
+        "category": "金融庁",
+        "title": "審判期日の予定を更新しました。",
+        "link": "https://www.fsa.go.jp/policy/kachoukin/06.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の患者の発生について （検疫）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32716.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "【再公募】令和５年度老人保健健康増進等事業（老人保健事業推進費等補助金）の国庫補助協議について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32666.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (4月18日)",
+        "link": "https://www.caa.go.jp/notice/entry/033014/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:電気こんろで火災等(4月18日)",
+        "link": "https://www.caa.go.jp/notice/entry/033021/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の現在の状況について（令和５年４月18日版）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32712.html"
     }
 ]
