@@ -83,5 +83,115 @@
         "category": "総務省",
         "title": "令和4年度地方財政審議会（3月29日）議事要旨",
         "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00468.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫歳入歳出状況（令和4年度　令和5年2月分）",
+        "link": "https://www.mof.go.jp/policy/budget/report/revenue_and_expenditure/fy2022/0502a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定石綿被害建設業務労働者等認定審査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_23508.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第15回特定石綿被害建設業務労働者等認定審査会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32647.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働災害発生状況",
+        "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「世界の記憶」国内案件に関する審査委員会（令和5年度第1回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01238.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省国立教育政策研究所非常勤職員（【障害者雇用】期間業務職員）採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00068.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "今後の教育課程、学習指導及び学習評価等の在り方に関する有識者検討会（第4回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/184/kaisai/mext_00003.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用に係る調査・安全有識者会合（令和5年4月27日）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/kaihatu/026/gijiroku/mext_00008.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法第23条第1項の規定に基づく事故等原因調査報告書(トランポリンパーク等での事故)を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/033019/"
+    },
+    {
+        "category": "金融庁",
+        "title": "職員を募集しています。（地域金融機関のモニタリング業務）",
+        "link": "https://www.fsa.go.jp/common/recruit/r5/kantoku-02/kantoku-02.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "職員を募集しています。（大手銀行のモニタリング業務）",
+        "link": "https://www.fsa.go.jp/common/recruit/r4/souri-24/souri-24.html"
+    },
+    {
+        "category": "財務省",
+        "title": "産業投資現在高（令和5年3月末）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_balance/santou/santou0503.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資の実績（令和４年度）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/zaitojisseki/r04_zaitoujisseki.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金現在高（令和5年3月末）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_balance/zaiyuu/zaiyuu0503.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度大学教育再生戦略推進費「大学の世界展開力強化事業 ～米国等との大学間交流形成支援～」の公募について（通知）",
+        "link": "https://www.mext.go.jp/a_menu/koutou/kaikaku/sekaitenkai/1413413_00027.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和5年度消費者月間関連事業を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/033052/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第3次産業活動指数（2023年2月分）",
+        "link": "https://www.meti.go.jp/statistics/tyo/sanzi/result-1.html?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員(消費者庁表示対策課景品・表示調査官)の募集",
+        "link": "https://www.caa.go.jp/notice/entry/033032/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「旧子ども家庭局」の事務はこども家庭庁に移管され、下記に移転しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32745.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和5年4月20日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result230420.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第184回）の入札結果（令和5年4月20日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230420.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "説明会情報の更新（看護系技官）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kangokei/entry/index.html"
     }
 ]
