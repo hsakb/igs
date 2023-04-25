@@ -1,0 +1,42 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "4月月例経済報告",
+        "link": "https://www5.cao.go.jp/keizai3/getsurei/getsurei-index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年4月24日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "誹謗中傷等の違法・有害情報への対策に関するワーキンググループ（第6回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/platform_service/02kiban18_02000275.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会　IPネットワーク設備委員会（第75回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/02kiban05_04000598.html"
+    },
+    {
+        "category": "総務省",
+        "title": "競争ルールの検証に関するWG(第43回)",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denkitsushin_shijo/02kiban03_04000919.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「デジタル田園都市国家インフラ整備計画（改訂版）」の公表",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban01_02000056.html"
+    }
+]
