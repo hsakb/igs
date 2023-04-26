@@ -153,5 +153,110 @@
         "category": "国土交通省",
         "title": "自動車製作者に対する行政処分を行いました",
         "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_004770.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省国立教育政策研究所非常勤職員（非常勤職員（期間業務職員））採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00069.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「第1回畜産・酪農の適正な価格形成に向けた環境整備推進会議」の開催について",
+        "link": "https://www.maff.go.jp/j/press/chikusan/suisin/230426_10.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「漬物で野菜を食べよう！」の取組について",
+        "link": "https://www.maff.go.jp/j/press/nousan/ryutu/230426.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第216回社会保障審議会介護給付費分科会（Web会議）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32838.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "コーポレートガバナンス改革の実質化に向けたアクション・プログラム （「スチュワードシップ・コード及びコーポレートガバナンス・コードのフォローアップ会議」意見書（６））を公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/singi/20230426.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "サステナビリティ情報の開示に関する特集ページを開設しました。",
+        "link": "https://www.fsa.go.jp/policy/kaiji/sustainability-kaiji.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "バングラデシュ証券取引委員会(BSEC)との金融技術協力に係る書簡交換について公表しました。",
+        "link": "https://www.fsa.go.jp/inter/etc/20230426/20230426.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年４月21日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023a/20230421-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年４月18日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023a/20230418-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣、植田日本銀行総裁共同記者会見の概要（令和５年４月13日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023a/20230413-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "Ｇ７財務大臣・中央銀行総裁会議議長国記者会見の概要（令和５年４月12日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023a/20230412-1.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチンの接種を行う医療機関へのお知らせ",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_iryoukikanheno_oshirase.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチンに係る自治体向け通知・事務連絡等",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_notifications.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "人気インテリア家具や雑貨等の公式通信販売サイトを装った偽サイトに関する注意喚起",
+        "link": "https://www.caa.go.jp/notice/entry/033042/"
+    },
+    {
+        "category": "金融庁",
+        "title": "審判期日の予定を更新しました。",
+        "link": "https://www.fsa.go.jp/policy/kachoukin/06.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の患者等の発生について （検疫）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32886.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特集第208号 産業雇用安定助成金に新たなコースを創設しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32825.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（第448回）の第II非価格競争入札結果（令和5年4月26日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230426a.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の現在の状況について（令和５年４月26日版）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32884.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "量子技術に関する最新情報を一元的に提供するポータルサイト「Q-Portal」を公開",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01242.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "サル痘の患者の発生について ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32872.html"
     }
 ]
