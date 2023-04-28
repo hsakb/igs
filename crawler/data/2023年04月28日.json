@@ -328,5 +328,145 @@
         "category": "厚生労働省",
         "title": "業務説明会のご案内（総合職人間科学区分）",
         "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/gyoumu_setumeikai.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "小野田防衛大臣政務官の海外出張予定について",
+        "link": "https://www.mod.go.jp/j/press/news/2023/04/28a.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "政府専用機の運航について",
+        "link": "https://www.mod.go.jp/j/press/news/2023/04/28c.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "浜田防衛大臣とマールズ豪副首相兼国防大臣の電話会談について",
+        "link": "https://www.mod.go.jp/j/approach/exchange/area/2023/20230428_aus-j.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "自衛隊法第８０条に基づく海上保安庁の統制要領について",
+        "link": "https://www.mod.go.jp/j/press/news/2023/04/28b.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "法令・手続等｜ブリーフィング依頼を掲載",
+        "link": "https://www.mod.go.jp/j/presiding/service/briefing/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "予算・調達｜内部部局(調達予定、発注予定)を更新",
+        "link": "https://www.mod.go.jp/j/budget/chotatsu/naikyoku/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜防衛大臣記者会見（4月28日）を掲載",
+        "link": "https://www.mod.go.jp/j/press/kisha/2023/0428a.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "防衛省の取組｜在日米軍に関する諸施策（沖縄の基地負担軽減について(グアム移転））を更新",
+        "link": "https://www.mod.go.jp/j/approach/zaibeigun/saco/iten_guam/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜市ヶ谷地区見学（市ヶ谷台ツアー）の御案内を更新",
+        "link": "https://www.mod.go.jp/j/press/ichigaya/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "防衛政策｜審議会・検討会等（防衛省ハラスメント防止対策有識者会議）を更新",
+        "link": "https://www.mod.go.jp/j/policy/agenda/meeting/harassment/index.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「国際サステナビリティ基準審議会の議論内容及び討議資料等の調査分析等」（令和４年度）の成果物について公表しました。",
+        "link": "https://www.fsa.go.jp/common/about/research/20230428-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「国際会計基準審議会等の国際会議への参加及び意見発信等」（令和４年度）の成果物について公表しました。",
+        "link": "https://www.fsa.go.jp/common/about/research/20230428-3.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「国際会計基準審議会の議論内容及び討議資料等の調査分析等」（令和４年度）の成果物について公表しました。",
+        "link": "https://www.fsa.go.jp/common/about/research/20230428-2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国家公務員一般職全体業務説明会を開催します！",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/ippanroudou_setsumeikai.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政制度分科会（令和5年4月28日開催）資料一覧",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20230428zaiseia.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "職員を募集しています。（資産運用高度化関連業務に従事する職員）",
+        "link": "https://www.fsa.go.jp/common/recruit/r5/sousei-01.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「金融商品取引法施行令の一部を改正する政令（案）」を公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/shouken/20230428/20230428.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「新型コロナウイルス感染症関連情報」特設ページを更新しました。",
+        "link": "https://www.fsa.go.jp/ordinary/coronavirus202001/press.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融機関における貸付条件の変更等の状況について更新しました。",
+        "link": "https://www.fsa.go.jp/ordinary/coronavirus202001/kashitsuke/20200430.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療機関等情報支援システム（G-MIS）：Gathering Medical Information System",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00130.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "輸出貿易管理令の一部を改正する政令案について（韓国向けの輸出管理の運用見直し）",
+        "link": "https://www.meti.go.jp/press/2023/04/20230428010/20230428010.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の患者等の発生について （検疫）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32924.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「今後の原子力政策の方向性と行動指針」を決定しました",
+        "link": "https://www.meti.go.jp/press/2023/04/20230428005/20230428005.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「不妊治療を受けながら働き続けられる職場づくりのためのマニュアル」・「不妊治療と仕事との両立サポートハンドフック」を作成しました!",
+        "link": "https://www.mhlw.go.jp/bunya/koyoukintou/pamphlet/30.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和4年産米の契約・販売状況、民間在庫の推移及び米穀販売事業者における販売数量・販売価格の動向について（令和5年3月末現在）",
+        "link": "https://www.maff.go.jp/j/press/nousan/kikaku/230428.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「漁港・漁場の施設の設計参考図書」の改訂について",
+        "link": "https://www.jfa.maff.go.jp/j/press/seibi/230428.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "コロンビア共和国にサル痘ワクチンが到着しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32917.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "新しい時代の公益法人制度の在り方に関する有識者会議「最終報告（案）」に関する意見募集（令和5年5月17日まで）について（e-Gov）",
+        "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL＆ampid=095230470＆ampMode=0"
     }
 ]
