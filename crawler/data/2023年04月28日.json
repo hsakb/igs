@@ -468,5 +468,75 @@
         "category": "内閣府",
         "title": "新しい時代の公益法人制度の在り方に関する有識者会議「最終報告（案）」に関する意見募集（令和5年5月17日まで）について（e-Gov）",
         "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL＆ampid=095230470＆ampMode=0"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチンの副反応疑い報告に関する情報を更新しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_hukuhannou-utagai-houkoku.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチンの追加接種（３回目接種）後の健康状況調査",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkoujoukyoutyousa_booster.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチンの追加接種（４回目以降）後の健康状況調査関する情報を更新しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkoujoukyoutyousa_fourth-dose.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "オミクロン株対応２価ワクチンの追加接種後の健康状況調査に関する情報が更新されました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkoujoukyoutyousa_bivalent.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチンの有効性・安全性等に関する情報が更新されました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_yuukousei_anzensei.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "永岡桂子文部科学大臣記者会見録（令和5年4月28日）",
+        "link": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00373.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外国為替平衡操作の実施状況(令和5年3月30日～令和5年4月26日)",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20230428.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「療養状況等及び入院患者受入病床数等に関する調査について」を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00023.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和4年度第2次補正予算「面的地域価値の向上・消費創出事業」の補助事業者を採択しました",
+        "link": "https://www.chusho.meti.go.jp/shogyo/shogyo/2023/230428menteki.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和元年度補正予算・令和3年度補正予算「小規模事業者持続化補助金(第11回締切分)」の補助事業者が採択されました",
+        "link": "https://www.chusho.meti.go.jp/keiei/shokibo/2023/230427jizoku.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「津波・原子力災害被災地域雇用創出企業立地補助金(商業施設等復興整備補助事業：民設商業施設整備型)」の15次公募を開始します",
+        "link": "https://www.chusho.meti.go.jp/shogyo/shogyo/2023/230427saigai.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和5年度アイヌ中小企業振興対策事業費補助金の公募結果について",
+        "link": "https://www.chusho.meti.go.jp/shogyo/chiiki/ainu/2023/230426ainu.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "関西電力に対し、小売電気事業の健全な競争を実現するための対応について指示を行いました",
+        "link": "https://www.meti.go.jp/press/2023/04/20230428009/20230428009.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「特定放射性廃棄物の最終処分に関する基本方針」が閣議決定されました",
+        "link": "https://www.meti.go.jp/press/2023/04/20230428007/20230428007.html"
     }
 ]
