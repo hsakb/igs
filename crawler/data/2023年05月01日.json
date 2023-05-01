@@ -63,5 +63,60 @@
         "category": "警察庁",
         "title": "DDoS攻撃への対策について",
         "link": "http://www.npa.go.jp/newlyarrived/2023/20230428001.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年度「SAVOR JAPAN（農泊 食文化海外発信地域）」の 募集を開始します！",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/wasyoku/230501.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "先進医療会議の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32702.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "原子力科学技術委員会（第33回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/kaisai/1418038_00004.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "消費動向調査（令和5年4月実施分）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/shouhi/shouhi.html "
+    },
+    {
+        "category": "厚生労働省",
+        "title": "資格・試験情報",
+        "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者庁電気料金アドバイザー会合について",
+        "link": "https://www.caa.go.jp/notice/entry/033165/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "広報誌「厚生労働」5月号",
+        "link": "https://www.mhlw.go.jp/stf/houdou_kouhou/kouhou_shuppan/magazine/202305.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度 特定地域づくり事業推進交付金の交付決定（第2回）",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei09_02000135.html"
+    },
+    {
+        "category": "総務省",
+        "title": "エジプト・アラブ共和国通信・情報技術省との情報通信技術・郵便分野における協力覚書の署名",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01tsushin09_02000143.html"
+    },
+    {
+        "category": "総務省",
+        "title": "新世代モバイル通信システム委員会報告（案）に対する意見募集",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000584.html"
+    },
+    {
+        "category": "総務省",
+        "title": "新世代モバイル通信システム委員会報告（案）に対する意見募集",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000586.html"
     }
 ]
