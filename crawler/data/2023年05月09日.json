@@ -78,5 +78,90 @@
         "category": "首相官邸",
         "title": "閣議の概要について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202305/9_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "業務説明会のご案内【一般職厚生行政】",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/online-gyomusetumei.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第106回コーデックス連絡協議会                (開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32741.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第154回労働政策審議会安全衛生分科会（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32974.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "デジタル学習基盤特別委員会(第1回)の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_01429.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「第106回コーデックス連絡協議会」の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/033198/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第98回社会保障審議会医療部会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32981.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "職員を募集しています。（金融モニタリング業務に従事する職員）",
+        "link": "https://www.fsa.go.jp/common/recruit/r4/souri-27/souri-27.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "鉱工業出荷内訳表、鉱工業総供給表(2023年3月分)",
+        "link": "https://www.meti.go.jp/statistics/tyo/utiwake/result-1.html?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和5年5月9日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result230509.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第370回）の入札結果（令和5年5月9日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230509.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は鉾田市訪問団による表敬を受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202305/09hyokei.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1155回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20230509.htm"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「神奈川中央交通株式会社からの一般乗合旅客自動車運送事業（乗合バス）の上限運賃変更認可申請事案」に関する答申について",
+        "link": "http://www.mlit.go.jp/report/press/unyu00_hh_000260.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年度「モーダルシフト等推進事業」(補助事業)の募集開始",
+        "link": "http://www.mlit.go.jp/report/press/tokatsu01_hh_000680.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度第1回国地方係争処理委員会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/keisou/0410keisou_20230509_00001.html"
+    },
+    {
+        "category": "総務省",
+        "title": "恩給審査会　第37回　議事要旨",
+        "link": "https://www.soumu.go.jp/menu_sosiki/singi/02onkyu01_02000078.html"
+    },
+    {
+        "category": "総務省",
+        "title": "割当方式検討タスクフォース（第4回）の開催",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denpa_DX/02kiban09_04000591.html"
     }
 ]
