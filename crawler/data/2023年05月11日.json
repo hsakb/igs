@@ -1,0 +1,67 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年5月10日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "令和4年度中 国際収支状況（速報）の概要",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2022fy.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "令和5年3月中 国際収支状況（速報）の概要",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202303.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年５月11日04時16分頃の千葉県南部の地震について",
+        "link": "https://www.jma.go.jp/jma/press/2305/11b/202305110615.html?205"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会 陸上無線通信委員会（第79回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/rikujou/02kiban14_04000947_79.html"
+    },
+    {
+        "category": "総務省",
+        "title": "5Gビジネスデザインワーキンググループ（第8回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denpa_DX/02kiban09_04000594.html"
+    },
+    {
+        "category": "総務省",
+        "title": "プラットフォームサービスに関する研究会（第44回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/platform_service/02kiban18_02000278.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和5年5月11日4時16分頃の千葉県南部の地震に伴う土砂災害警戒情報発表基準の暫定的な運用について",
+        "link": "http://www.mlit.go.jp/report/press/sabo01_hh_000147.html"
+    }
+]
