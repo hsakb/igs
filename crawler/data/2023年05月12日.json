@@ -28,5 +28,85 @@
         "category": "総務省",
         "title": "能登地方を震源とする地震による被害状況等について（第15報）",
         "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000334.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事工業生産動態統計令和５年２月分月報について",
+        "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財務総研リサーチ・ペーパー：法人企業景気予測調査の調査結果の継続性の検証",
+        "link": "https://www.mof.go.jp/insideLink/20230511170414.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政金融統計月報第849号＜国有財産特集＞を掲載しました",
+        "link": "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g849/849.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政金融統計月報第850号＜地域経済特集＞を掲載しました",
+        "link": "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g850/850.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度外国人患者受入れに資する医療機関認証制度推進事業の公募結果について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202918_00028.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第382回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230512.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1156回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230512.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1158回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230512.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和5年度第1回入院医療等の調査・評価分科会・議事録（2023年4月24日）",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000190167_00039.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和5年5月12日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer379.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第13回21世紀出生児縦断調査（平成22年出生児）を５月25日に実施します",
+        "link": "https://www.mhlw.go.jp/topics/2023/05/tp0512-01.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "21世紀出生児縦断調査（平成22年出生児）対象者のみなさまへ",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/judan/taishousha/sn_07.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "地域再生へ新たな拠点「浅野撚糸株式会社　双葉事業所」竣工式（福島県双葉郡双葉町）［令和５年４月22日］",
+        "link": "https://www.reconstruction.go.jp/portal/chiiki/2023/20230511110303.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／国家安全保障会議／岸田総理の広島県訪問について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202305/12_a.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年石川県能登地方を震源とする地震による被害に係る普通交付税（6月定例交付分）の繰上げ交付",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000340.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会　ITU部会（第21回）　開催案内",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/itu/itu_bukai_21st_schedule.html"
     }
 ]
