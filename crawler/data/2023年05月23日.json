@@ -93,5 +93,95 @@
         "category": "警察庁",
         "title": "特殊詐欺認知・検挙状況等（令和４年・確定値）について（統計データ）",
         "link": "http://www.npa.go.jp/newlyarrived/2023/20230124002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "原子力科学技術委員会　原子力研究開発・基盤・人材作業部会（第16回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/100/kaisai/1422732_00017.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "香港向け家きん由来製品の輸出再開について（北海道及び青森県）",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/230523.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年度オープンイノベーション研究・実用化推進事業のうち緊急対応課題の第1回採択結果について",
+        "link": "https://www.affrc.maff.go.jp/docs/press/230523.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第217回社会保障審議会介護給付費分科会（Web会議）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33173.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第24回過労死等防止対策推進協議会（ペーパーレス）開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33195.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和４年の労働災害発生状況を公表",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33256.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校施設の教育環境向上を図る改修等に関する課題解決事例集を公表します",
+        "link": "https://www.mext.go.jp/a_menu/shisetu/seibi/1372577_00003.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "ヒト受精胚等へのゲノム編集技術等を用いる研究に関する合同会議（再設置：第5回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu1/020/kaisai/1421789_00009.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会 調査・安全小委員会（第47回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/060/kaisai/1422158_00015.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "地震火山観測研究計画部会（第53回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu6/kaisai/1416111_00039.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "研究環境基盤部会（第113回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/kaisai/1423087_00011.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働災害発生状況",
+        "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「記述情報の開示の充実に向けた解説動画」を配信しています。",
+        "link": "https://www.fsa.go.jp/news/r4/singi/20230523/00.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和5年5月23日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result230523.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度 特定機能病院における医療安全のためのピアレビュー推進事業の公募について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202625_00007.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年物価連動国債（第28回）の入札結果（令和5年5月23日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230523.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(5月18日)",
+        "link": "https://www.caa.go.jp/notice/entry/033396/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "地方連携推進フォーラム2023 in 徳島",
+        "link": "https://www.caa.go.jp/notice/entry/033395/"
     }
 ]
