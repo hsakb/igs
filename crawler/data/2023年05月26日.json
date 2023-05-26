@@ -58,5 +58,55 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2023年(令和5年)5月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000258.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「令和3年特定商取引法・預託法等改正に係る令和5年6月1日施行に向けた事業者説明会」のアーカイブ配信開始のお知らせ",
+        "link": "https://www.caa.go.jp/notice/entry/033457/"
+    },
+    {
+        "category": "財務省",
+        "title": "ウクライナ情勢に関する外国為替及び外国貿易法に基づく措置について（令和5年5月26日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/ukrainehoudou_20230526.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「消費者志向自主宣言事業者の公表について(令和5年4月末受付分)」を掲載しました",
+        "link": "https://www.caa.go.jp/notice/entry/033416/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省（デジタル・電気・電子区分）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/den-jouhou.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1159回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230526.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1160回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230526.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年度科学技術分野の文部科学大臣表彰候補者を募集します",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/000029536.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特別用途食品の表示許可について(5月26日)",
+        "link": "https://www.caa.go.jp/notice/entry/033411/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／マイナンバーカードを利用したサービスを巡る誤登録事案への対応について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202305/26_a.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第１回社会教育人材部会の配布資料を更新しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/013/giji_list/mext_01450.html"
     }
 ]
