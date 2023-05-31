@@ -268,5 +268,105 @@
         "category": "厚生労働省",
         "title": "一般事業者からの問合せに対応できる医薬品卸売業者等について更新しました。",
         "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00296.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和５年度　水道分野における官民連携推進協議会」について年間予定を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics/bukyoku/kenkou/suido/shingi/kanmin_00037.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「DX銘柄2023」「DX注目企業2023」「DXプラチナ企業2023-2025」を選定しました！",
+        "link": "https://www.meti.go.jp/press/2023/05/20230531001/20230531001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する抗体保有状況調査について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00132.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医薬品成分を含有する製品の発見について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33372.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "預金口座の不正利用に係る情報提供件数等（令和5年3月末）について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/ginkou/20230531.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融機関における貸付条件の変更等の状況について更新しました。",
+        "link": "https://www.fsa.go.jp/ordinary/coronavirus202001/kashitsuke/20200430.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "意見投稿・情報提供・申込等フォームの一時ご利用停止について(2023年6月7日(水)18時30分～)",
+        "link": "https://www.caa.go.jp/notice/entry/033485/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "まいばすけっと株式会社の産業競争力強化法に基づく事業適応計画の変更の認定について",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/ryutu/230531.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和４年度無医地区等及び無歯科医地区等調査の公表を延期いたします",
+        "link": "https://www.mhlw.go.jp/toukei/list/76-16.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年５月30日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023a/20230530-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "国立大学法人東京大学と連携協力に関する基本協定を締結しました。",
+        "link": "https://www.fsa.go.jp/news/r4/sonota/20230531/20230531.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "株式会社かんぽ生命保険における子会社保有の認可について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/yuusei/20230531.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和５年５月３０日（火）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00416.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働基準関係法令違反に係る公表事案",
+        "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は日本経済団体連合会定時総会に出席しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202305/31nikkeidan.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国際研究交流の概況（令和3年度）",
+        "link": "https://www.mext.go.jp/a_menu/kagaku/kokusai/kouryu/1409550_00007.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の医療費の動向-MEDIAS-令和4年度1月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/month/23/01.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の医科医療費（電算処理分）の動向　令和4年度1月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2023/01/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の調剤医療費（電算処理分）の動向　令和4年度1月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/c-med/2023/01/"
+    },
+    {
+        "category": "総務省",
+        "title": "消防法施行規則及び対象火気設備等の位置、構造及び管理並びに対象火気器具等の取扱いに関する条例の制定に関する基準を定める省令の一部を改正する省令（案）等に対する意見公募の結果及び改正省令等の公布（令和５年５月31日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/2023/#066503"
     }
 ]
