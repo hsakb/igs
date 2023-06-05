@@ -58,5 +58,100 @@
         "category": "総務省",
         "title": "第113回産業統計部会",
         "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/kaigi/02shingi05_02000643.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学院部会（第110回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/004/gijiroku/1422801_00013.html"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動（令和５年６月４日-所管法人役員の任命）",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2023.6.4.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "第443回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1797.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「こどもの森づくりフォーラム」の参加者募集について",
+        "link": "https://www.rinya.maff.go.jp/j/press/sanson_ryokka/230605.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第12回匿名介護情報等の提供に関する専門委員会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33386.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会 国際宇宙ステーション・国際宇宙探査小委員会（第55回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/071/kaisai/1420358_00027.htm"
+    },
+    {
+        "category": "復興庁",
+        "title": "「心の復興」事業の令和５年度募集（第２回）について（募集案内）（令和５年６月５日）",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat2/sub-cat2-4/20230523102012.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医薬品の販売制度に関する検討会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_30972.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医薬品販売制度検討会　開催案内 - (2)",
+        "link": "https://www.mhlw.go.jp/stf/newpage_32962.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年６月６日薬事・食品衛生審議会食品衛生分科会新開発食品調査部会遺伝子組換え食品等調査会（オンライン会議）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33395.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第7回経済財政諮問会議の議事要旨【5月26日開催】",
+        "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2023/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会 (食品衛生分科会新開発食品調査部会遺伝子組換え食品等調査会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-yakuji_148834.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省初等中等教育局非常勤職員（期間業務職員）採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00071.html"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員の募集（民事局・令和５年８月採用）",
+        "link": "http://www.moj.go.jp/MINJI/houki01_00083.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "求む！国土交通行政で働く技術系社会人経験者〜令和５年度第１回国土交通省総合職（技術系）選考採用試験実施のお知らせ〜",
+        "link": "http://www.mlit.go.jp/report/press/kanbo11_hh_000132.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「第13回国土交通省国際政策推進本部」を開催〜G７交通大臣会合・都市大臣会合の準備状況を確認するとともに、国土交通省インフラシステム海外展開行動計画（令和５年版）を決定します〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo05_hh_000314.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年度推奨技術等を４技術選定〜公共工事等における新技術活用システムの取組〜",
+        "link": "http://www.mlit.go.jp/report/press/kanbo08_hh_000983.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "こどもの見落とし事故を防止するための国連基準を導入します〜道路運送車両の保安基準等及び保安基準の細目を定める告示等の一部改正について〜",
+        "link": "http://www.mlit.go.jp/report/press/jidosha10_hh_000287.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「自動車事故被害者受入環境整備事業(自動車事故対策費補助金)」の公募を6月5日（月）から開始します！〜自動車事故による重度後遺障がい者を受入れている施設等を支援します〜",
+        "link": "http://www.mlit.go.jp/report/press/jidosha02_hh_000573.html"
     }
 ]
