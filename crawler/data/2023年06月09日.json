@@ -133,5 +133,35 @@
         "category": "警察庁",
         "title": "サイバー特別捜査隊をかたる不審メールについて（注意喚起）",
         "link": "http://www.npa.go.jp/newlyarrived/2023/20230608001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令[令和５年政令第205号]",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat12/sub-cat12-1/20230607094952.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "意見募集（パブリックコメント）",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat1/sub-cat1-4/20150702103006.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "2023年度夏季の電力需給対策を決定しました",
+        "link": "https://www.meti.go.jp/press/2023/06/20230609009/20230609009.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和5年5月5日の地震による石川県珠洲市の区域に係る災害が激甚災害として指定されたことに伴い、追加の被災中小企業・小規模事業者対策を講じます",
+        "link": "https://www.meti.go.jp/press/2023/06/20230609002/20230609002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教員養成部会教科に関する専門的事項に関する検討委員会技術・情報ワーキンググループ（第2回）について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/095/kaisai/1421553_00005.html"
     }
 ]
