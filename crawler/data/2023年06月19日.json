@@ -33,5 +33,15 @@
         "category": "財務省",
         "title": "国債金利情報(令和5年6月16日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する抗体保有状況調査について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00132.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
     }
 ]
