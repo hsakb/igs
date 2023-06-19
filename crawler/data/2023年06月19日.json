@@ -43,5 +43,110 @@
         "category": "財務省",
         "title": "製造たばこの小売定価の認可",
         "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療機関等情報支援システム（G-MIS）：Gathering Medical Information System",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00130.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会(職業安定分科会労働力需給制度部会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会　指定薬物部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33570.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第265回原子爆弾被爆者医療分科会」の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33619.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "疾病・障害認定審査会原子爆弾被爆者医療分科会の開催結果について（2023年５月29日）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33621.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第６８回社会保障審議会年金事業管理部会の開催（ペーパーレス）について",
+        "link": "https://www.mhlw.go.jp/stf/kanribukai-68_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「令和の日本型学校教育」を推進する地方教育行政の充実に向けた調査研究協力者会議（第14回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/177/kaisai/mext_00010.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "今後の仕事と育児・介護の両立支援に関する研究会報告書を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33678.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（年金事業管理部会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "原子爆弾被爆者医療分科会（各回情報）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127700.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働災害発生状況",
+        "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1164回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20230619.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第5回社会保障審議会年金部会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/nenkin_230626pr.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "復興推進委員会（第42回）［令和5年6月19日］",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat7/sub-cat7-2/20230608132645.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ヒト受精胚等へのゲノム編集技術等を用いる研究に関する合同会議（再設置：第６回）（持ち回り）を開催しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33686.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２３回厚生科学審議会がん登録部会（資料）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33682.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会　理化学研究所部会（第28回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/008/kaisai/1418570_00004.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年度第１回「歩行空間の３次元地図ワーキンググループ」を開催します",
+        "link": "http://www.mlit.go.jp/report/press/sogo23_hh_000154.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年度第１回「歩行空間の移動円滑化データワーキンググループ」を開催します",
+        "link": "http://www.mlit.go.jp/report/press/sogo23_hh_000155.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "交通政策審議会 第８９回港湾分科会を開催します。",
+        "link": "http://www.mlit.go.jp/report/press/port01_hh_000265.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「めざせ！海技者セミナー」を仙台市で開催します！〜海運事業者と船員を目指す方のマッチングを支援〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji09_hh_000153.html"
     }
 ]
