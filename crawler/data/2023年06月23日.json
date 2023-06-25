@@ -448,5 +448,25 @@
         "category": "厚生労働省",
         "title": "資料",
         "link": "https://www.mhlw.go.jp/stf/newpage_33816.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "企業会計審議会第10回会計部会議事録を公表しました。",
+        "link": "https://www.fsa.go.jp/singi/singi_kigyou/gijiroku/kaikei/20230602.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "FSA Analytical Notesを公表しました。",
+        "link": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/index.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "データ一元化の進捗と今後の進め方について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/sonota/20230623/20230623.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「主要行等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等を公表しました。",
+        "link": "https://www.fsa.go.jp/news/r4/ginkou/20230623-2.html"
     }
 ]
