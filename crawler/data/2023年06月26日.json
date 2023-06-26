@@ -108,5 +108,115 @@
         "category": "国土交通省",
         "title": "観光庁の名をかたった「補助金・クーポン支給」のメールにご注意ください。",
         "link": "http://www.mlit.go.jp/kankocho/page01_000750.html"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動（令和5年6月24日）",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2023.06.24_12.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動（令和5年6月25日）",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2023.06.25_13.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動（令和5年6月26日）",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2023.06.26_14.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（人材開発統括官）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-zinzaikaihatutoukatukan.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第1回アジア・ゼロエミッション共同体（AZEC） 高級実務者会合を開催しました（仮）",
+        "link": "https://www.meti.go.jp/press/2023/06/20230626001/20230626001.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "起業家等の海外派遣プログラム「J-StarX」公式Webサイトを開設します",
+        "link": "https://www.meti.go.jp/press/2023/06/20230626002/20230626002.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "『「スピンオフ」の活用に関する手引』を改訂しました",
+        "link": "https://www.meti.go.jp/press/2023/06/20230626003/20230626003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "所属集団判定会議一覧ページ",
+        "link": "https://www.mhlw.go.jp/stf/shingi/newpage_12481.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第15回所属集団判定会議の開催",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33453.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会 海洋研究開発機構部会（第29回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/002/kaisai/1419001_00002.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会 防災科学技術研究所部会（第33回）を開催",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/009/kaisai/1417928_00013.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会 防災科学技術研究所部会（第34回）を開催",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/009/kaisai/1417928_00014.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気動向指数（令和5年4月分速報からの改訂状況）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "125回生涯学習分科会の開催案内を掲載いたしました。",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/kaisai/1422830_00017.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "各地の主要繁華街における滞留人口の状況についてを更新しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00065.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会(食品衛生分科会新開発食品調査部会新開発食品評価調査会) 指定成分等含有食品等との関連が疑われる健康被害情報への対応ワーキンググループ",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-yakuji_127894_00001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和5年7月3日指定成分等含有食品等との関連が疑われる健康被害情報への対応ワーキンググループ（第6回）（オンライン会議）の開催について ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33684.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和5年度消費者支援功労者表彰「受賞者の声」を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/033740/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者庁電気料金アドバイザー会合(第1回)について",
+        "link": "https://www.caa.go.jp/notice/entry/033165/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者庁電気料金アドバイザー会合(第2回)について",
+        "link": "https://www.caa.go.jp/notice/entry/033195/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者庁電気料金アドバイザー会合(第3回)について",
+        "link": "https://www.caa.go.jp/notice/entry/033212/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理はコロナ専門家との意見交換を行いました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202306/26ikenkoukan.html"
     }
 ]
