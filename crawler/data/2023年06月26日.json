@@ -83,5 +83,30 @@
         "category": "総務省",
         "title": "経験者採用情報を更新しました",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/keikensya_senkou_shitsuchosogo.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第9回経済財政諮問会議・第20回新しい資本主義実現会議合同会議の議事要旨【6月16日開催】",
+        "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2023/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第25回　医療用から要指導・一般用への転用に関する評価検討会議",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000198111_00023.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "観光庁の名をかたった「補助金・クーポン支給」のメールにご注意ください。",
+        "link": "http://www.mlit.go.jp/kankocho/page01_000750.html"
     }
 ]
