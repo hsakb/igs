@@ -63,5 +63,30 @@
         "category": "国土交通省",
         "title": "観光庁人事異動",
         "link": "http://www.mlit.go.jp/kankocho/news00_000001_00027.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第５回　美容師の養成のあり方に関する検討会　資料",
+        "link": "https://www.mhlw.go.jp/stf/biyoukentoukai_shiryou_dai3kai_00003.html"
+    },
+    {
+        "category": "法務省",
+        "title": "「Ｍｙじんけん宣言・性的マイノリティ編」の本格運用の開始について",
+        "link": "http://www.moj.go.jp/JINKEN/jinken04_00269.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202307/4_a.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年「情報通信に関する現状報告」（令和5年版情報通信白書）の公表",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01tsushin02_02000166.html"
     }
 ]
