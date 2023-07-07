@@ -78,5 +78,30 @@
         "category": "国土交通省",
         "title": "観光庁人事異動",
         "link": "http://www.mlit.go.jp/kankocho/news00_000001_00028.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "被災３県の元自治体の長への大臣感謝状の贈呈について",
+        "link": "https://www.reconstruction.go.jp/topics/m23/07/20230707092407.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療機関等情報支援システム（G-MIS）：Gathering Medical Information System",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00130.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／岸田総理のＮＡＴＯ首脳会合及び日ＥＵ定期首脳協議への出席について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202307/7_a.html"
+    },
+    {
+        "category": "法務省",
+        "title": "任期付職員の募集について（訟務局）",
+        "link": "http://www.moj.go.jp/shoumu/shoumukouhou/shoumu01_191122_00003.html"
+    },
+    {
+        "category": "総務省",
+        "title": "河川の陸閘（りっこう）の管理・運用に関する調査　＜結果に基づく勧告＞",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/hyouka_230707000166858.html"
     }
 ]
