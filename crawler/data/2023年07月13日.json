@@ -13,5 +13,30 @@
         "category": "総務省",
         "title": "令和5年7月13日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000974.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "The list of designated regions",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134696.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第185回）の入札発行（令和5年7月13日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230713.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "柔道整復療養費に係る明細書を無償交付する施術所について",
+        "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_kouhu_sejutsusho.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年7月12日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "６月29日からの大雨",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34139.html"
     }
 ]
