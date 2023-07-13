@@ -38,5 +38,110 @@
         "category": "厚生労働省",
         "title": "６月29日からの大雨",
         "link": "https://www.mhlw.go.jp/stf/newpage_34139.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学院部会（第110回）　議事録",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/004/gijiroku/1422799_00014.html"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動(令和5年7月13日)",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2023.07.13_28.pdf"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特定商取引法違反事業者【株式会社Liam Co., Ltd(リアム)こと上倉大和】に対する行政処分について",
+        "link": "https://www.caa.go.jp/notice/entry/034010/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会 科学技術振興機構部会（第34回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/006/kaisai/1419642_00024.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "研究開発とSociety5.0との橋渡しプログラムのうち農林水産省が実施する施策の公募及び公募説明会の実施について",
+        "link": "https://www.affrc.maff.go.jp/docs/press/230713.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第８回 毎月勤労統計調査の改善に関するワーキンググループ」（Webexによるオンライン会議）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33630.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学・高専における生成AIの教学面の取扱いについて周知しました",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2023/mext_01260.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会 宇宙航空研究開発機構部会（第25回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/005/kaisai/1419583_00009.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会 国際宇宙ステーション・国際宇宙探査小委員会（第56回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/071/kaisai/1420358_00028.htm"
+    },
+    {
+        "category": "金融庁",
+        "title": "人事異動（令和５年7月13日付）を公表しました。",
+        "link": "https://www.fsa.go.jp/common/about/jinji/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和5年7月13日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result230713.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第185回）の入札結果（令和5年7月13日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230713.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00003.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理のサウジアラビア王国、アラブ首長国連邦及びカタール国訪問について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202307/13_a.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年「海の日」海事関係功労者大臣表彰について",
+        "link": "http://www.mlit.go.jp/report/press/kanbo03_hh_000358.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和４年度完成工事の９７％以上で週休２日を達成！〜営繕工事における「週休２日促進工事」の取組状況を公表します〜",
+        "link": "http://www.mlit.go.jp/report/press/eizen02_hh_000265.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（スバル　インプレッサ）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_004843.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "改善対策の届出について（シトロエン　ベルランゴ　他）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_004845.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "自動車事故被害者･遺族団体における相談支援事業を支援します〜相談支援実施団体の２次公募を開始します〜",
+        "link": "http://www.mlit.go.jp/report/press/jidosha02_hh_000583.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "鳴瀬川水系吉田川等を特定都市河川に指定",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo05_hh_000175.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "官民物流標準化懇談会　第９回「パレット標準化推進分科会」の開催",
+        "link": "http://www.mlit.go.jp/report/press/tokatsu01_hh_000698.html"
     }
 ]
