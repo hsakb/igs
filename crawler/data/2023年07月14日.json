@@ -43,5 +43,100 @@
         "category": "総務省",
         "title": "消防庁総務課 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02shoubo01_04000067.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "令和5年度「新ハンズオン支援事業（グループ支援・個人支援）」の案件選定について",
+        "link": "https://www.reconstruction.go.jp/topics/m23/07/20230711142645.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "令和４年度　地域復興マッチング「結の場」及びイノベーション創出型「結の場」（福島）の成果について",
+        "link": "https://www.reconstruction.go.jp/topics/m23/07/20230711142819.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "令和４年度「新ハンズオン支援事業（グループ支援・個人支援）」の成果について",
+        "link": "https://www.reconstruction.go.jp/topics/m23/07/20230711142523.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事工業生産動態統計令和５年４月分月報について",
+        "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202307/14_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第386回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230714.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1169回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230714.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1171回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230714.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "「官報電子化の基本的考え方（案）」等に関する意見募集について（令和5年7月31日まで）（e-Gov）",
+        "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL＆id=095230640＆Mode=0"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「三陸・常磐ウィークス（第2弾）」を実施します",
+        "link": "https://www.meti.go.jp/press/2023/07/20230714003/20230714003.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "国民運動「ニッポンフードシフト」新企画「餃子から日本を考える。」をスタート",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/230714.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第26回社会保障審議会医療保険部会　あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会配付資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000204312_00018.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査［地方調査］－令和５年２月分結果概要",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/0502/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "業務説明会情報（一般職：デジタル・電気・電子区分）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/guidance-den-jouhou.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特別用途食品の表示許可について(7月14日)",
+        "link": "https://www.caa.go.jp/notice/entry/034041/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126708.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "夏休みに食や農林水産業について学べる会場参加型ワークショップを4年ぶりに開催！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/koho/230714.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年6月29日からの大雨による被害に係る普通交付税（9月定例交付分）の繰上げ交付",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000343.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「令和５年度 特定港湾施設整備事業基本計画」を閣議決定",
+        "link": "http://www.mlit.go.jp/report/press/port04_hh_000405.html"
     }
 ]
