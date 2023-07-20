@@ -168,5 +168,70 @@
         "category": "財務省",
         "title": "財政投融資の実績（令和５年度）",
         "link": "https://www.mof.go.jp/policy/filp/reference/zaitojisseki/r05_zaitoujisseki.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "証券監督者国際機構（IOSCO）による健全で機能的な規制に基づくカーボン市場の発展のための最終報告書を公表しました。",
+        "link": "https://www.fsa.go.jp/inter/ios/20230720/20230720.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "公認会計士の懲戒処分について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/sonota/20230720.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年受療行動調査にご協力ください",
+        "link": "https://www.mhlw.go.jp/toukei/list/34-17-2023.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "輸出産品等が日本国内とタイ王国において GI 登録されました",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chizai/230720.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和5(2023)年度内閣府年央試算",
+        "link": "https://www5.cao.go.jp/keizai1/mitoshi/mitoshi.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央最低賃金審議会 (目安に関する小委員会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第８回毎月勤労統計調査の改善に関するワーキンググループ資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33631.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第73回 ESRI-政策フォーラムの開催について【8月2日開催】 米国財政専門家と語る「米国の財政状況」",
+        "link": "https://www.esri.cao.go.jp/jp/esri/workshop/menu.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品安全委員会（第907回）の開催について【7月25日開催】",
+        "link": "https://www.fsc.go.jp/iinkai_annai/annai/annai907.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "動物用医薬品専門調査会（第265回）の開催について（非公開）【7月31日開催】",
+        "link": "https://www.fsc.go.jp/senmon/doubutu/annai/doubutu_annai_265.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "遺伝子組換え食品等専門調査会（第238回）の開催について（非公開）【7月27日開催】",
+        "link": "https://www.fsc.go.jp/senmon/idensi/annai/idensi_annai_238.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は都道府県議会議長との懇談会を開催しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202307/20todoufuken.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は千葉県の八街（やちまた）市訪問団より落花生の贈呈を受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202307/20zoutei.html"
     }
 ]
