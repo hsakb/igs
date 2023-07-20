@@ -13,5 +13,90 @@
         "category": "総務省",
         "title": "令和5年7月20日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000978.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「使用上の注意」の改訂について（令和５年度）",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000204124_00008.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "説明会情報の更新（総合職（数理・デジタル系））",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/suuri.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「ジャパン・ヘルスケアビジネスコンテスト（JHeC）2024」の開催が決定しました",
+        "link": "https://www.meti.go.jp/press/2023/07/20230720002/20230720002.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第15回 デジタル化に伴う消費者問題ワーキング・グループ【7月20日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/digital/015/shiryou/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（8月債）の発行予定額等（令和5年7月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230720.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和5年7月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer230720.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1172回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230720.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "国民生活センター(消費者トラブルFAQ)を消費者庁トップページに追加しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034099/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "日本産業規格（JIS）を制定・改正しました（2023年7月分）",
+        "link": "https://www.meti.go.jp/press/2023/07/20230720003/20230720003.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第4回「アトツギ甲子園」を開催します",
+        "link": "https://www.meti.go.jp/press/2023/07/20230720001/20230720001.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年５月分月報公表（訟務事件統計、登記統計及び人権侵犯事件統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「NPO法人消費者市民ネットおきなわ」を適格消費者団体として認定しました",
+        "link": "https://www.caa.go.jp/notice/entry/034023/"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年7月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和5年度第4回診療報酬調査専門組織入院・外来医療等の調査・評価分科会　議事次第",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000212500_00198.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第33次地方制度調査会第16回専門小委員会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chihou_seido/singi/02gyosei01_04000404_00004.html"
     }
 ]
