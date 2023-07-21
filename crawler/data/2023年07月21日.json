@@ -43,5 +43,40 @@
         "category": "文部科学省",
         "title": "文部科学省課長級ポストの公募について",
         "link": "https://www.mext.go.jp/b_menu/saiyou/mext_00089.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202307/21_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第386回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230721.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1171回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230721.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "第10回経済財政諮問会議の会議資料【7月20日開催】",
+        "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2023/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "官庁訪問（一般職：デジタル・電気・電子区分）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/guidance-den-houmon.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度科学技術基礎調査等委託事業「長大な活断層帯等で発生する地震の評価手法の高度化に関する調査研究」の公募について",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00316.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年6月29日からの大雨及び令和5年7月15日からの大雨による被害に係る普通交付税（9月定例交付分）の繰上げ交付",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000344.html"
     }
 ]
