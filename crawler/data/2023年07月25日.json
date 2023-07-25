@@ -158,5 +158,45 @@
         "category": "厚生労働省",
         "title": "麻しんについて",
         "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/measles/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "概算要求基準閣議了解（令和5年7月25日）",
+        "link": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/index.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "臨時閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202307/25_p.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "資金決済法に基づく払戻手続実施中の商品券の発行者等一覧を更新しました。",
+        "link": "https://www.fsa.go.jp/policy/prepaid/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第16回）の第II非価格競争入札結果（令和5年7月25日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230725a.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (7月25日)",
+        "link": "https://www.caa.go.jp/notice/entry/034140/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:LEDランプ(直管形)で火災等(7月25日)",
+        "link": "https://www.caa.go.jp/notice/entry/034145/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理はアメリカ合衆国のマイケル・ギルディ海軍作戦部長による表敬を受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202307/25hyokei.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第一専門調査会（第18回）の開催について（非公開）【8月2日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai1_senmon_18.html"
     }
 ]
