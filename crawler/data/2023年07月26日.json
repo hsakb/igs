@@ -48,5 +48,115 @@
         "category": "国土交通省",
         "title": "リコールの届出について（コマツ　WA320-8　他）",
         "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_004855.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第48回厚生科学審議会予防接種・ワクチン分科会（持ち回り審議）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34346.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第52回独立行政法人評価に関する有識者会議労働WG（ペーパーレス）",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000188843_00053.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第51回独立行政法人評価に関する有識者会議労働WG（ペーパーレス）",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000188843_00052.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「食品表示基準について」の一部改正について",
+        "link": "https://www.caa.go.jp/notice/entry/034154/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "先進医療会議の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34157.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度第２回医道審議会医師分科会医師臨床研修部会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34194.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回腎疾患対策及び糖尿病対策の推進に関する検討会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34195.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「住宅確保要配慮者に対する居住支援機能等のあり方に関する検討会」（第２回）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34226.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第3回「市町村における精神保健に係る相談支援体制整備の推進に関する検討チーム」開催案内 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34316.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第12期研究費部会（第3回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/051/kaisai/mext_00001.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「住宅における電気火災に係る防火安全対策検討会」の開催",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/2023/#066606"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「令和5年度病害虫発生予報第5号（水稲特集）」の発表について",
+        "link": "https://www.maff.go.jp/j/press/syouan/syokubo/230726.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "年金記録に係る訂正請求の受付・処理状況などの諸統計",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000086501.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "7月月例経済報告",
+        "link": "https://www5.cao.go.jp/keizai3/getsurei/getsurei-index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気動向指数（令和5年5月分速報からの改訂状況）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "アニマルウェルフェアに関する新たな指針の公表について",
+        "link": "https://www.maff.go.jp/j/press/chikusan/c_sinko/230726.html"
+    },
+    {
+        "category": "財務省",
+        "title": "全国財務局管内経済情勢報告概要（令和5年7月）",
+        "link": "https://www.mof.go.jp/about_mof/zaimu/kannai/202302/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央最低賃金審議会 (目安に関する小委員会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（期間業務職員（大臣官房厚生科学課）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-daizinkanboukouseikagakuka.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第4回社会教育人材部会の配布資料を更新しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/013/giji_list/mext_00003.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和６年度予算に係る新規事業採択時評価における都道府県等への意見聴取",
+        "link": "http://www.mlit.go.jp/report/press/kanbo11_hh_000134.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年度 空港における自然災害対策に関する検討委員会(第1回)を開催します〜自然災害に強い空港を目指して〜",
+        "link": "http://www.mlit.go.jp/report/press/kouku09_hh_000214.html"
     }
 ]
