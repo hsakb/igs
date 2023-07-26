@@ -13,5 +13,40 @@
         "category": "総務省",
         "title": "住民基本台帳に基づく人口、人口動態及び世帯数（令和5年1月1日現在）",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei02_02000289.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第50回独立行政法人評価に関する有識者会議労働WG（ペーパーレス） ",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000188843_00051.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第11回「新しい時代の働き方に関する研究会」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34218.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新しい時代の働き方に関する研究会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-roudou_558547_00021.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第10回経済財政諮問会議の議事要旨【7月20日開催】",
+        "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2023/index.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "国際金融センター特設ページを更新しました。",
+        "link": "https://www.fsa.go.jp/policy/financialcenter/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年7月25日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（コマツ　WA320-8　他）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_004855.html"
     }
 ]
