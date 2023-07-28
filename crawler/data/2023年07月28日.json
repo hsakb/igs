@@ -23,5 +23,120 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2023年(令和5年)7月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000263.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「戦没者の遺骨収集の推進に関する基本的な計画」の変更について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34372.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "肥料原料の備蓄に係る経済安全保障推進法に基づく供給確保計画の認定について（中部飼料株式会社、ホクレン肥料株式会社、株式会社ハイポネックスジャパン、三菱商事アグリサービス株式会社及び全国農業協同組合連合会）",
+        "link": "https://www.maff.go.jp/j/press/nousan/sizai/230728.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「消費者志向自主宣言事業者の公表について(令和5年6月末受付分)」を掲載しました",
+        "link": "https://www.caa.go.jp/notice/entry/034174/"
+    },
+    {
+        "category": "復興庁",
+        "title": "新ハンズオン支援事業「M＆ampAを活用した事業承継セミナーin仙台」の開催について",
+        "link": "https://www.reconstruction.go.jp/topics/m23/07/20230727093802.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「脱炭素成長型経済構造移行推進戦略」が閣議決定されました",
+        "link": "https://www.meti.go.jp/press/2023/07/20230728002/20230728002.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "ウクライナ情勢に関する外国為替及び外国貿易法に基づく措置を実施します（輸出貿易管理令の一部を改正）",
+        "link": "https://www.meti.go.jp/press/2023/07/20230728001/20230728001.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "意見投稿・情報提供・申込等フォームの一時ご利用停止について(2023年7月29日(土)17時00分～)",
+        "link": "https://www.caa.go.jp/notice/entry/034172/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／内閣官房副長官補の人事について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202307/28_a.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "無登録で金融商品取引業を行う者の名称等を更新しました。",
+        "link": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチンの追加購入に係るファイザー社及びモデルナ社との合意について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34457.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "野菜の生育状況及び価格見通し（令和5年8月）について",
+        "link": "https://www.maff.go.jp/j/press/nousan/engei/230728.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1173回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230728.htm"
+    },
+    {
+        "category": "復興庁",
+        "title": "福島復興再生基本方針（改定）[令和５年７月28日]",
+        "link": "https://www.reconstruction.go.jp/topics/20230727095722.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央最低賃金審議会 (目安に関する小委員会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年7月27日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和5年8月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/kashi20230728.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和5年8月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/yotaku20230728.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "新たな「国土形成計画（全国計画）」及び 「国土利用計画（全国計画）」を閣議決定",
+        "link": "http://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000239.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度 普通交付税の算定結果等",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei04_02000149.html"
+    },
+    {
+        "category": "総務省",
+        "title": "5Gビジネスデザインワーキンググループ（第10回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denpa_DX/02kiban09_04000604.html"
     }
 ]
