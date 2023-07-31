@@ -343,5 +343,55 @@
         "category": "金融庁",
         "title": "つみたてNISA対象商品届出一覧及び取扱金融機関一覧を更新しました。",
         "link": "https://www.fsa.go.jp/policy/nisa2/about/tsumitate/target/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外国為替平衡操作の実施状況(令和5年6月29日～令和5年7月27日)",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20230731.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "芹澤防衛審議官の海外出張予定について",
+        "link": "https://www.mod.go.jp/j/press/news/2023/07/31a.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "日サウジアラビア防衛相会談について",
+        "link": "https://www.mod.go.jp/j/approach/exchange/area/2023/20230731_sau-j.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "防衛省について｜木村防衛大臣政務官の動静（自衛隊高級課程合同卒業式への出席）を更新",
+        "link": "https://www.mod.go.jp/j/profile/minister/vice-minister/kimura.html#photo_20230728a"
+    },
+    {
+        "category": "防衛省",
+        "title": "防衛省について｜井野防衛副大臣の動静（フランス大使館主催イベントへの参加）を更新",
+        "link": "https://www.mod.go.jp/j/profile/minister/vice-minister/index.html#photo_20230728a"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜人事発令（7月29日付・31日付:防衛省発令（１佐職人事））を更新",
+        "link": "https://www.mod.go.jp/j/press/jinji/index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和５年７月２８日（金）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00433.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "加藤厚生労働大臣　閣議後記者会見のお知らせ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34534.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第１回「日本人の食事摂取基準（2025年版）」策定検討会　資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/newpage_34171.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は鳥取県及び島根県訪問等についての会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/statement/2023/0731kaiken.html"
     }
 ]
