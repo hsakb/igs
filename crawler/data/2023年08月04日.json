@@ -248,5 +248,55 @@
         "category": "経済産業省",
         "title": "鉱工業出荷内訳表、鉱工業総供給表(2023年6月分)",
         "link": "https://www.meti.go.jp/statistics/tyo/utiwake/result-1.html?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "首相官邸",
+        "title": "台風第６号に関する総理指示（８月４日）",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230804_shiji.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和4年度補正予算「中小企業イノベーション創出推進事業」の核融合分野の公募開始に関するお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00327.html"
+    },
+    {
+        "category": "財務省",
+        "title": "個人向け国債の応募額（令和5年7月）",
+        "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20230804.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "第409回 消費者委員会本会議【8月10日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2023/409/kaisai/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第408回 消費者委員会本会議【8月3日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2023/408/shiryou/index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法制審議会刑事法（情報通信技術関係）部会第１１回会議（令和５年８月４日開催）",
+        "link": "http://www.moj.go.jp/shingi1/shingi06100001_00094.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "更新情報",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/nenkin/nenkin/zaisei/tsumitate/info/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和４年度「厚生年金・国民年金の収支決算の概要」を公表します",
+        "link": "https://www.mhlw.go.jp/stf/houdou/0000174346_00017.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:長期使用のエアコン(室外機)についての注意喚起、リコール製品で負傷事故等(電動アシスト自転車)(8月4...",
+        "link": "https://www.caa.go.jp/notice/entry/034251/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「医薬品・医療機器等の保険適用に関する相談会」の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_28788.html"
     }
 ]
