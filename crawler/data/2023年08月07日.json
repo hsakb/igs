@@ -18,5 +18,70 @@
         "category": "財務省",
         "title": "外貨準備等の状況（令和5年7月末現在）",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0507.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和4年度食料自給率・食料自給力指標について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/230807.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第12回「新しい時代の働き方に関する研究会」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34543.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "各地の主要繁華街における滞留人口の状況についてを更新しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00065.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新しい時代の働き方に関する研究会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-roudou_558547_00021.html"
+    },
+    {
+        "category": "法務省",
+        "title": "障害を理由とする差別の解消の推進に関する法律（平成２５年法律第６５号）に基づく対応要領等の改定案に関するパブリックコメントについて",
+        "link": "http://www.moj.go.jp/hisho/shomu/hisho01_00155.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第221回社会保障審議会介護給付費分科会（Web会議）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34470.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（基準策定専門官）募集情報",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-kizyunsakuteisenmonkan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（結核感染症課 課長補佐）募集情報",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-kekkakukansensyouka_katyouhosa.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "復興庁ホームページのメンテナンスのお知らせ",
+        "link": "https://www.reconstruction.go.jp/topics/20230713150112.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（介護給付費分科会）（第206回以降）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年8月4日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "放送コンテンツの制作・流通の促進に関するワーキンググループ（第8回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu04_04000223.html"
     }
 ]
