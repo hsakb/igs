@@ -173,5 +173,95 @@
         "category": "厚生労働省",
         "title": "麻しんについて",
         "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/measles/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "公立学校施設の耐震改修状況フォローアップ調査結果",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2023/attach/1419961_00002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術・学術政策研究所「科学技術指標2023」及び「科学研究のベンチマーキング2023」の公表について",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2020/1422310_00024.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "河野大臣記者会見の動画を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034280/"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融庁広報誌「アクセスFSA」第240号を発行しました。",
+        "link": "https://www.fsa.go.jp/access/index.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "米に関するマンスリーレポート（令和5年8月号）の公表について",
+        "link": "https://www.maff.go.jp/j/press/nousan/kikaku/230808.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "出荷制限一覧表",
+        "link": "https://www.mhlw.go.jp/stf/kinkyu/0000030874.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "東都水産（株）役員から伝達を受けた者による内部者取引に対する課徴金納付命令の決定について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/shouken/20230807-2.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "（株）旅工房における有価証券報告書等の虚偽記載に対する課徴金納付命令の決定について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/shouken/20230807-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "フィッシングによるものとみられるインターネットバンキングによる預金の不正送金被害が急増しています。",
+        "link": "https://www.fsa.go.jp/ordinary/internet-bank_2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "これまでの出荷制限等の解除",
+        "link": "https://www.mhlw.go.jp/stf/kinkyu/2r9852000001ddg2.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "審判期日の予定を更新しました。",
+        "link": "https://www.fsa.go.jp/policy/kachoukin/06.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "「行政文書の管理に関するガイドライン」の改正案についての意見募集について(令和5年8月25日まで)(e-Gov)",
+        "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL＆id=095230650＆Mode=0"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第79回）の第II非価格競争入札結果（令和5年8月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230808a.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度　全国介護保険担当課長会議資料(説明動画の掲載)",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34362.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「人口動態統計月報（概数）」令和５年３月分",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2023/03.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "全国戦没者追悼式の開催（８／15（火））",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34614.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (8月8日)",
+        "link": "https://www.caa.go.jp/notice/entry/034265/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:リコール製品で火災等(電動アシスト自転車)(8月8日)",
+        "link": "https://www.caa.go.jp/notice/entry/034276/"
     }
 ]
