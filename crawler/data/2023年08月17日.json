@@ -23,5 +23,60 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "財政金融統計月報第851号＜政府関係金融機関等特集＞を掲載しました",
+        "link": "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g851/851.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第185回）の入札発行（令和5年8月17日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230817.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和5年8月17日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer230817.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第388回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230817.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1176回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230817.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会 (年金財政における経済前提に関する専門委員会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_469789.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/034345/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第５回年金財政における経済前提に関する専門委員会　開催案内 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34670.html"
+    },
+    {
+        "category": "財務省",
+        "title": "事務補助員の募集（関税局業務課）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/jimuhojo/20230817kanzei_gyomu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年8月16日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
     }
 ]
