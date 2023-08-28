@@ -13,5 +13,60 @@
         "category": "警察庁",
         "title": "痴漢・盗撮被害の申告・相談をしやすい環境を整備するための啓発パンフレットの公表について",
         "link": "http://www.npa.go.jp/newlyarrived/2023/20230822002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教師を取り巻く環境整備について緊急的に取り組むべき施策（提言）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/099/mext_01551.html"
+    },
+    {
+        "category": "財務省",
+        "title": "亀山 康子様に「気候変動に関する国際協調－国際関係論の視点から」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20230823154513.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "ノウフク・アワード2023の募集を開始します！",
+        "link": "https://www.maff.go.jp/j/press/nousin/kouryu/230828.html"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員の募集（訟務局・令和５年１０月採用）",
+        "link": "http://www.moj.go.jp/shoumu/shoumukouhou/shoumu01_200121_00004.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "職場における資産形成セミナー　～社員のファイナンシャル・ウェルネスの向上に向けて～　岸田総理大臣ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/28sisan_message.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度栄養関係功労者（食生活改善事業功労者・地区組織）厚生労働大臣表彰受賞者が決まりました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34769.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年8月25日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "「ＴＩＣＡＤ３０周年記念イベント」岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230828message_ticad.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "第２８回国際女性ビジネス会議　岸田内閣総理大臣ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230828message_woman.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会 総会（第49回）配付資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/sokai/02tsushin10_04000581.html"
     }
 ]
