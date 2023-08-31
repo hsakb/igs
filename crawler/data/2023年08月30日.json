@@ -233,5 +233,30 @@
         "category": "文部科学省",
         "title": "令和6年度文部科学省　概算要求等の発表資料一覧",
         "link": "https://www.mext.go.jp/a_menu/yosan/r01/1420668_00001.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "北朝鮮による弾道ミサイルの可能性があるものの発射事案に関する総理指示",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230830_shiji.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "藤木農林水産大臣政務官の国内出張について",
+        "link": "https://www.maff.go.jp/j/press/syouan/soumu/230830.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "西村経済産業大臣がアルゼンチン共和国のカフィエロ外務・国際通商・宗務大臣との会談を行いました",
+        "link": "https://www.meti.go.jp/press/2023/08/20230830001/20230830001.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "「挑戦する中小企業応援パッケージ」を公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/ginkou/20230830.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は燃料油価格対策等についての会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/statement/2023/0830kaiken.html"
     }
 ]
