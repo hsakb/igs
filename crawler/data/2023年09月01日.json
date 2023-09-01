@@ -23,5 +23,80 @@
         "category": "厚生労働省",
         "title": "報道発表資料　2023年9月",
         "link": "https://www.mhlw.go.jp/stf/houdou/houdou_list_202309.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外国為替及び外国貿易法に基づく資産凍結等の措置を実施します（令和5年9月1日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/kitachousenhoudou_20230901.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "広報誌「厚生労働」９月号",
+        "link": "https://www.mhlw.go.jp/stf/houdou_kouhou/kouhou_shuppan/magazine/202309.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1179回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230901.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1181回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230901.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／岸田総理のインドネシア及びインド訪問／日本ＡＳＥＡＮ友好協力５０周年特別首脳会議の開催／我が国の対北朝鮮措置について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202309/1_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "独立行政法人等役員の公募について（日本年金機構副理事長）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/dokuhou.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「令和5年10月1日からステルスマーケティングは景品表示法違反となります。」のページを掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034365/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "病床転換助成事業について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000206034.html"
+    },
+    {
+        "category": "財務省",
+        "title": "事務補助員の募集（主計局司計課）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/jimuhojo/20230901syukei_shikei.html"
+    },
+    {
+        "category": "財務省",
+        "title": "事務補助員の募集（主計局給与共済課）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/jimuhojo/20230901syukei_kyuyokyosai.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年8月31日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年度土地家屋調査士試験の出願状況を掲載しました。",
+        "link": "http://www.moj.go.jp/MINJI/minji05_00540.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "日経リスキリングサミット　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230901message.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "“地域の核となる歴史的資源の活用”に向けた専門家派遣希望地域のエントリーを開始します",
+        "link": "http://www.mlit.go.jp/kankocho/page05_000275.html"
     }
 ]
