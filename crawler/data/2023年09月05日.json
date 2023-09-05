@@ -58,5 +58,100 @@
         "category": "法務省",
         "title": "【総合職】説明会情報を更新しました！",
         "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03b.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和６年度一般会計概算要求・要望額等",
+        "link": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2024/sy050905.pdf"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(8月31日)",
+        "link": "https://www.caa.go.jp/notice/entry/034551/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「食から日本を考える。NIPPON FOOD SHIFT FES.東京 2023」を開催！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/230905.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公的職業訓練の在り方に関する研究会報告書公表",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35012.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「中古自動車の購入・売却等トラブルにご注意ください!」の ページを掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034429/"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "第4回CBDC（中央銀行デジタル通貨）に関する有識者会議　配布資料",
+        "link": "https://www.mof.go.jp/about_mof/councils/meeting_of_cbdc/4cbdchaihu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第371回）の入札結果（令和5年9月5日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20230905.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（期間業務職員（健康・生活衛生局感染症対策部）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-kansensyoutaisakubu_yobousesyuka.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "資金決済法に基づく払戻手続実施中の商品券の発行者等一覧を更新しました。",
+        "link": "https://www.fsa.go.jp/policy/prepaid/index.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（ランドローバー　レンジローバースポーツ　他）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_004894.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（ランドローバー　レンジローバー　他）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_004893.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "鉄軌道の運転事故件数 長期的に減少傾向〜鉄軌道輸送の安全に関わる情報（令和４年度）を公表〜",
+        "link": "http://www.mlit.go.jp/report/press/tetsudo08_hh_000106.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "一級建築士の懲戒処分について",
+        "link": "http://www.mlit.go.jp/report/press/house05_hh_000970.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "住宅・建築分野の生産性向上に資する技術開発を２件採択〜 「令和５年度住宅生産技術イノベーション促進事業」の採択課題の決定 〜",
+        "link": "http://www.mlit.go.jp/report/press/house04_hh_001188.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "2050 年カーボンニュートラルに向け、道路分野の取組を加速します〜カーボンニュートラル推進戦略　中間とりまとめの公表〜",
+        "link": "http://www.mlit.go.jp/report/press/road01_hh_001698.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "下水処理場の運転操作へのAI 導入に向けた課題等を議論します〜令和５年度第１回 「AI による下水処理場運転操作デジタルトランスフォーメーション（DX）検討会」の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000538.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "激甚化する災害に立ち向かうために地下空間の活用を検討します〜第４回「浸水被害軽減に向けた地下空間活用勉強会」の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo05_hh_000181.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "中央建設業審議会・社会資本整備審議会産業分科会建設部会 令和５年審議 第５回基本問題小委員会の開催〜持続可能な建設業を目指すべく、中間とりまとめ案を議論〜",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00192.html"
     }
 ]
