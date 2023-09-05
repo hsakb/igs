@@ -8,5 +8,55 @@
         "category": "総務省",
         "title": "家計調査報告（二人以上の世帯）2023年（令和5年）7月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000240.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "武蔵陵墓地における参拝の停止について（令和5年9月5日掲載）",
+        "link": "https://www.kunaicho.go.jp/info/ryoubo050905.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第371回）の入札発行（令和5年9月5日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230905.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（9月債）の発行予定額等（令和5年9月5日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230905.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202309/5_a.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "照会専門員(非常勤一般職国家公務員)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/034541/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「ALPS処理水関連の輸入規制強化を踏まえた水産業の特定国・地域依存を分散するための緊急支援事業」に関する予備費が閣議決定されました",
+        "link": "https://www.meti.go.jp/press/2023/09/20230905001/20230905001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "公募情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年9月4日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "【総合職】説明会情報を更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03b.html"
     }
 ]
