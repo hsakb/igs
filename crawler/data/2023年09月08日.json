@@ -23,5 +23,90 @@
         "category": "厚生労働省",
         "title": "毎月勤労統計調査ー令和5年7月分結果速報",
         "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/2307p/2307p.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "独立行政法人日本貿易振興機構（JETRO）に「水産品等食品輸出支援にかかる緊急対策本部」を設置します",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/230908.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "企業会計審議会委員名簿を更新しました。",
+        "link": "https://www.fsa.go.jp/singi/singi_kigyou/top.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政金融統計月報第853号＜令和5年度予算特集＞を掲載しました",
+        "link": "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g853/853.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "みどりの食料システム法に基づく基盤確立事業実施計画の認定について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bio/230908.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1181回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230908.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1182回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230908.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会 食品衛生分科会 放射性物質対策部会   ",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000151285_00004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第223回社会保障審議会介護給付費分科会（Web会議）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35028.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第55回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35097.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202309/8_a.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年９月５日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023b/20230905-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年９月１日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023b/20230901-1.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年9月7日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "第141回人口・社会統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/jinkou/kaigi/02shingi05_02000665.html"
+    },
+    {
+        "category": "総務省",
+        "title": "競争ルールの検証に関するWG（第47回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denkitsushin_shijo/02kiban03_04000955.html"
     }
 ]
