@@ -13,5 +13,70 @@
         "category": "内閣府",
         "title": "機械受注統計調査報告（令和5年7月実績）",
         "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ワンヘルス・アプローチに基づく動物由来感染症対策",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000172990.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和５年防災功労者内閣総理大臣表彰（消防関係）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/2023/#066665"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「ナッジの射程:とくしま生協におけるフィールド実験」のリサーチ・ディスカッション・ペーパーを公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034749/"
+    },
+    {
+        "category": "財務省",
+        "title": "ディスカッション・ペーパー：輸出入申告データを利用した日本の国際貿易の実態の検証",
+        "link": "https://www.mof.go.jp/insideLink/20230913093501.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第185回）の入札発行（令和5年9月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230914.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第390回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230914.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1184回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230914.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "障害者である職員の任免状況について",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/ninnmennjjoukyou.html"
+    },
+    {
+        "category": "財務省",
+        "title": "障害者活躍推進計画",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/shougai_katsuyaku.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年9月13日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年９月12日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023b/20230912-1.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第6回統計作成プロセス部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/tokeisakuseipurosesu/kaigi/02shingi05_02000662.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年防災功労者内閣総理大臣表彰（消防関係）",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02000758.html"
     }
 ]
