@@ -8,5 +8,70 @@
         "category": "総務省",
         "title": "10月は「木材利用促進月間」です",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000300.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "言語聴覚士学校養成所カリキュラム等改善検討会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-isei_533684_00010.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和4年6月下旬から7月初めの記録的な高温に地球温暖化が与えた影響に関する研究に取り組んでいます",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01287.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "言語聴覚士学校養成所カリキュラム等改善検討会　報告書",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35236.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「生産性・所得・付加価値に関する研究会」宇南山卓座長インタビュー",
+        "link": "https://www.mof.go.jp/insideLink/20230915094758.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（9月債）の発行予定額等（令和5年9月19日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230919.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第389回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230919.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202309/19_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1183回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230919.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２７回「社会保障審議会企業年金・個人年金部会」の開催について（ペーパーレス開催）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35261.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第36回「障害福祉サービス等報酬改定検討チーム」資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35273.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年9月15日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信行政・郵政行政審議会　電気通信事業部会（第137回）配布資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/denki_tsusin/02ryutsu01_04000400.html"
     }
 ]
