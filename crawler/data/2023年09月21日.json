@@ -23,5 +23,50 @@
         "category": "国土交通省",
         "title": "インフルエンザＨＡワクチンの購入（単価契約）",
         "link": "http://www.mlit.go.jp/page/kanbo07_hy_000124_re.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第6回「送料無料」表示の見直しに関する意見交換会の議事要旨を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034806/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第5回「送料無料」表示の見直しに関する意見交換会の議事要旨を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034805/"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（10月債）の発行予定額等（令和5年9月21日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20230921.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第390回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20230921.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第4回「送料無料」表示の見直しに関する意見交換会の議事要旨を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034804/"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1184回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20230921.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年9月20日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第４回　住宅確保要配慮者に対する居住支援機能等のあり方に関する検討会（資料）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35337.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "（独）鉄道・運輸機構「鉄道災害調査隊」の派遣について〜令和５年台風第13号で被災した小湊鉄道の早期復旧を支援します〜",
+        "link": "http://www.mlit.go.jp/report/press/tetsudo09_hh_000179.html"
     }
 ]
