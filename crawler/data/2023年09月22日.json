@@ -23,5 +23,120 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 全国 2023年(令和5年)8月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000266.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度高等学校卒業程度認定審査（後期）の出願が開始されます",
+        "link": "https://www.mext.go.jp/a_menu/shotou/kaikaku/index_00002.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "西村経済産業大臣は、カナダとの産業技術分野に関する協力覚書に署名しました",
+        "link": "https://www.meti.go.jp/press/2023/09/20230922001/20230920006.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "西村経済産業大臣は、カナダとの蓄電池サプライチェーンに関する協力覚書に署名しました",
+        "link": "https://www.meti.go.jp/press/2023/09/20230922002/20230922002.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "ローカルフードプロジェクト（LFP）マッチング企画「ビジネスアイディアプレゼン会」を開催します",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/kikaku/230922.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和5年9月22日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer230922.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1185回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20230922.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202309/22_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "アルコール健康障害対策関係者会議(アルコール健康障害対策関係者会議)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/0000167071_450973.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公務研究セミナーのご案内",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/koumu_seminar.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第27回社会保障審議会医療保険部会　あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会配付資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000204312_00019.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第25回社会保障審議会医療保険部会　柔道整復療養費検討専門委員会配布資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000204312_00020.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第29回アルコール健康障害対策関係者会議の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35268.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "事後評価書（租税特別措置等）",
+        "link": "https://www.mext.go.jp/a_menu/hyouka/kekka/1408678_00001.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126708.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新規コンテンツページ - (3404)職業安定分科会審議官一覧表",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126979.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "国連総会サイドイベント　訪日観光レセプション　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230922message_sideevent.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会（第137回）の開催について　【議題追加】",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo0/kaisai/1415012_00024.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年9月21日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "日本商工会議所　第１３７回通常会員総会　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230922message_nissho.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "西村経済産業大臣がカナダに出張しました",
+        "link": "https://www.meti.go.jp/press/2023/09/20230922007/20230922007.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "鳥インフルエンザA（Ｈ５Ｎ１）について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144523.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "鳥インフルエンザについて",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144461.html"
     }
 ]
