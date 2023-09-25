@@ -8,5 +8,55 @@
         "category": "総務省",
         "title": "令和5年9月25日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000987.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２７回社会保障審議会企業年金・個人年金部会　資料    ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35398.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年７月分月報公表（検察統計、婦人補導統計、矯正統計、少年矯正統計及び保護統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "任期付職員の募集について（訟務局）",
+        "link": "http://www.moj.go.jp/shoumu/shoumukouhou/shoumu01_191122_00003.html"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員の募集（大臣官房人事課・令和５年１１月採用）",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji08_00204.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年司法試験予備試験試験会場の公募について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00184.html"
+    },
+    {
+        "category": "財務省",
+        "title": "輸出入申告データを活用した共同研究に関する有識者会議（配布資料）",
+        "link": "https://www.mof.go.jp/about_mof/councils/kyoudou/haifu/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナワクチン 令和５年秋開始接種についてのお知らせを掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_autumn2023.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年9月22日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "福岡カンファレンス　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20230925message.html"
+    },
+    {
+        "category": "総務省",
+        "title": "ブロードバンドサービスに関するユニバーサルサービス制度におけるコスト算定に関する研究会（第1回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/broadband_universal/02kiban07_04000036.html"
     }
 ]
