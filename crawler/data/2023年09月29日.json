@@ -338,5 +338,150 @@
         "category": "文部科学省",
         "title": "令和4年度補正予算｢中小企業イノベーション創出推進事業（文部科学省分）｣の公募結果について",
         "link": "https://www.mext.go.jp/mext_02308.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和6年度関税改正要望事項",
+        "link": "https://www.mof.go.jp/policy/customs_tariff/tariff_reform/fy2024/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "自見大臣記者会見の動画を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/034923/"
+    },
+    {
+        "category": "復興庁",
+        "title": "土屋復興大臣記者会見録［令和５年９月29日］",
+        "link": "https://www.reconstruction.go.jp/topics/23/09/20230929174302.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "アジア・ゼロエミッション共同体（AZEC）でのJCM利活用促進に関する国際会合を開催しました",
+        "link": "https://www.meti.go.jp/press/2023/09/20230929005/20230929005.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「ものづくり・商業・サービス生産性向上促進補助金」(15次締切)の補助金交付候補者を採択しました",
+        "link": "https://www.chusho.meti.go.jp/keiei/sapoin/2023/230929mono.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「共同・協業販路開拓支援補助金(第8回)」の公募が開始されました",
+        "link": "https://www.chusho.meti.go.jp/keiei/shokibo/2023/230929hanro.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「消費者志向自主宣言事業者の公表について(令和5年8月末受付分)」を掲載しました",
+        "link": "https://www.caa.go.jp/notice/entry/034922/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定接種（国民生活・国民経済安定分野）ページを更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000108661.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定接種（医療分野）ページを更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/tokuteisessyu_iryou.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定接種（公務員）ページを更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/tokuteisessyu_koumuin.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「機能性表示食品の届出等に関するガイドライン」及び「機能性表示食品に関する質疑応答集」の一部改正について",
+        "link": "https://www.caa.go.jp/notice/entry/034921/"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融審議会「公開買付制度・大量保有報告制度等ワーキング・グループ」（第４回）議事次第を公表しました。",
+        "link": "https://www.fsa.go.jp/singi/singi_kinyu/tob_wg/shiryou/20231002.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融安定理事会による「クロスボーダー送金に関連する国際データ標準のストックテイク報告書」について公表しました。",
+        "link": "https://www.fsa.go.jp/inter/fsf/20230929/20230929.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "第５回LIBOR利用状況調査の結果概要について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/ginkou/20230929-2/20230929.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融機能強化法に基づく経営強化計画等の履行状況（令和５年３月期）について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/ginkou/20230929/20230929-1.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "第25回金融機能強化審査会の議事録を公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/ginkou/20230929/20230922-3.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融機能強化法に基づく実施計画の履行状況（令和５年３月期）について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/ginkou/20230929/20230929-4.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "経営強化計画等について公表しました。",
+        "link": "https://www.fsa.go.jp/news/r5/ginkou/20230929/20230929-2.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "第31回金融機能強化審査会 議事要旨を公表しました。",
+        "link": "https://www.fsa.go.jp/singi/soff/gijiyoshi/20230830.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "高速取引行為の動向に関する資料について更新しました。",
+        "link": "https://www.fsa.go.jp/news/r2/sonota/20210630/20210630.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "金融機関における貸付条件の変更等の状況について更新しました。（銀行分）",
+        "link": "https://www.fsa.go.jp/ordinary/coronavirus202001/kashitsuke/20200430.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和５年度能力開発基本調査」の実施について  ",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/chousa/r1/index_00003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被災３県の雇用状況について（令和５年９月分）  - (1) - (1)",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35537.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被災３県の雇用状況について（令和５年８月分）  - (1) - (1)",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35536.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年度のバター及び脱脂粉乳の輸入枠数量の検証について",
+        "link": "https://www.maff.go.jp/j/press/chikusan/c_gyunyu/230929.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第12回経済財政諮問会議の議事要旨【9月26日開催】",
+        "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2023/index.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "株式会社ベンカン機工のJIS認証取消報告がありました",
+        "link": "https://www.meti.go.jp/press/2023/09/20230929010/20230929010.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「DX銘柄2024」選定に向けた調査の実施について",
+        "link": "https://www.meti.go.jp/press/2023/09/20230929002/20230929002.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和4年産米の契約・販売状況、民間在庫の推移及び米穀販売事業者における販売数量・販売価格の動向について（令和5年8月末現在）",
+        "link": "https://www.maff.go.jp/j/press/nousan/kikaku/230929.html"
     }
 ]
