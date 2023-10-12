@@ -73,5 +73,90 @@
         "category": "財務省",
         "title": "国債金利情報(令和5年10月11日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(10月5日)",
+        "link": "https://www.caa.go.jp/notice/entry/035034/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労災疾病臨床研究補助金事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin_00067.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労災疾病臨床研究補助金事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin_00073.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労災疾病臨床研究補助金事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin_00074.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労災疾病臨床研究補助金事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin_00083.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回賃金構造基本統計調査の改善に関するワーキンググループ資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35228.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "患者申出療養評価会議の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35425.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度世界トップレベル研究拠点プログラム（WPI）の新規採択拠点を決定しました",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01294.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「2030デジタル・ライブラリー」推進に関する検討会（第2回）の開催について【オンライン会議】",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/071/kaisai/mext_00002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "研究開発基盤部会（第19回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu28/kaisai/mext_00015.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "患者申出療養評価会議",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-hoken_348199.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第7回「送料無料」表示の見直しに関する意見交換会の議事要旨を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/035011/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第8回「送料無料」表示の見直しに関する意見交換会の資料を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/035013/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札結果（令和5年10月12日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/resul384.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員（期間業務職員）の募集（大臣官房秘書課公文書監理室　令和５年１１月採用）",
+        "link": "http://www.moj.go.jp/hisho/shomu/hisho01_00345.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は第２回認知症と向き合う「幸齢社会」実現会議を開催しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202310/12ninchisho.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度「世界患者安全の日」について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_34090.html"
     }
 ]
