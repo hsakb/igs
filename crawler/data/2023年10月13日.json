@@ -283,5 +283,60 @@
         "category": "厚生労働省",
         "title": "医療機関等情報支援システム（G-MIS）：Gathering Medical Information System",
         "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00130.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "土屋復興大臣記者会見録［令和５年10月13日］",
+        "link": "https://www.reconstruction.go.jp/topics/23/10/20231013172607.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "原子力科学技術委員会（第34回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/055/shiryo/1418483_000027_00009.htm"
+    },
+    {
+        "category": "金融庁",
+        "title": "令和５年９月に開催された業界団体との意見交換会において金融庁が提起した主な論点を公表しました。",
+        "link": "https://www.fsa.go.jp/common/ronten/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "21世紀出生児縦断調査（平成13年出生児）　第21回調査",
+        "link": "https://www.mext.go.jp/b_menu/toukei/chousa08/21seiki/kekka/mext_00003.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "米に関するマンスリーレポート（令和5年10月号）の公表について",
+        "link": "https://www.maff.go.jp/j/press/nousan/kikaku/231013.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "鈴木財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和５年10月10日）を掲載しました。",
+        "link": "https://www.fsa.go.jp/common/conference/minister/2023b/20231010-1.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年産の水田における作付状況について",
+        "link": "https://www.maff.go.jp/j/press/nousan/s_taisaku/231013.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第35回全国健康福祉祭えひめ大会（ねんりんピック愛顔のえひめ２０２３）に彬子女王殿下がお成りになります",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35614.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:携帯型電気冷蔵庫(充電式)で火災等(10月13日)",
+        "link": "https://www.caa.go.jp/notice/entry/035036/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法の重大事故等に係る公表について(10月13日)",
+        "link": "https://www.caa.go.jp/notice/entry/035038/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(10月13日)",
+        "link": "https://www.caa.go.jp/notice/entry/035039/"
     }
 ]
