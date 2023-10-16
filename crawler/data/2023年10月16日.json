@@ -8,5 +8,60 @@
         "category": "文部科学省",
         "title": "文部科学省大臣官房政策課　非常勤職員（期間業務職員）採用のお知らせ",
         "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00095.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "法務省室長級ポスト（法務省保護局観察課処遇企画官）の公募について",
+        "link": "http://www.moj.go.jp/jinji/shomu/jinji05_00038.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務省室長級ポスト（法務省矯正局成人矯正課企画官）の公募について",
+        "link": "http://www.moj.go.jp/jinji/shomu/jinji05_00041.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「令和5年度消費者教育コーディネーター会議」の資料を公表しました",
+        "link": "https://www.caa.go.jp/notice/entry/035053/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和5年度産業標準化事業表彰の受賞者を発表します",
+        "link": "https://www.meti.go.jp/press/2023/10/20231016001/20231016001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（国際分類情報管理室主査）募集情報",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-kokusaibunruijohokanrisitusyusa.html"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員の募集（訟務局・令和５年１２月採用）",
+        "link": "http://www.moj.go.jp/shoumu/shoumukouhou/shoumu01_200121_00004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "説明会情報の更新（総合職（数理・デジタル系））",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/suuri.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年10月13日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（9月13日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00525.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（9月12日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00524.html"
     }
 ]
