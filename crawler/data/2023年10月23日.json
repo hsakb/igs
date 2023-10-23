@@ -23,5 +23,65 @@
         "category": "厚生労働省",
         "title": "社会保障審議会（介護給付費分科会）（第206回以降）",
         "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698.html"
+    },
+    {
+        "category": "金融庁",
+        "title": "入札公告等を更新しました。",
+        "link": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（11月債）の発行予定額等（令和5年10月23日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20231023.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "不当寄附勧誘防止法ポスターを掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/035111/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「新未来ビジョン・フォーラム」 第5回情報交換会(令和5年10月17日)を開催しました。",
+        "link": "https://www.caa.go.jp/notice/entry/035124/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第40回「障害福祉サービス等報酬改定検討チーム」資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35915.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202310/23_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第151回先進医療技術審査部会　議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35747.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年10月20日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "第１０回「富士山会合」　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20231021message.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　郵政政策部会（第34回）配付資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/02tsushin10_04000588.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第33次地方制度調査会第20回専門小委員会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chihou_seido/singi/02gyosei01_04000404_00008.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「新型コロナウイルス感染症の罹患後症状（いわゆる後遺症）に関するＱ＆Ａ」を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kouisyou_qa.html"
     }
 ]
