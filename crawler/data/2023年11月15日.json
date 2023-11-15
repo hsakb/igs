@@ -13,5 +13,80 @@
         "category": "内閣府",
         "title": "四半期別ＧＤＰ速報（2023年7-9月期・1次速報）",
         "link": "https://www.esri.cao.go.jp/jp/sna/menu.html"
+    },
+    {
+        "category": "法務省",
+        "title": "相談状況の分析（霊感商法等対応ダイヤル）を更新しました。",
+        "link": "http://www.moj.go.jp/JINKEN/jinken03_00156.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第1回 かかりつけ医機能が発揮される制度の施行に関する分科会　資料 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36156.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "【医療機関・地域関係者向け情報】JMIP取得機関から学ぶ  外国人患者増加を見据えた病院経営のポイント オンラインセミナーを開催します",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202921_00047.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "ALPS処理水の海洋放出に伴う輸出先の国又は地域における輸入規制措置等の影響を踏まえたセーフティネット保証2号を発動しました",
+        "link": "https://www.meti.go.jp/press/2023/11/20231115001/20231115001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第5回飲酒ガイドライン作成検討会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36386.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房会計課非常勤職員（時間雇用職員）採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00097.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２回 被用者保険の適用拡大に関する効果的な広報のためのアドバイザー会議・資料 ",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000212815_00039.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和5年10月26日開催）議事要旨",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20231026.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第42回「障害福祉サービス等報酬改定検討チーム」資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36399.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年11月14日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "【開催案内】第44回独立行政法人評価制度委員会・第60回評価部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000457.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（10月18日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00539.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（10月27日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00540.html"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタルビジネス拡大に向けた電波政策懇談会（第1回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_business/02kiban09_04000614.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "動物の輸入届出制度",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000069864.html"
     }
 ]
