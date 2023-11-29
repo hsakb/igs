@@ -13,5 +13,50 @@
         "category": "警察庁",
         "title": "令和6年度警察音楽隊研修会開催に伴う協力研修機関等の募集",
         "link": "http://www.npa.go.jp/newlyarrived/2023/keisatuongakutaikensyukai.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第104回社会保障審議会医療部会 _資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000210433_00051.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "第15回経済財政諮問会議の会議資料【11月28日開催】",
+        "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2023/index.html "
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年11月28日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和5年12月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/kashi20231129.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和5年12月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/yotaku20231129.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第43回「障害福祉サービス等報酬改定検討チーム」資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36629.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「防災気象情報に関する検討会」（第５回）の開催について",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo03_hh_001218.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第199回統計委員会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/kaigi/02shingi05_02000678.html"
     }
 ]
