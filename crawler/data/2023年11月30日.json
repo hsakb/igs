@@ -58,5 +58,90 @@
         "category": "総務省",
         "title": "公害等調整委員会事務局総務課 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kougai01_20231130boshu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "関税・外国為替等審議会　関税分科会　配付資料一覧(令和5年11月30日)",
+        "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/material/kana20231130.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和5年10月31日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "財務省",
+        "title": "「日本経済と資金循環の構造変化に関する研究会」第1回会合を開催しました",
+        "link": "https://www.mof.go.jp/insideLink/20231128172506.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2023年11月30日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/035541/"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（第455回）の入札発行（令和5年11月30日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20231130.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（12月債）の発行予定額等（令和5年11月30日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20231130.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1199回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20231130.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "補助金交付等の停止及び契約に係る指名停止等措置を行いました",
+        "link": "https://www.meti.go.jp/press/2023/11/20231130001/20231130001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度「わたしと年金」エッセイの受賞者を決定しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_231130.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第5回「年金動画・ポスターコンテスト」の受賞作品を決定しました  ",
+        "link": "https://www.mhlw.go.jp/stf/nenkin_contest_5_jyusyou_00002.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債の償還予定額（令和5年12月分）",
+        "link": "https://www.mof.go.jp/insideLink/20231122175541.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年11月29日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "農林水産省",
+        "title": "埼玉県における高病原性鳥インフルエンザの疑似患畜の確認及び「農林水産省鳥インフルエンザ防疫対策本部」の持ち回り開催について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/231130.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "共通基準による観光入込客統計 11月末現在の取りまとめ状況",
+        "link": "http://www.mlit.go.jp/kankocho/page02_000204.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "The list of designated regions for birds",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134696.html"
     }
 ]
