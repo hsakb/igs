@@ -58,5 +58,70 @@
         "category": "警察庁",
         "title": "捜査特別報奨金に関する広告（令和５年12月７日）",
         "link": "http://www.npa.go.jp/newlyarrived/2023/20231122001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「日ロ漁業委員会第40回会議（日ロ地先沖合漁業交渉）」の結果について",
+        "link": "https://www.jfa.maff.go.jp/j/press/kokusai/231207.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（12月債）の発行予定額等（令和5年12月7日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20231207.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第80回）の入札発行（令和5年12月7日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20231207.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1199回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20231207.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は自由民主党による日本ＡＳＥＡＮ（東南アジア諸国連合）友好協力５０周年特別首脳会議に向けた緊急提言申入れを受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202312/07teigen.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福祉行政報告例（令和５年９月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/gyousei/fukushi/m23/09.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和5年11月17日開催）議事要旨",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20231117.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年12月6日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "関税・外国為替等審議会　関税分科会　(令和5年11月7日開催) 議事録",
+        "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20231107.html"
+    },
+    {
+        "category": "総務省",
+        "title": "統計局総務課 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02toukei01_04000093.html"
     }
 ]
