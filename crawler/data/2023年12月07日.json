@@ -198,5 +198,80 @@
         "category": "首相官邸",
         "title": "岸田総理の長崎県訪問について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202312/7_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和５年度   第４回水道分野における官民連携推進協議会」について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics/bukyoku/kenkou/suido/shingi/kanmin_00049s.html"
+    },
+    {
+        "category": "財務省",
+        "title": "ASEAN+3財務大臣・中央銀行総裁代理会議等の開催について（令和5年12月6日～7日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/other/20231207.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第6回 食物アレルギー表示に関するアドバイザー会議の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/035576/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和５年度   第４回水道分野における官民連携推進協議会」について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics/bukyoku/kenkou/suido/shingi/kanmin_00047.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療機能情報提供制度（医療情報ネット）について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/teikyouseido/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第418回 消費者委員会本会議【12月6日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2023/418/shiryou/index.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は第１回全国高校生政策甲子園最優秀チームによる表敬を受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202312/07hyokei.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第80回）の第II非価格競争入札結果（令和5年12月7日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20231207a.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (12月07日)",
+        "link": "https://www.caa.go.jp/notice/entry/035622/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法の重大事故等に係る公表について(12月7日)",
+        "link": "https://www.caa.go.jp/notice/entry/035623/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(12月7日)",
+        "link": "https://www.caa.go.jp/notice/entry/035624/"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第五専門調査会（第25回）の開催について（非公開）【12月15日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai5_senmon_25.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "プリオン専門調査会（第127回）の開催について【12月15日開催】",
+        "link": "https://www.fsc.go.jp/senmon/prion/annai/prion_annai_127.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第四専門調査会（第28回）の開催について（非公開）【12月14日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai4_senmon_28.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品安全委員会（第923回）の開催について【12月12日開催】",
+        "link": "https://www.fsc.go.jp/iinkai_annai/annai/annai923.html"
     }
 ]
