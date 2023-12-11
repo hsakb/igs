@@ -23,5 +23,105 @@
         "category": "内閣府",
         "title": "法人企業景気予測調査（令和5年10-12月期）",
         "link": "https://www.esri.cao.go.jp/jp/stat/hojin/menu_hojin.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療保険部会（令和６年～）各回情報",
+        "link": "https://www.mhlw.go.jp/stf/newpage_28708.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "選考採用試験（係長級・一般職相当）【文教施設企画・防災部】の応募受付を開始しました",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/sonota/1416615_00014.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度文部科学省選考採用試験（係長級・一般職相当）について",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/sonota/1422427_00042.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "選考採用試験(一般職・係長)の応募を開始いたしました。",
+        "link": "https://www.caa.go.jp/notice/entry/035649/"
+    },
+    {
+        "category": "法務省",
+        "title": "ウクライナ汚職対策タスクフォース第一回会合を開催しました。",
+        "link": "https://www.moj.go.jp/hisho/kouhou/hisho06_01000.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "日本ＡＳＥＡＮ友好協力５０周年特別首脳会議の開催について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202312/11_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度診療報酬改定の基本方針 ",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000187434_00004.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第1回解約料の実態に関する研究会の資料を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/035643/"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1202回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20231211.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第10回社会保障審議会年金部会、第30回社会保障審議会企業年金・個人年金部会（合同開催）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36778.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第235回社会保障審議会介護給付費分科会-資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36781.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "核融合科学技術委員会 原型炉開発総合戦略タスクフォース（第31回）　議事録",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/078/gijiroku/1422482_00006.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "核融合科学技術委員会（第36回）議事録",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/074/gijiroku/1419654_00010.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会(年金部会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126721.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（介護給付費分科会）（第206回以降）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年12月8日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "第44回独立行政法人評価制度委員会　議事概要",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000462.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第60回独立行政法人評価制度委員会評価部会　議事概要",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000463.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「今後目指すべき地方財政の姿と令和6年度の地方財政への対応等についての意見」の提出",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000355.html"
+    },
+    {
+        "category": "総務省",
+        "title": "統計局総務課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02toukei01_04000089.html"
     }
 ]
