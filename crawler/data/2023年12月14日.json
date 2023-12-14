@@ -13,5 +13,30 @@
         "category": "内閣府",
         "title": "機械受注統計調査報告（令和5年10月実績）",
         "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html "
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第186回）の入札発行（令和5年12月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20231214.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "セミコン・ジャパン２０２３　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20231214_semicon_message.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "柔道整復療養費に係る明細書を無償交付する施術所について",
+        "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_kouhu_sejutsusho.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年12月13日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "日ＡＳＥＡＮヤングビジネスリーダーズサミット　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20231214message_asean_young.html"
     }
 ]
