@@ -3,5 +3,105 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "臨時事務補助員(総務課管理室)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/035799/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬局・薬剤師の機能強化等に関する検討会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36868.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第６回特定受託事業者の就業環境の整備に関する検討会の資料を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37072.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定受託事業者の就業環境の整備に関する検討会- (1)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-kintou_449523_00002.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "令和６年度　復興庁　市町村応援職員募集",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat9/sub-cat9-3/20171219092156.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度 第１回 薬事・食品衛生審議会 薬事分科会 化学物質安全対策部会 家庭用品安全対策調査会　配付資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36670.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第98回社会保障審議会年金数理部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000198131_00029.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（調査分析専門官）募集情報",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-tyousabunsekisenmonkan.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年１０月分月報公表（検察統計、婦人補導統計、矯正統計、少年矯正統計及び保護統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "「心の復興」事業の令和６年度募集（第１回）について（募集案内）（令和５年12月25日）",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat2/sub-cat2-4/20231220104858.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会 (年金数理部会)開催一覧",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126720.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年12月22日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医薬品安定供給支援補助金（医薬品安定供給体制緊急整備事業）　実施事業者の公募について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37018.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和５年一級建築士試験「設計製図の試験」の合格者を決定〜3,401人の合格者、33.2％の合格率〜",
+        "link": "http://www.mlit.go.jp/report/press/house05_hh_000985.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "231225令和５年一級建築士試験「設計製図の試験」の合格者を決定〜3,401人の合格者、33.2％の合格率〜",
+        "link": "http://www.mlit.go.jp/report/press/house05_hh_000985.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第117回産業統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/kaigi/02shingi05_02000683.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "特殊詐欺の電子マネー型交付形態における認知件数等の推移について",
+        "link": "http://www.npa.go.jp/newlyarrived/2023/20231218001.html"
     }
 ]
