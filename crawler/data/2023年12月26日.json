@@ -118,5 +118,145 @@
         "category": "総務省",
         "title": "公共放送ワーキンググループ（第17回）配布資料",
         "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu07_04000436.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "スノースポーツ中の事故に注意 ― スキー・スノーボードの事故を中心に ― ",
+        "link": "https://www.caa.go.jp/notice/entry/035837/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "2024年度に向けた業種・分野別 物流の適正化・生産性向上に関する「自主行動計画」を公表しました",
+        "link": "https://www.meti.go.jp/press/2023/12/20231226001/20231226001.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "関西電力株式会社に対する業務改善勧告を行いました",
+        "link": "https://www.meti.go.jp/press/2023/12/20231226003/20231226003.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "鹿児島県出水市で発生した高病原性鳥インフルエンザ（国内4例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/231226_3.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "野菜の生育状況及び価格見通し（令和6年1月）について",
+        "link": "https://www.maff.go.jp/j/press/nousan/engei/231226.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "第11回「食品産業もったいない大賞」の受賞者決定！",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/recycle/231226.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "株式会社平和堂におけるさば加工品の不適正表示に対する措置について",
+        "link": "https://www.maff.go.jp/j/press/syouan/kansa/231226.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "チリからの家きん肉等の一時輸入停止措置の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/231226.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「食から日本を考える。NIPPON FOOD SHIFT FES.大阪」を開催！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/231226.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農林水産省物流対策本部」の設置について",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/ryutu/231226.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "2024年度に向けた業種・分野別 物流の適正化・生産性向上に関する「自主行動計画」を公表しました",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/ryutu/231226_12.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "がん研究10か年戦略（第５次）について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/gan/gan_kenkyu.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第66回　労働政策審議会雇用環境・均等分科会」（ハイブリット会議）の資料を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療施設動態調査（令和５年10月末概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m23/is2310.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和5年度　地域医療介護総合確保基金（介護分）の内示（１回目）について",
+        "link": "https://www.mhlw.go.jp/stf/kikin_R5_1_00004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第237回社会保障審議会介護給付費分科会（持ち回り）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37075.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第130回労働政策審議会障害者雇用分科会（資料）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37097.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会建議「仕事と育児・介護の両立支援対策の充実について」を公表します",
+        "link": "https://www.mhlw.go.jp/stf/houdou/0000073981_00011.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第66回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37110.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "私立大学等の令和5年度入学者に係る学生納付金等調査結果について",
+        "link": "https://www.mext.go.jp/a_menu/koutou/shinkou/07021403/1412031_00005.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房会計課非常勤職員（時間雇用職員）採用のお知らせ（令和6年4月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00100.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央社会保険医療協議会診療報酬調査専門組織（入院・外来医療等の調査・評価分科会）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_36860.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央社会保険医療協議会（中央社会保険医療協議会診療報酬調査専門組織（入院・外来医療等の調査・評価分科会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128166-2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会 (障害者雇用分科会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126985.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "年金記録に係る訂正請求の受付・処理状況などの諸統計",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000086501.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（介護給付費分科会）（第206回以降）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "指定難病患者データベース及び小児慢性特定疾病児童等データベースに関する自治体向け周知",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/nanbyou/index_00004.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "土屋復興大臣記者会見録［令和５年12月26日］",
+        "link": "https://www.reconstruction.go.jp/topics/23/12/20231226131713.html"
     }
 ]
