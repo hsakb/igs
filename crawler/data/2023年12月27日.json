@@ -18,5 +18,90 @@
         "category": "財務省",
         "title": "貿易統計(令和5年12月上旬分速報)【税関ホームページ】",
         "link": "https://www.mof.go.jp/outside_link/20231226095633.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "技能者表彰実施要領を掲載しました（「卓越した技能者（現代の名工）」表彰制度）",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/meikou/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "内閣府の所管する消費者庁関係法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則の一部を改正する内閣府令(案)に関する御...",
+        "link": "https://www.caa.go.jp/notice/entry/035858/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「消費者志向自主宣言事業者の公表について(令和5年12月27日時点)」を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/035857/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第７回年金財政における経済前提に関する専門委員会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37073.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第237回社会保障審議会介護給付費分科会-資料 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37076.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "「被災者支援コーディネート」事業の令和６年度募集について（募集案内）（令和５年12月27日）",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat2/cdn/20231226104010.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員(消費者庁表示対策課景品・表示調査官)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/035831/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会 (年金財政における経済前提に関する専門委員会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_469789.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（介護給付費分科会）（第206回以降）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は大韓民国の金振杓（キム・ジンピョ）国会議長一行による表敬を受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202312/27hyokei.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和5年12月26日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年1月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/kashi20231227.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年1月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/yotaku20231227.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療機関等情報支援システム（G-MIS）：Gathering Medical Information System",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00130.html"
+    },
+    {
+        "category": "総務省",
+        "title": "放送コンテンツの制作・流通の促進に関するワーキンググループ（第10回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu04_04000228.html"
     }
 ]
