@@ -53,5 +53,30 @@
         "category": "首相官邸",
         "title": "岸田総理は令和６年能登半島地震についての会見を行いました",
         "link": "https://www.kantei.go.jp/jp/101_kishida/statement/2024/0102kaiken.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年能登半島地震に伴う被害について（1月2日（火曜日）17:00時点）",
+        "link": "https://www.meti.go.jp/press/2023/01/20240102004/20240102004.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年能登半島地震について",
+        "link": "https://www.mext.go.jp/a_menu/notohantoujisin/index.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "海上保安庁JA722Aと日本航空JAL516便衝突に関する総理指示（１８：０５）",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240102_shiji.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "石川県の港湾における国による港湾施設の一部管理について〜令和６年能登半島地震における対応〜",
+        "link": "http://www.mlit.go.jp/report/press/port07_hh_000204.html"
+    },
+    {
+        "category": "総務省",
+        "title": "石川県能登地方を震源とする地震による被害状況等について（第12報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000343.html"
     }
 ]
