@@ -23,5 +23,30 @@
         "category": "総務省",
         "title": "石川県能登地方を震源とする地震による被害状況等について（第13報）",
         "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000343.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年能登半島地震に伴う被害について（1月3日（水曜日）11:00時点）",
+        "link": "https://www.meti.go.jp/press/2023/01/20240103002/20240103002.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年能登半島地震に関して被災中小企業・小規模事業者向けの当面の貸付業務について要請しました",
+        "link": "https://www.meti.go.jp/press/2023/01/20240103003/20240103003.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は令和６年能登半島地震についての会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/statement/2024/0103kaiken.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は第２回令和６年能登半島地震に関する非常災害対策本部会議を開催しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202401/03kaigi.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "石川県能登地方を震源とする地震（第９報）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37198.html"
     }
 ]
