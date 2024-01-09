@@ -13,5 +13,100 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2023年(令和5年)12月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000273.html"
+    },
+    {
+        "category": "法務省",
+        "title": "非常勤職員（パートタイム弁護士）の募集（大臣官房国際課　令和６年６月採用）",
+        "link": "http://www.moj.go.jp/kokusai/kokusai01_00011.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「都道府県労働局からのお知らせ」（滋賀局）を更新しました。",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（期間業務職員(社会・援護局（社会）)募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-syakaikyoku.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「令和６年能登半島地震関連情報」を更新しました",
+        "link": "https://www.mof.go.jp/insideLink/20240109111949.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "令和５年度「新しい東北」復興・創生の星顕彰の選定結果について（令和６年１月９日）",
+        "link": "https://www.reconstruction.go.jp/topics/m24/01/20240105151607.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「みどり戦略学生チャレンジ（全国版）」の参加登録を開始します！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kankyo/240109.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（1月債）の発行予定額等（令和6年1月9日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240109.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和6年1月9日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240109.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "意見募集",
+        "link": "https://www.mhlw.go.jp/public/bosyuu/iken/p20240109-01.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1205回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240109.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "石川県能登地方を震源とする地震（第22報）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37198.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（遺骨鑑定専門官）募集情報",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-ikotukanteisenmonkan.html"
+    },
+    {
+        "category": "財務省",
+        "title": "公募(使用許可相手方選定）公告",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubokoukoku/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「イノベーション創出のための学びと社会連携推進に関する研究会」を立ち上げます",
+        "link": "https://www.meti.go.jp/press/2023/01/20240109001/20240109001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年1月5日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "総合通信基盤局電気通信技術システム課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kiban05_04000644.html"
+    },
+    {
+        "category": "総務省",
+        "title": "石川県能登地方を震源とする地震による被害状況等について（第26報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000356.html"
     }
 ]
