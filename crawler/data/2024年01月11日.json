@@ -28,5 +28,100 @@
         "category": "総務省",
         "title": "令和6年能登半島地震に係る被害状況等について（第30報）",
         "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000361.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省総合教育政策局非常勤職員（時間雇用職員）採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1422427_00004.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "マニー株式会社が「コーポレートガバナンス・オブ・ザ・イヤー2023」経済産業大臣賞を受賞しました",
+        "link": "https://www.meti.go.jp/press/2023/01/20240111001/20240110001.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年能登半島地震の被災地に関する中小企業診断士試験の救済措置を行います",
+        "link": "https://www.meti.go.jp/press/2023/01/20240111005/20240111005.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "齋藤経済産業大臣がカザフスタンのサトカリエフ・エネルギー大臣とオンライン会談を行いました",
+        "link": "https://www.meti.go.jp/press/2023/01/20240109006/20240109006.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（1月債）の発行予定額等（令和6年1月11日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240111.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1207回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240111.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和6年1月11日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer387.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年能登半島地震に伴う雇用調整助成金の特例を実施します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37290.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "障害のある方への情報保障や意思疎通への配慮に取り組みます",
+        "link": "https://www.meti.go.jp/press/2023/01/20240111002/20240111002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度建築物環境衛生功労者に対する厚生労働大臣表彰について",
+        "link": "https://www.mhlw.go.jp/stf/seiei_daijinhyosyo_00014.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特別用途食品の表示許可について(1月11日)",
+        "link": "https://www.caa.go.jp/notice/entry/035956/"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "岐阜県で確認された高病原性鳥インフルエンザの疑似患畜（国内6例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/240110_3.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "群馬県で確認された高病原性鳥インフルエンザの疑似患畜（国内5例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/240110.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年1月10日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "国土交通省",
+        "title": "今後の本格復旧に向けて、災害査定の効率化を図ります〜大規模災害時の災害査定の効率化（簡素化）及び事前ルールを適用します〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000280.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（12月5日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00551.html"
+    },
+    {
+        "category": "総務省",
+        "title": "上限価格方式の運用に関する研究会（第6回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/maximum-price_method_r04/02kiban03_04000990.html"
     }
 ]
