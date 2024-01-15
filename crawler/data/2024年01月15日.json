@@ -308,5 +308,60 @@
         "category": "文部科学省",
         "title": "令和6年能登半島地震について（被害情報（第15次報）1/15  12:00時点）を掲載しました",
         "link": "https://www.mext.go.jp/a_menu/notohantoujisin/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第3回医師等医療機関職員の働き方改革推進本部の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37379.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "北朝鮮のミサイル等関連情報（速報）",
+        "link": "https://www.mod.go.jp/j/press/news/2024/01/14a.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "北朝鮮のミサイル等関連情報（続報）",
+        "link": "https://www.mod.go.jp/j/press/news/2024/01/14b.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "日イタリア防衛当局間協議の開催（結果）",
+        "link": "https://www.mod.go.jp/j/approach/exchange/area/2024/20240111_ita-j.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜防衛大臣記者会見（1月12日）を掲載",
+        "link": "https://www.mod.go.jp/j/press/kisha/2024/0112a.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜叙勲等受章者（外国人叙勲受章者名簿（令和６年））を更新",
+        "link": "https://www.mod.go.jp/j/press/award/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜人事発令（1月15日付:防衛省発令（１佐職人事））を更新",
+        "link": "https://www.mod.go.jp/j/press/jinji/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "予算・調達｜内部部局（1月15日付:一般競争入札（政府調達以外））を更新",
+        "link": "https://www.mod.go.jp/j/budget/chotatsu/naikyoku/nyuusatu/index.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「令和6年能登半島地震に関する農林水産省緊急自然災害対策本部」の第12回会合の開催について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/240115.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "障害者福祉システム等標準化検討会　指定都市要件検討分科会",
+        "link": "https://www.mhlw.go.jp/stf/nenkin_kenkyuukai-siryo02_00100.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "障害者福祉システム等標準化検討会　ベンダ分科会",
+        "link": "https://www.mhlw.go.jp/stf/nenkin_kenkyuukai-siryo02_00099.html"
     }
 ]
