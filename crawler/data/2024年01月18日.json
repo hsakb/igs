@@ -18,5 +18,90 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "国際シンポジウム「複雑化するグローバル課題に直面する世界経済と政策協調」を開催します",
+        "link": "https://www.mof.go.jp/policy/international_policy/others/20240118.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第187回）の入札発行（令和6年1月18日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240118.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（1月債）の発行予定額等（令和6年1月18日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240118.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1207回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240118.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「食から日本を考える。ニッポンフードシフト」、 JR東日本クロスステーション・全国農業協同組合連合会・ 農林中央金庫との連携プロジェクトをスタート",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/240117_7.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「食から日本を考える。ニッポンフードシフト」、 遊べる本屋「ヴィレッジヴァンガード」との 連携プロジェクトをスタート",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/240117.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「餃子から日本を考える。味の素冷凍食品もニッポンフードシフト」",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/240118.html"
+    },
+    {
+        "category": "財務省",
+        "title": "クライメート・トランジション利付国債：令和５年度（令和５年４月～令和６年３月）に発行される債券の資金使途",
+        "link": "https://www.mof.go.jp/insideLink/20240118093620.html"
+    },
+    {
+        "category": "法務省",
+        "title": "【施設課】2023年度「国家公務員ＯＰＥＮゼミ」",
+        "link": "http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_2021spring.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年1月17日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "内閣府",
+        "title": "機械受注統計調査報告（令和5年11月実績）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会（第176回）配付資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/bunkakai/02tsushin10_04000596.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和元年7月21日執行の参議院比例代表選出議員選挙 における欠員による繰上補充の選挙会において決定された事項",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei15_02000390.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年能登半島地震に係る被害状況等について（第44報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000381.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "One Healthに関する連携シンポジウム",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/onehealth20231203.html"
     }
 ]
