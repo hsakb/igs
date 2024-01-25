@@ -8,5 +8,85 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "農林水産省",
+        "title": "サステナアワード2023  農林水産大臣賞、環境大臣賞、消費者庁長官賞など各賞を決定",
+        "link": "https://www.maff.go.jp/j/press/kanbo/b_kankyo/240125.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（2月債）の発行予定額等（令和6年1月25日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240125.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第16回）の入札発行（令和6年1月25日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240125.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和6年1月25日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240125.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "サステナアワード2023 農林水産大臣賞、環境大臣賞、 消費者庁長官賞など各賞を決定",
+        "link": "https://www.caa.go.jp/notice/entry/036130/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "石川県能登地方を震源とする地震（第52報）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37198.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "社外取締役の質の担保・向上に向けた取組の一環として、「社外取締役のことはじめ」を作成しました",
+        "link": "https://www.meti.go.jp/press/2023/01/20240125001/20240125001.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年１１月分月報公表（検察統計、婦人補導統計、矯正統計、少年矯正統計及び保護統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "羽田空港第２ターミナルにおいて、共同キオスクの実証実験を開始します【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20240122162011.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年1月24日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "【総合職】説明会情報を更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03b.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度脳卒中・心臓病等総合支援センターモデル事業の公示について  ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37450.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年能登半島地震に係る被害状況等について（第56報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000393.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "がんの全ゲノム解析に関する人材育成推進事業",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000204873_00006.html"
     }
 ]
