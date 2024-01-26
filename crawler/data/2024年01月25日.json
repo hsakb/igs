@@ -298,5 +298,20 @@
         "category": "内閣府",
         "title": "1月月例経済報告",
         "link": "https://www5.cao.go.jp/keizai3/getsurei/getsurei-index.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "システム障害により明日（１月２６日（金））実施予定分のITパスポート試験を中止します",
+        "link": "https://www.meti.go.jp/press/2023/01/20240125009/20240125009.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "齋藤経済産業大臣が日米経済協議会の表敬を受けました",
+        "link": "https://www.meti.go.jp/press/2023/01/20240125003/20240125003.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は令和６年能登半島地震「被災者の生活となりわい支援のためのパッケージ」等についての会見しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/statement/2024/0125kaiken.html"
     }
 ]
