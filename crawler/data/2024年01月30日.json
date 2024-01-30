@@ -18,5 +18,105 @@
         "category": "総務省",
         "title": "労働力調査（基本集計）2023年（令和5年）12月分、10〜12月期平均及び2023年（令和5年）平均",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei04_01000258.html"
+    },
+    {
+        "category": "財務省",
+        "title": "テロリスト等に対する資産凍結等の措置の対象者の追加を実施します（令和6年1月30日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/houdou_20240130.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "「福島国際研究教育機構の施設基本計画」の公表について",
+        "link": "https://www.reconstruction.go.jp/topics/m24/01/20240126153920.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "2023年１２月１９日　令和５年度第２回医薬品の成分本質に関するワーキンググループ議事概要",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37612.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（第457回）の入札発行（令和6年1月30日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240130.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "再就職援助計画の認定状況について （令和５年度第２四半期公表分）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37611.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国立公園制度100周年記念貨幣を発行します",
+        "link": "https://www.mof.go.jp/policy/currency/coin/commemorative_coin/park_100/20240130.html"
+    },
+    {
+        "category": "財務省",
+        "title": "２０２５年日本国際博覧会記念貨幣（第二次発行）を発行します",
+        "link": "https://www.mof.go.jp/policy/currency/coin/commemorative_coin/expo_2025/20240130.html"
+    },
+    {
+        "category": "法務省",
+        "title": "社会復帰調整官の採用案内を更新しました。",
+        "link": "http://www.moj.go.jp/hogo1/kouseihogoshinkou/hogo02_00037.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第15回政策評価に関する有識者会議労働WG　配付資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/newpage_00092.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202401/30_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年1月29日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年2月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/kashi20240130.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年2月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir5/yotaku20240130.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は第６回経済安全保障推進会議を開催しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202401/30keizaianpo.html"
+    },
+    {
+        "category": "総務省",
+        "title": "一般職事務系業務説明会の情報を更新しました",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/setumeikai.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　電気通信事業政策部会　ユニバーサルサービス政策委員会 ブロードバンドサービスに関するユニバーサルサービス制度における交付金・負担金の算定等に関するワーキンググループ（第6回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/usf_seisaku/02kiban02_04000687.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年能登半島地震に関する偽・誤情報",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000563.html"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタルビジネス拡大に向けた電波政策懇談会（第4回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_business/02kiban09_04000624.html"
     }
 ]
