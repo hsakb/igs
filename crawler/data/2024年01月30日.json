@@ -1,0 +1,22 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和6年1月上旬分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20240129102147.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "一般職業紹介状況（令和5年12月分及び令和5年分）について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37525.html"
+    },
+    {
+        "category": "総務省",
+        "title": "労働力調査（基本集計）2023年（令和5年）12月分、10〜12月期平均及び2023年（令和5年）平均",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei04_01000258.html"
+    }
+]
