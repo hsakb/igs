@@ -33,5 +33,80 @@
         "category": "総務省",
         "title": "「サービス産業動向調査」2023年（令和5年）11月分（速報）",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000287.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "建設アスベスト給付金制度について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/kensetsu_kyufukin.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "復興特別区域基本方針に係るこれまでの流れ",
+        "link": "https://www.reconstruction.go.jp/topics/post_25.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和5年12月31日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定石綿被害建設業務労働者等認定審査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_23508.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（2月債）の発行予定額等（令和6年1月31日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240131.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "山口県で確認された高病原性鳥インフルエンザの疑似患畜（国内7例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/240131.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の保健・医療提供体制確保計画を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00056.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年度「WWL(ワールド・ワイド・ラーニング)コンソーシアム構築支援事業（グローバル人材育成強化事業）」の公募を開始しました",
+        "link": "https://www.mext.go.jp/a_menu/shotou/kaikaku/mext_00079.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債の償還予定額（令和6年2月分）",
+        "link": "https://www.mof.go.jp/insideLink/20240129160722.html"
+    },
+    {
+        "category": "財務省",
+        "title": "大規模水害時における施設等の使用に関する協定書を締結しました",
+        "link": "https://www.mof.go.jp/about_mof/other/other/kyoutei_20240131.html"
+    },
+    {
+        "category": "財務省",
+        "title": "西ケ原研修合同庁舎内における食堂の設置及び経営業務委託契約",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouboitakukoukoku/kyousai420240131.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年1月30日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "日本放送協会のインターネット活用業務の競争評価に関する準備会合（第3回）配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/nhk_internet/02ryutsu07_04000439.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "共通基準による観光入込客統計　１月末現在の取りまとめ状況 ",
+        "link": "http://www.mlit.go.jp/kankocho/page02_000207.html"
     }
 ]
