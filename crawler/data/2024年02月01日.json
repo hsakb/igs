@@ -18,5 +18,85 @@
         "category": "厚生労働省",
         "title": "報道発表資料　2024年2月",
         "link": "https://www.mhlw.go.jp/stf/houdou/houdou_list_202402.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特別用途食品の表示許可について(2月1日)",
+        "link": "https://www.caa.go.jp/notice/entry/036261/"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第373回）の入札発行（令和6年2月1日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240201.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札予定（令和6年2月1日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer240201.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1211回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240201.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "化学物質の審査及び製造等の規制に関する法律におけるペルフルオロオクタン酸（PFOA）関連物質等に係る措置（案）に関する御意見の募集について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37669.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "IPEFサプライチェーン協定が発効します",
+        "link": "https://www.meti.go.jp/press/2023/02/20240201002/20240201002.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "花粉症に悩む全ての方々を対象にしたイベント「もっと知ろう！花粉症対策のこと」を開催します",
+        "link": "https://www.meti.go.jp/press/2023/02/20240201001/20240201001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第76回「保健文化賞」の募集について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37420.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（ゲノム解析専門官）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-genomukaisekisenmonkan.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年1月31日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年度法務省専門職員（人間科学）採用試験の受験案内について",
+        "link": "http://www.moj.go.jp/jinji/shomu/jinji05_00014.html"
+    },
+    {
+        "category": "総務省",
+        "title": "官民競争入札等監理委員会事務局総務担当 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/02shingi06_02000882.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信行政・郵政行政審議会　郵政行政分科会（第89回）配布資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/yusei_gyousei/02ryutsu01_04000416.html"
     }
 ]
