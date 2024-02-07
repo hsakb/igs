@@ -18,5 +18,60 @@
         "category": "財務省",
         "title": "貿易統計(令和6年1月上中旬分速報)【税関ホームページ】",
         "link": "https://www.mof.go.jp/outside_link/20240206112207.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "任期付職員の採用のお知らせ（アンチ・ドーピング活動及び国際協力・交流等に関する業務）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/sonota/1422427_00003.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "10年クライメート・トランジション利付国債（2月債）の発行予定額等（令和6年2月7日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240207.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第81回）の入札発行（令和6年2月7日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240207.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和6年2月7日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer240207.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和６年２月６日（火）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00484.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被保護者調査（令和５年11月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2023/11.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年2月6日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "【施設課】2023年度 関東地区官庁オープンツアー",
+        "link": "http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_2021spring_00002.html"
+    },
+    {
+        "category": "法務省",
+        "title": "【総合職】説明会情報を更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03b.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "世界税関機構アジア大洋州地域情報連絡事務所開所式　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240207message.html"
     }
 ]
