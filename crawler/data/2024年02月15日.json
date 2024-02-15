@@ -8,5 +8,70 @@
         "category": "内閣府",
         "title": "四半期別ＧＤＰ速報（2023年10-12月期・1次速報）",
         "link": "https://www.esri.cao.go.jp/jp/sna/menu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第400回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240215.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1215回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240215.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度免疫アレルギー疾患患者に係る治療と仕事の両立支援モデル事業実施法人の公募について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37833.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「都道府県労働局からのお知らせ」（群馬労働局）を更新しました。",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第1回 第5期消費者基本計画の策定に向けた有識者懇談会を開催しました",
+        "link": "https://www.caa.go.jp/notice/entry/036368/"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年2月14日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員の募集（厚生管理官・令和６年４月採用）",
+        "link": "http://www.moj.go.jp/kouseikanrikan/shomu/kouseikanrikan01_00045.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（11月24日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00556.html"
+    },
+    {
+        "category": "総務省",
+        "title": " 安心・安全なメタバースの実現に関する研究会（第4回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/metaverse2/04_siryou.html"
+    },
+    {
+        "category": "総務省",
+        "title": "政策統括官（統計制度担当）統計企画管理官室（統計監理官の募集） 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02toukatsu01_04000469.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（11月17日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00555.html"
     }
 ]
