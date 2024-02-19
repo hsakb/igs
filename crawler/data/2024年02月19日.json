@@ -8,5 +8,75 @@
         "category": "内閣府",
         "title": "機械受注統計調査報告（令和5年12月実績および令和6年1～3月見通し）",
         "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「日本経済と資金循環の構造変化に関する研究会」を開催しています",
+        "link": "https://www.mof.go.jp/insideLink/20240216095352.html"
+    },
+    {
+        "category": "財務省",
+        "title": "フィナンシャル・レビュー「自由貿易体制の新展開」の見所　責任編集者　河野真理子教授に聞く",
+        "link": "https://www.mof.go.jp/insideLink/20240216095311.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "海外展開に向けた投資ファンドの活用に関するセミナーを3月7日に開催します！",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/240219.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農作業安全対策全国推進会議」（令和5年度）の開催について",
+        "link": "https://www.maff.go.jp/j/press/nousan/sizai/240219.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1214回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240219.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "ウクライナとの新租税条約が署名されました",
+        "link": "https://www.mof.go.jp/tax_policy/summary/international/tax_convention/press_release/20240219uk.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第5回IP BASE AWARD受賞者が決定しました！",
+        "link": "https://www.meti.go.jp/press/2023/02/20240219001/20240219001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年2月16日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（12月19日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00558.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（12月22日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00559.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第121回産業統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/kaigi/02shingi05_02000690.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省（デジタル・電気・電子区分） 　霞が関ＯＰＥＮゼミ",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/guidance-den-openzemi2024.html"
     }
 ]
