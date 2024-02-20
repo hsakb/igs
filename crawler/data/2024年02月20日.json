@@ -3,5 +3,135 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度統計エキスパート人材育成プロジェクト中間評価結果を公開しました",
+        "link": "https://www.mext.go.jp/a_menu/jinzai/data/statistic.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和６年２月１６日（金）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00487.html"
+    },
+    {
+        "category": "財務省",
+        "title": "信朝　裕行様に「デジタルヘルスケア　概要と今後の課題」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240219132226.html"
+    },
+    {
+        "category": "財務省",
+        "title": "高田　朝子様に「日本企業がもういちど立ち戻るべき『手間ひまかける経営』」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240219132158.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「日ASEANみどり脱炭素コンソーシアム」設立総会の開催について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kankyo/240220.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第187回）の入札発行（令和6年2月20日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240220.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年クライメート・トランジション利付国債（2月債）の発行予定額等（令和6年2月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240220.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和6年2月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240220.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第25回　厚生科学審議会生活環境水道部会資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/23kai_shiryou_00002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度慢性腎臓病（ＣＫＤ）重症化予防のための診療体制構築及び多職種連携モデル事業の公示について ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37469.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "次期ICT環境整備方針の在り方ワーキンググループ(第3回)の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/098/kaisai/mext_01692.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教員養成部会（第140回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/siryo/mext_00015.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年１２月分月報公表（訟務事件統計、登記統計及び人権侵犯事件統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "行政DX推進シンポジウム「福島12市町村の行政DX推進・住民サービス向上」の開催について",
+        "link": "https://www.reconstruction.go.jp/topics/m23/02/20240219164220.html"
+    },
+    {
+        "category": "財務省",
+        "title": "公募情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／ビラ・ブルネイ・ダルサラーム国皇太子同妃両殿下の訪日について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202402/20_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省を装った不審なメールにご注意ください。",
+        "link": "https://www.mhlw.go.jp/kinkyu/0713-1.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": " 第２４回がん診療連携拠点病院等の指定に関する検討会（資料）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37991.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年2月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "法制審議会第１９９回会議（令和６年２月１５日開催）",
+        "link": "http://www.moj.go.jp/shingi1/shingi03500044_00003.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（1月12日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00561.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "紅海危機に関するG7交通大臣会合の開催について",
+        "link": "http://www.mlit.go.jp/report/press/sogo05_hh_000341.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（1月9日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00560.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「海外教育旅行シンポジウム」開催のお知らせ",
+        "link": "http://www.mlit.go.jp/kankocho/page07_000082.html"
     }
 ]
