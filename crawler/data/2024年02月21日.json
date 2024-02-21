@@ -13,5 +13,50 @@
         "category": "財務省",
         "title": "貿易統計(令和6年1月分速報)【税関ホームページ】",
         "link": "https://www.mof.go.jp/outside_link/20240220102107.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３２回「社会保障審議会企業年金・個人年金部会」の開催について（ペーパーレス開催）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_38003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年2月20日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "【総合職】説明会情報を更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03b.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "紅海危機に関するＧ７臨時交通大臣会合の結果について",
+        "link": "http://www.mlit.go.jp/report/press/sogo05_hh_000345.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和６年度国土交通本省診療所（内科）血液診断等業務",
+        "link": "http://www.mlit.go.jp/page/kanbo07_hy_000127_re.html"
+    },
+    {
+        "category": "総務省",
+        "title": "接続料の算定等に関する研究会（第81回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/access-charge_calculation/02kiban03_04001009.html"
     }
 ]
