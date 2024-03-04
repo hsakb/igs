@@ -18,5 +18,85 @@
         "category": "財務省",
         "title": "法人企業統計調査（令和5年10～12月期）の結果",
         "link": "https://www.mof.go.jp/insideLink/20240301160611.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2024年2月26日からの千葉県東方沖の地震活動の評価を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00042.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "香川県三豊市で発生した高病原性鳥インフルエンザ（国内8例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/240304.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年度「未来につながる持続可能な農業推進コンクール」受賞者の決定及び表彰式の開催について",
+        "link": "https://www.maff.go.jp/j/press/nousan/kankyo/240304.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和6年3月4日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer389.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（調査刷新係長）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-chosasassinkakarityou.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "ひょうご消費者ネットと株式会社アガルートとの間で差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/036504/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年度「英知を結集した原子力科学技術・人材育成推進事業」における新規採択課題の公募開始に関するお知らせ ～課題解決型廃炉研究プログラム～",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00359.html"
+    },
+    {
+        "category": "財務省",
+        "title": "企画官級ポストの公募について（国際局為替市場課資金管理専門官）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/senkou_20230517_bunshoka.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会　化学物質安全対策部会　委員名簿（R6.3.1現在）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_38194.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年3月1日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "日本医師会赤ひげ大賞表彰式　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240304message.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（1月16日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00562.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和5年度地方財政審議会（1月26日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00563.html"
+    },
+    {
+        "category": "総務省",
+        "title": "eシールに係る検討会（第7回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/e_seal/02cyber01_04000001_00278.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "令和６年１月の特殊詐欺認知・検挙状況等について",
+        "link": "http://www.npa.go.jp/newlyarrived/2024/20240226001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療等情報の二次利用に関する技術作業班",
+        "link": "https://www.mhlw.go.jp/stf/newpage_37708.html"
     }
 ]
