@@ -8,5 +8,145 @@
         "category": "財務省",
         "title": "貿易統計(令和6年2月分速報)【税関ホームページ】",
         "link": "https://www.mof.go.jp/outside_link/20240319093212.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "鳥インフルエンザA（Ｈ５Ｎ１）について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144523.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "遺伝子組換え技術等専門委員会 （第150回）の配付資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu1/024/siryo/mext_00006.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "日本紅斑熱について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000169522_00001.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "経済産業省生産動態統計 時系列表（61ヶ月）",
+        "link": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html#menu2?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "財務省",
+        "title": "財政金融統計月報第861号＜対内外民間投資特集＞を掲載しました",
+        "link": "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g861/861.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "チクングニア熱について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000168030.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "クリミア・コンゴ出血熱について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000135514.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第401回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240321.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "One Healthに関する連携シンポジウム",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000113218.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "日本産業規格（JIS）を制定・改正しました（2024年3月分）",
+        "link": "https://www.meti.go.jp/press/2023/03/20240321001/20240321001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療上の必要性の高い未承認薬・適応外薬検討会議",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-iyaku_128701.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「新型コロナウイルス感染症の罹患後症状について」を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00402.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定受託事業者の就業環境の整備に関する検討会- (1)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-kintou_449523_00002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第58回 医療上の必要性の高い未承認薬・適応外薬検討会議",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000198856_00032.html"
+    },
+    {
+        "category": "法務省",
+        "title": "裁判外紛争解決手続に関する認知状況等調査について ",
+        "link": "http://www.moj.go.jp/housei/adr/housei10_00006.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "One Healthに関する連携シンポジウム",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000180881.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "One Healthに関する連携シンポジウム",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000190453.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "One Healthに関する連携シンポジウム",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000115194.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年3月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "第３回民主主義のためのサミット　ナショナルステートメント（コミットメント）　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240321message2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "One Healthに関する連携シンポジウム",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/000131914.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保険労務士懲戒処分公告",
+        "link": "https://www.mhlw.go.jp/stf/newpage_38802.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保険労務士懲戒処分公告 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_38818.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "陸上自衛隊高等工科学校卒業式　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240321message1.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保険労務士の懲戒処分事案",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roumushi/shahorou-tyoukai/index.html"
+    },
+    {
+        "category": "総務省",
+        "title": "電波監理審議会（第1126回）会議資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/denpa_kanri/kaisai/02kiban01_04000235.html"
     }
 ]
