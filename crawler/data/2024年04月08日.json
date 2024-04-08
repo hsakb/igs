@@ -13,5 +13,50 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第4回解約料の実態に関する研究会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/037298/"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年4月5日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第42回危険業務従事者叙勲受章者について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_39059.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査ー令和6年1月分結果確報",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/2401r/2401r.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査ー令和6年2月分結果速報等",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/2402p/2402p.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査におけるベンチマーク更新等（令和６年１月分調査）の対応及び影響について",
+        "link": "https://www.mhlw.go.jp/toukei/list/30-1.html"
+    },
+    {
+        "category": "総務省",
+        "title": "行政管理局企画調整課 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02gyokan01_04000479.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回　ヘルスケアスタートアップ等の振興・支援策検討プロジェクトチーム　資料等",
+        "link": "https://www.mhlw.go.jp/stf/newpage_39530.html"
     }
 ]
