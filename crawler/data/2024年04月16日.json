@@ -168,5 +168,50 @@
         "category": "総務省",
         "title": "令和6年能登半島地震に係る被害状況等について（第97報）",
         "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000452.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第403回)入札において追加発行した国債の銘柄",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20240416a.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "第430回 消費者委員会本会議【4月15日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2024/430/shiryou/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第81回 公共料金等専門調査会【4月15日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/081/shiryou/index.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "土屋復興大臣記者会見録［令和６年４月16日］",
+        "link": "https://www.reconstruction.go.jp/topics/24/04/20240416151850.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "天皇陛下のおことば（2024年 日本国際賞（Japan Prize）授賞式:令和6年4月16日）",
+        "link": "https://www.kunaicho.go.jp/page/okotoba/detail/127#888"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（雇用環境・均等局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-koyoukankyo-kintoukyoku.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:ポータブル電源(リチウムイオン)で火災等(4月16日)",
+        "link": "https://www.caa.go.jp/notice/entry/037470/"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第三専門調査会（第26回）の開催について【4月24日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai3_senmon_26.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第三専門調査会（第27回）の開催について（非公開）【4月24日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai3_senmon_27.html"
     }
 ]
