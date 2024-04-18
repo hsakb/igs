@@ -38,5 +38,70 @@
         "category": "首相官邸",
         "title": "豊後水道を震源とする地震について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202404/18_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者団体訴訟制度「COCoLiS」(ココリス)の動画・パンフレットの掲載について",
+        "link": "https://www.caa.go.jp/notice/entry/037530/"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第404回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240418.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1226回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240418.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "不当景品類及び不当表示防止法施行規則の一部を改正する内閣府令(案)等に関する意見募集の結果について",
+        "link": "https://www.caa.go.jp/notice/entry/037455/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "適格消費者団体の認定、監督等に関するガイドラインの改訂について",
+        "link": "https://www.caa.go.jp/notice/entry/037482/"
+    },
+    {
+        "category": "財務省",
+        "title": "外国為替法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則の一部を改正します",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/recent_revised/20210830.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年4月17日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "体験プログラム（旧インターンシップ）情報を更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/jinji02_00023.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保険労務士懲戒処分公告 - (2)",
+        "link": "https://www.mhlw.go.jp/stf/newpage_39693.html"
+    },
+    {
+        "category": "総務省",
+        "title": "豊後水道を震源とする地震による被害状況等について（第5報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000453.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和6年4月17日23時14分頃の豊後水道の地震に伴う土砂災害警戒情報発表基準の暫定的な運用について",
+        "link": "http://www.mlit.go.jp/report/press/sabo01_hh_000168.html"
     }
 ]
