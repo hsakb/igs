@@ -43,5 +43,95 @@
         "category": "総務省",
         "title": "「サービス産業動向調査」2024年（令和6年）2月分（速報）",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000294.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2024年4月29日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/037695/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和6年3月31日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年春の叙勲等（農林水産省関係）について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/hisyo/240430.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年司法試験予備試験の試験場について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00162.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年司法試験の試験場について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji08_00203.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債の償還予定額（令和6年5月分）",
+        "link": "https://www.mof.go.jp/insideLink/20240425143619.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和6年春の叙勲等の受章者数及び受章者名簿（令和6年4月29日付け発令）",
+        "link": "https://www8.cao.go.jp/shokun/hatsurei/r06haru.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年4月26日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年春の叙勲受章者について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_39782.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年春の褒章受章者について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_39839.html"
+    },
+    {
+        "category": "総務省",
+        "title": "電波監理審議会　有効利用評価部会（第30回）会議資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/denpa_kanri/kaisai/02kiban01_04000242.html"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタルビジネス拡大に向けた電波政策懇談会（第7回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_business/02kiban09_04000633.html"
+    },
+    {
+        "category": "総務省",
+        "title": "消費者保護ルールの在り方に関する検討会（第56回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/shouhisha_hogo/02kiban08_04000479.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（労働基準局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-roudoukizyunkyoku_ippan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（労働基準局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-roudoukizyunkyoku.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "旅行・観光消費動向調査　2023年年間値（確報）",
+        "link": "http://www.mlit.go.jp/kankocho/topics02_00005.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "観光地域づくり法人（DMO）の更新登録",
+        "link": "http://www.mlit.go.jp/kankocho/topics04_00006.html"
     }
 ]
