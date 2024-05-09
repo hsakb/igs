@@ -33,5 +33,65 @@
         "category": "厚生労働省",
         "title": "毎月勤労統計調査ー令和6年3月分結果速報",
         "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/2403p/2403p.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「日本経済と資金循環の構造変化に関する研究会」第5回会合を開催しました",
+        "link": "https://www.mof.go.jp/insideLink/20240508120642.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（5月債）の発行予定額等（令和6年5月9日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240509.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和6年5月9日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer240509.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1229回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240509.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1231回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240509.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年能登半島地震漁業地域復旧・復興技術検討会の開催について",
+        "link": "https://www.jfa.maff.go.jp/j/press/keikaku/240509.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "児童生徒の自殺予防に関する調査研究協力者会議（令和5年度）（第3回）　議事要旨",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/188/gijiroku/1413457_00001.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年5月8日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタル空間における情報流通の健全性確保の在り方に関する検討会（第18回）配付資料　※ワーキンググループ（第17回）合同開催",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_space/02ryutsu02_04000471.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「第111回コーデックス連絡協議会」の開催及び一般傍聴について",
+        "link": "https://www.caa.go.jp/notice/entry/037761/"
+    },
+    {
+        "category": "国土交通省",
+        "title": "【第２回開催日決定】宿泊事業者向けセミナー「採用ターゲットごとの人材確保ポイント」を開催します！",
+        "link": "http://www.mlit.go.jp/kankocho/topics06_00007.html"
     }
 ]
