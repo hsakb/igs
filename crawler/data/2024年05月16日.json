@@ -18,5 +18,60 @@
         "category": "内閣府",
         "title": "四半期別ＧＤＰ速報（2024年1-3月期・1次速報）",
         "link": "https://www.esri.cao.go.jp/jp/sna/menu.html"
+    },
+    {
+        "category": "法務省",
+        "title": "更生刻々第２４号を掲載しました（東京矯正管区フロントページ）。",
+        "link": "http://www.moj.go.jp/kyousei1/kyousei08_00101.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第188回）の入札発行（令和6年5月16日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240516.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和6年5月16日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240516.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1231回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240516.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（健康・生活衛生局健康課　課長補佐又は主査）募集情報）",
+        "link": "http://www.mhlw.go.jp/general/saiyo/ninki-kenkouseikatsueiseikyokukenkoukasyusa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回新たな地域医療構想等に関する検討会：開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40231.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "第33回EBRD年次総会日本国総務演説（令和6年5月16日　於：アルメニア・エレバン）",
+        "link": "https://www.mof.go.jp/policy/international_policy/mdbs/ebrd/20240516.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年5月15日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": " 衛星放送ワーキンググループ（第8回）配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu11_04000106.html"
     }
 ]
