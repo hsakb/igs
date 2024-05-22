@@ -13,5 +13,55 @@
         "category": "内閣府",
         "title": "機械受注統計調査報告（令和6年3月実績および令和6年4～6月見通し）",
         "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第５９回指定難病検討委員会・資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40243.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年高年齢者・障害者雇用状況報告の提出について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/koureisha/index_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "カンボジア中小企業金融支援",
+        "link": "https://www.mof.go.jp/insideLink/20240516093935.html"
+    },
+    {
+        "category": "財務省",
+        "title": "吉川　洋様に「日本の財政」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240520095850.html"
+    },
+    {
+        "category": "財務省",
+        "title": "森田　長太郎様に「財政政策と金融政策の一体運用によるマネー供給コントロールの可否」についてご講演いただき、小黒　一正様からコメントをいただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240520095922.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第17回）の入札発行（令和6年5月22日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240522.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第４回新たな地域医療構想等に関する検討会：開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40291.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（人事給与・勤務時間管理システム専門職）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-jinjikyuyo_kinmujikankanri2.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第４回国際収支から見た日本経済の課題と処方箋　資料",
+        "link": "https://www.mof.go.jp/policy/international_policy/councils/bop/outline/20240520.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年5月21日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
     }
 ]
