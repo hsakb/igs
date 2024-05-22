@@ -63,5 +63,90 @@
         "category": "財務省",
         "title": "国債金利情報(令和6年5月21日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「アグリビジネス創出フェア2024」で最新の研究成果を紹介しませんか",
+        "link": "https://www.affrc.maff.go.jp/docs/press/240522.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定受託事業者の就業環境の整備に関する検討会　報告書",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40327.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２回　厚生科学審議会予防接種・ワクチン分科会　研究開発及び生産・流通部会　季節性インフルエンザワクチン及び新型コロナワクチンの製造株について検討する小委員会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40331.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第1回 個別品目ごとの表示ルール見直し分科会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/037944/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和6年度第1回食品衛生基準審議会添加物部会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/038023/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "人事労務マガジン 特集第221号 広報誌「厚生労働」5 月号発売中　他",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40279.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定受託事業者の就業環境の整備に関する検討会- (1)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-kintou_449523_00002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医薬品第二部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40033.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第17回）の入札結果（令和6年5月22日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20240522.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "小泉龍司法務大臣が、再犯防止施策の充実のための提言を受け取りました。",
+        "link": "https://www.moj.go.jp/hisho/kouhou/hisho06_01048.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第６回「航空整備士・操縦士の人材確保・活用に関する検討会」を開催します",
+        "link": "http://www.mlit.go.jp/report/press/kouku02_hh_000226.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "海運業界・有識者のご意見を伺います〜第２回「海技人材の確保のあり方に関する検討会」を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji02_hh_000269.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "交通政策審議会海事分科会第171回船員部会を開催",
+        "link": "http://www.mlit.go.jp/report/press/kaiji04_hh_000299.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「被害者保護増進等事業」の効果検証について、関係者のご意見を伺います〜「被害者保護増進等事業の効果検証に関するワーキンググループ」を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/jidosha02_hh_000641.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "新しいユニバーサルデザインタクシーを認定しました！",
+        "link": "http://www.mlit.go.jp/report/press/jidosha03_hh_000428.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「第３回輪島市大規模火災を踏まえた消防防災対策のあり方に関する検討会」の開催について",
+        "link": "http://www.mlit.go.jp/report/press/house06_hh_000231.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "水関連災害リスクの軽減を含む水管理分野における協力について国土交通省とハンガリー内務省との間の覚書を締結",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo03_hh_001248.html"
     }
 ]
