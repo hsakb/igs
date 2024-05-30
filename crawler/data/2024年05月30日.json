@@ -23,5 +23,75 @@
         "category": "文部科学省",
         "title": "令和6年度「各学校・課程・学科の垣根を超える高等学校改革推進事業（学びの機会の充実ネットワークの構築）」の公募について",
         "link": "https://www.mext.go.jp/b_menu/boshu/mext_00053.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「 あなたにあった出産施設を探せるサイト『出産なび』 」を新設",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40471.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（第461回）の入札発行（令和6年5月30日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240530.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（6月債）の発行予定額等（令和6年5月30日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240530.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和6年5月30日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240530.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1235回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240530.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者支援ネット北海道と株式会社ハイチエイジェントとの間で差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/038104/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者支援ネット北海道と株式会社ふるさと産直村との間で差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/038106/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「SNSなどを通じた投資や副業といった「もうけ話」にご注意ください!」のページを更新しました。",
+        "link": "https://www.caa.go.jp/notice/entry/038133/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年5月29日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年6月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/kashi20240530.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年6月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/yotaku20240530.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "北朝鮮による弾道ミサイル発射事案に係る関連情報について",
+        "link": ""
+    },
+    {
+        "category": "消費者庁",
+        "title": "第6回解約料の実態に関する研究会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/038093/"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「世界的潮流を踏まえた魅力的な観光コンテンツ造成のための基礎調査事業」の調査報告書を公開します",
+        "link": "http://www.mlit.go.jp/kankocho/topics05_00012.html"
     }
 ]
