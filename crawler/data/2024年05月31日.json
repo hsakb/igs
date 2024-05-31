@@ -63,5 +63,110 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2024年(令和6年)5月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000283.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "過去の参考資料などについて",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000137599.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度「高校・中学新卒者のハローワーク求人に係る 求人・求職・就職状況」取りまとめ（３月末現在）を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/2024CK_job_opening_to_applicants_ratio_202403.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品に対する景品表示法に基づく措置命令を踏まえた食品表示法における対応について(情報提供)",
+        "link": "https://www.caa.go.jp/notice/entry/038163/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "米に関するマンスリーレポート（令和6年5月号）の公表について",
+        "link": "https://www.maff.go.jp/j/press/nousan/kikaku/240517_5.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和6年4月30日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "国際獣疫事務局（WOAH）における理事及び専門委員会委員の選出について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/240531.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年度食料・農業・農村白書を本日公表",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kihyo04/240531.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1234回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240531.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1236回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240531.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（サイバーセキュリティ対策官）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-cybersecuritytaisakukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "説明会情報の更新及び2024年度官庁訪問について（総合職（数理・デジタル系））",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/suuri.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第５回新たな地域医療構想等に関する検討会：資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40493.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年年報公表（訟務事件統計、登記統計及び人権侵犯事件統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債の償還予定額（令和6年6月分）",
+        "link": "https://www.mof.go.jp/insideLink/20240528135504.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和6年4月19日開催）議事録",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20240419.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202405/31_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年5月30日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "東京矯正管区管内の標準文書保存期間基準の更新",
+        "link": "http://www.moj.go.jp/kyousei1/kyousei24_00011.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省本省係長級職員（一般職相当）採用選考 - 令和６年度第１期・第２期",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33437.html"
     }
 ]
