@@ -298,5 +298,125 @@
         "category": "消費者庁",
         "title": "「令和6年度食品ロス削減推進表彰」募集開始について",
         "link": "https://www.caa.go.jp/notice/entry/038033/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "グッドキャリア企業アワード",
+        "link": "https://www.mhlw.go.jp/career-award/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療機器の臨床研究に関する相談窓口",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40463.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第5回取引デジタルプラットフォーム官民協議会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/038165/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債トップリテーラー会議(第23回)開催日程",
+        "link": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbtr/press_release/retailer20240531.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度（令和６年度当初予算分、令和５年度からの繰越分）医療提供体制施設整備交付金の交付額の内示について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40523.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度医療施設等施設整備費補助金の交付額の内示について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40522.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「令和5年度ものづくり基盤技術の振興施策」（2024年版ものづくり白書）を取りまとめました",
+        "link": "https://www.meti.go.jp/press/2024/05/20240531003/20240531003.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "土屋復興大臣記者会見録［令和６年５月31日］",
+        "link": "https://www.reconstruction.go.jp/topics/24/05/20240531160844.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療保険データベース",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/database/index.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年産米の契約・販売状況、民間在庫の推移及び米穀販売事業者における販売数量・販売価格の動向について（令和6年4月末現在）",
+        "link": "https://www.maff.go.jp/j/press/nousan/kikaku/240531.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「物価高対策に資する食品ロス削減実証業務報告書」を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/038176/"
+    },
+    {
+        "category": "内閣府",
+        "title": "Economic ＆ Social Research No.44  2024年 春号",
+        "link": "https://www.esri.cao.go.jp/jp/esri/esr/esr.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は超党派ライドシェア勉強会による提言申入れを受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202405/31moushiire2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "白書、年次報告書",
+        "link": "https://www.mhlw.go.jp/toukei_hakusho/hakusho/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和５年度ものづくり基盤技術の振興施策」（ものづくり白書）を閣議決定しました",
+        "link": "https://www.mhlw.go.jp/stf/houdou/newpage_00157.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働基準関係法令違反に係る公表事案",
+        "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査に係る調査研究（令和５年度実施　委託業務）",
+        "link": "https://www.mhlw.go.jp/toukei/list/30-1.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:リコール製品で火災等(ガスふろがま用バーナー(都市ガス用))(5月31日)",
+        "link": "https://www.caa.go.jp/notice/entry/038174/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は「国による昭和１００年記念式典の実現を目指す超党派議員連盟」による要請を受けました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202405/31yousei.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和４年生活のしづらさなどに関する調査」の結果を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40511.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は日本経済団体連合会定時総会に出席しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202405/31nikkeidan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度　第１回　厚生科学審議会疾病対策部会（持ち回り）が開催されました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40236.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回　社会保障審議会小児慢性特定疾病対策部会（持ち回り）が開催されました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40239.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和5年「労働災害動向調査（事業所調査（事業所規模100人以上）及び総合工事業調査）」の結果を公表します",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/saigai/23/"
     }
 ]
