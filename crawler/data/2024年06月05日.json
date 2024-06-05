@@ -33,5 +33,60 @@
         "category": "厚生労働省",
         "title": "社会保障審議会（年金事業管理部会）",
         "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "Webマガジン「aff（あふ）」の誌面をリニューアル！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/koho/240605.html"
+    },
+    {
+        "category": "財務省",
+        "title": "神田眞人財務官のリトアニア訪問（令和6年6月4日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20240605.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福祉行政報告例（令和６年３月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/gyousei/fukushi/m24/03.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被保護者調査（令和６年３月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2024/03.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会(雇用環境・均等分科会家内労働部会（旧雇用均等分科会家内労働部会）)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_127002.html"
+    },
+    {
+        "category": "財務省",
+        "title": "事務補助員の募集（大臣官房秘書課財務官室）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/jimuhojo/20240605zaimukan.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年度「新時代に対応した高等学校改革推進事業（普通科改革支援事業）」の公募開始について",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00396.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年6月4日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "ジャパン・イノベーション・ランチョン　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240605message.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査ー令和6年4月分結果速報",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/2404p/2404p.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「令和6年度消費者教育コーディネーター会議」の会議資料、動画を公表しました",
+        "link": "https://www.caa.go.jp/notice/entry/038228/"
     }
 ]
