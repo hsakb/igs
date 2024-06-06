@@ -8,5 +8,65 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "文部科学省",
+        "title": "深海探査システム委員会（第5回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu5/017/giji_list/1422576_00005.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第6回日タイエネルギー政策対話を実施しました",
+        "link": "https://www.meti.go.jp/press/2024/06/20240606002/20240606002.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第82回）の入札発行（令和6年6月6日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240606.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第408回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240606.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1235回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240606.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1237回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240606.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第27回発散防止抑制措置特例実施許可に関する専門家検討会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40490.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省（デジタル・電気・電子区分）　業務説明会情報（デジタル・電気・電子区分）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/guidance-den-jouhou.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特別用途食品の表示許可について(6月6日)",
+        "link": "https://www.caa.go.jp/notice/entry/038223/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年6月5日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "郵政グローバル戦略タスクフォース（第5回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/postalservice_globalstrategy/02ryutsu15_04000021.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「Beyond 5Gに向けた情報通信技術戦略の在り方」に関する 技術戦略委員会報告書（案）に対する意見募集の結果",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000401.html"
     }
 ]
