@@ -28,5 +28,105 @@
         "category": "総務省",
         "title": "家計調査報告（二人以上の世帯）2024年（令和6年）4月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000256.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第108回社会保障審議会医療部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40616.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(5月23日)",
+        "link": "https://www.caa.go.jp/notice/entry/038266/"
+    },
+    {
+        "category": "財務省",
+        "title": "中里　透様に「東京は『ブラックホール』なのか　少子化と出生率について考える」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240604160618.html"
+    },
+    {
+        "category": "財務省",
+        "title": "松本　朋子様に「世論は財政再建に支持を与え得るか？」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240604160546.html"
+    },
+    {
+        "category": "財務省",
+        "title": "白鳥　潤一郎様に「『資源小国』日本の外交―過去・現在・未来―」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240604160650.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "肥料原料の備蓄に係る経済安全保障推進法に基づく供給確保計画の認定（株式会社中村商会、鈴江コーポレーション株式会社、堺商事株式会社及び伊藤忠商事株式会社）及び塩化カリウムの国としての備蓄目標の達成について",
+        "link": "https://www.maff.go.jp/j/press/nousan/sizai/240607.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "武村農林水産副大臣の海外出張について",
+        "link": "https://www.maff.go.jp/j/press/y_kokusai/kokkyo/240607.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "地域の活性化や所得向上につながる農山漁村の取組事例を表彰します！",
+        "link": "https://www.maff.go.jp/j/press/nousin/nousei/240607.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1236回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240607.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和6年6月7日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer392.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者庁の災害用備蓄食品の有効活用について掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/038263/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "原子力科学技術委員会　原子力研究開発・基盤・人材作業部会（第20回）　議事録",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/100/shiryo/1422932_00026.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202406/7_a.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年度食育白書を本日公表",
+        "link": "https://www.maff.go.jp/j/press/syouan/hyoji/240607_7.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農林水産省豚熱・アフリカ豚熱防疫対策本部」の開催について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/240607.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年6月6日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第370回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40457.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は第１回サイバー安全保障分野での対応能力の向上に向けた有識者会議に出席しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202406/07cyber.html"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタル空間における情報流通の健全性確保の在り方に関する検討会 ワーキンググループ（第25回）配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_space/02ryutsu02_04000488.html"
+    },
+    {
+        "category": "総務省",
+        "title": "社会的養護に関する調査−里親委託を中心として−　＜結果に基づく勧告＞",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/hyouka_240606000174536.html"
     }
 ]
