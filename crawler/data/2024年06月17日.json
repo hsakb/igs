@@ -8,5 +8,70 @@
         "category": "内閣府",
         "title": "機械受注統計調査報告（令和6年4月実績）",
         "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(5月30日)",
+        "link": "https://www.caa.go.jp/notice/entry/038367/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": " グッドキャリア企業アワード",
+        "link": "https://www.mhlw.go.jp/career-award/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "経済産業省生産動態統計 時系列表（61ヶ月）",
+        "link": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html#menu2?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「商店街にぎわい創出事業」の2次公募／1次締切の補助事業者を採択しました",
+        "link": "https://www.chusho.meti.go.jp/shogyo/shogyo/2024/240617kino_fukugo.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "説明会情報の更新（総合職（数理・デジタル系））",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/suuri.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度COREハイスクール・ネットワーク構想の取り組み成果を掲載しました",
+        "link": "https://www.mext.go.jp/a_menu/shotou/kaikaku/sesaku/1418873_00032.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会（第144回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/siryo/1416449_00028.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "「令和5年度全国財務局の地域連携事例集」を公表しました【財務局ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20240614110856.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和６年度普通科研修修了式の実施について【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20240613113042.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "匿名介護情報等の提供に関する専門委員会（第16回）資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000198094_00082.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年6月14日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "警察庁",
+        "title": "令和６年４月末におけるSNS型投資・ロマンス詐欺の認知・検挙状況等について",
+        "link": "http://www.npa.go.jp/newlyarrived/2024/20240517001.html"
     }
 ]
