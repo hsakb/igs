@@ -183,5 +183,50 @@
         "category": "厚生労働省",
         "title": "令和６年労使関係総合調査にご協力をお願いします",
         "link": "https://www.mhlw.go.jp/toukei/list/13-23-r06sougouchosa.html"
+    },
+    {
+        "category": "財務省",
+        "title": "関税・外国為替等審議会　第58回外国為替等分科会 資料",
+        "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/material/20240619.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第83回 公共料金等専門調査会【5月27日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/083/shiryou/index.html#gijiroku"
+    },
+    {
+        "category": "内閣府",
+        "title": "第437回 消費者委員会本会議【6月18日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2024/437/shiryou/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "「ＮＴＴ東西の加入電話、公衆電話、ＩＳＤＮの料金に係る基準料金指数の算出方法の変更案」に関する消費者委員会意見【6月18日付】",
+        "link": "https://www.cao.go.jp/consumer/iinkaikouhyou/2024/index.html#lst6"
+    },
+    {
+        "category": "復興庁",
+        "title": "令和６年度「地域づくりハンズオン支援事業」選定結果について",
+        "link": "https://www.reconstruction.go.jp/topics/m24/06/20240618142704.html"
+    },
+    {
+        "category": "財務省",
+        "title": "債務管理リポート2024　－国の債務管理と公的債務の現状－",
+        "link": "https://www.mof.go.jp/jgbs/publication/debt_management_report/2024/index.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は国家基本政策委員会合同審査会（党首討論）に出席しました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202406/19goudou_shinsakai.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和5年度における九州地区の景品表示法の運用状況等の公表について",
+        "link": "https://www.caa.go.jp/notice/entry/038378/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和5年度における沖縄地区の景品表示法の運用状況等の公表について",
+        "link": "https://www.caa.go.jp/notice/entry/038379/"
     }
 ]
