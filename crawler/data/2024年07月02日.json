@@ -18,5 +18,85 @@
         "category": "総務省",
         "title": "令和６年７月２日付　消防庁人事",
         "link": "https://www.fdma.go.jp/pressrelease/houdou/#067704"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会 (障害者雇用分科会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126985.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年度農林水産省「こども霞が関見学デー」 5年ぶりに会場開催を実施！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/koho/240702.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年度「家畜衛生ポスターデザインコンテスト」を開催！",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/240702.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第375回）の入札発行（令和6年7月2日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240702.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（7月債）の発行予定額等（令和6年7月2日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240702.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和6年7月2日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240702.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202407/2_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1242回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240702.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "【労働基準監督官採用関係】都道府県労働局からのお知らせ・説明会等のご案内 （福島労働局）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（共済事務専門官又は主査）募集情報）",
+        "link": "http://www.mhlw.go.jp/general/saiyo/ninki-kyousaijimusenmonkan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査［地方調査］－令和５年平均結果概要",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r05/year.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２回ストレスチェック制度等のメンタルヘルス対策に関する検討会議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41105.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年7月1日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "ユニバーサルサービスワーキンググループ（第10回）配布資料・議事概要",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/tsusin_seisaku/02kiban02_04000767.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "令和６年５月の特殊詐欺認知・検挙状況等について",
+        "link": "http://www.npa.go.jp/newlyarrived/2024/20240226001.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "令和６年５月末におけるSNS型投資・ロマンス詐欺の認知・検挙状況等について",
+        "link": "http://www.npa.go.jp/newlyarrived/2024/20240517001.html"
     }
 ]
