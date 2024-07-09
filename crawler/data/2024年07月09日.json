@@ -8,5 +8,60 @@
         "category": "総務省",
         "title": "令和6年7月9日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001034.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会(職業安定分科会労働力需給制度部会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第170回）の入札発行（令和6年7月9日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240709.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第409回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240709.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「令和6年版通商白書」を取りまとめました",
+        "link": "https://www.meti.go.jp/press/2024/07/20240709001/20240709001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1242回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240709.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（国際保健専門官又は主査）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-kokusaihoken_syusa.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第6期消費者教育推進会議委員名簿を更新しました。",
+        "link": "https://www.caa.go.jp/notice/entry/038678/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年7月8日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和６年建設事業関係功労者等国土交通大臣表彰について",
+        "link": "http://www.mlit.go.jp/report/press/kanbo03_hh_000380.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第144回人口・社会統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/jinkou/kaigi/02shingi05_02000710.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "豪州主導のAPT40グループに関する国際アドバイザリーへの共同署名について",
+        "link": "http://www.npa.go.jp/newlyarrived/2024/20240709001.html"
     }
 ]
