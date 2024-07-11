@@ -58,5 +58,95 @@
         "category": "財務省",
         "title": "国債金利情報(令和6年7月10日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動(令和6年7月11日)",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2024.07.11_31.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療用から要指導・一般用への転用に関する評価検討会議",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-iyaku_346305.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "2024年3月12日　第27回医療用から要指導・一般用医薬品への転用に関する評価検討会議",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41401.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校教育法施行規則の一部を改正する省令等（案）に関するパブリック・コメント（意見公募手続）を実施します",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01393.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会労働条件分科会（第157回以降各回情報）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第192回労働政策審議会労働条件分科会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41263.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学研究力強化委員会（第15回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu32/kaisai/mext_00019.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和6年度 第1回日本版包装前面栄養表示に関する検討会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/036572/"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札結果（令和6年7月11日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result240711.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第189回）の入札結果（令和6年7月11日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20240711.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学院部会（第115回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/004/gijiroku/1422801_00018.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和６年「海の日」海事関係功労者大臣表彰について",
+        "link": "http://www.mlit.go.jp/report/press/kanbo03_hh_000381.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「補強土壁工法の点検支援にかかる新技術」に求める性能について意見募集を行います〜現場ニーズ・行政ニーズに基づいた新技術活用促進の取り組み〜",
+        "link": "http://www.mlit.go.jp/report/press/kanbo08_hh_001114.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第3回「航空燃料供給不足への対応に向けた官民タスクフォース」を開催します",
+        "link": "http://www.mlit.go.jp/report/press/kouku05_hh_000214.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和6年能登半島地震で発生した災害廃棄物の海上輸送による広域処理が始まりました",
+        "link": "http://www.mlit.go.jp/report/press/port06_hh_000294.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（ホンダ　CBR250RR）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005187.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（テスラ　Model 3　他）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005188.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "まちぐるみで「道の駅」の魅力を磨こう！〜「道の駅」第３ステージの今後の方向性〜",
+        "link": "http://www.mlit.go.jp/report/press/road01_hh_001823.html"
     }
 ]
