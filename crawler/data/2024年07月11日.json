@@ -13,5 +13,50 @@
         "category": "内閣府",
         "title": "機械受注統計調査報告（令和6年5月実績）",
         "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和６年７月９日（火）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00529.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(7月4日)",
+        "link": "https://www.caa.go.jp/notice/entry/038702/"
+    },
+    {
+        "category": "財務省",
+        "title": "ディスカッション・ペーパーを掲載しました「Dynamic Relationship between Information Dissemination by Local Governors and Mobility during the COVID-19 Pandemic」",
+        "link": "https://www.mof.go.jp/insideLink/20240708173625.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第189回）の入札発行（令和6年7月11日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240711.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年クライメート・トランジション利付国債（7月債）の発行予定額等（令和6年7月11日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240711.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1244回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240711.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者ネットおかやまと株式会社エディオンとの間の差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/038621/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者被害防止ネットワーク東海と薬師寺との間の裁判上の和解について",
+        "link": "https://www.caa.go.jp/notice/entry/038622/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年7月10日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
     }
 ]
