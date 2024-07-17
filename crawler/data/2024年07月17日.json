@@ -13,5 +13,35 @@
         "category": "総務省",
         "title": "大臣官房秘書課 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02tsushin08_04000027_00001.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年能登半島地震において飲食料品等を提供していただいた方々へ農林水産大臣感謝状を贈呈します",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/seizo/240717.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（7月債）の発行予定額等（令和6年7月17日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240717.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "新しい生体認証精度評価方法に関する国際規格が発行されました 少ないサンプル数で生体認証の精度評価を効率化・短期化へ（ISO/IEC 5152）",
+        "link": "https://www.meti.go.jp/press/2024/07/20240717003/20240717003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（特定任期付職員（特定医薬品開発支援・医療情報担当参事官室長補佐）募集情報）",
+        "link": "http://www.mhlw.go.jp/general/saiyo/ninki-tokuteiiyakuhinkaihatsusien_iryoujouhoutantousanjikan.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年7月16日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
     }
 ]
