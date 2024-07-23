@@ -3,5 +3,90 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬物乱用対策",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubutsuranyou_taisaku/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外国為替及び外国貿易法に基づく資産凍結等の措置を実施します",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/20240722171234.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "坂本農林水産大臣の国内出張について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/240723.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第六次薬物乱用防止五か年戦略」フォローアップについて （令和５年の薬物情勢公表）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41558.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術・学術審議会 大学研究力強化委員会（第15回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu32/siryo/000017833_00017.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財務総研で実施している統計調査（「ファイナンス寄稿」）",
+        "link": "https://www.mof.go.jp/insideLink/20240722111324.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202407/23_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和6年7月23日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240723.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "中国による日本製ステンレス製品に対するアンチダンピング課税措置が撤廃されました",
+        "link": "https://www.meti.go.jp/press/2024/07/20240723001/20240723001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "官庁訪問（デジタル・電気・電子区分）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/guidance-den-houmon.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "【労働基準監督官採用関係】都道府県労働局からのお知らせ・説明会等のご案内 （京都労働局）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第７回ゲノム医療推進法に基づく基本計画の検討に係るワーキンググループ　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41688.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "今後の幼児教育の教育課程、指導、評価等の在り方に関する有識者検討会 （第9回）の配付資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/189/giji_list/mext_00017.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「商店街にぎわい創出事業」の2次公募／2次締切の補助事業者を採択しました",
+        "link": "https://www.chusho.meti.go.jp/shogyo/shogyo/2024/240723kino_fukugo.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年7月22日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度 普通交付税の算定結果等",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei04_02000161.html"
+    },
+    {
+        "category": "総務省",
+        "title": "郵便局データ活用アドバイザリーボード（第6回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/postaldata_advisoryboard/02ryutsu14_04000180.html"
     }
 ]
