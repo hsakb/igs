@@ -38,5 +38,115 @@
         "category": "財務省",
         "title": "国債金利情報(令和6年7月23日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第70回　労働政策審議会雇用環境・均等分科会」（ハイブリッド会議）を開催します（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41747.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "Global×Innovation人材育成フォーラム（第2回）を開催します",
+        "link": "https://www.mext.go.jp/a_menu/koutou/ryugaku/mext_02804.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "先端研究設備・機器の共用推進に係る論点整理",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu28/houkoku/1418594_00004.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会（第88回）の会議動画を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/059/kaisai/1423010_00037.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "英語版「食品製造現場におけるロボット等導入及び運用時の衛生管理ガイドライン」を策定！",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/kigyo/240724.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年度「野菜の日」Webシンポジウムを開催します",
+        "link": "https://www.maff.go.jp/j/press/nousan/ryutu/240724.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「令和6年度病害虫発生予報第5号（水稲特集）」の発表について",
+        "link": "https://www.maff.go.jp/j/press/syouan/syokubo/240724.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働基準関係法制研究会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-roudou_558547_00024.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度第５回厚生科学審議会医薬品医療機器制度部会　資料 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41751.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第372回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41128.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会(職業安定分科会労働力需給制度部会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第17回）の入札結果（令和6年7月24日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20240724.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第10回「労働基準関係法制研究会」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41537.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医系技官採用情報：医務技監からのメッセージ動画を掲載しました。",
+        "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国際数学オリンピックに参加した生徒が金メダル等を獲得しました。また、国際的な科学技術コンテストで特に優秀な成績をおさめた生徒に対する文部科学大臣表彰の受賞者を決定しました。",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2024/1419630_00019.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "内部通報に関する意識調査(就労者1万人アンケート)結果概要版(英語版)の公表について",
+        "link": "https://www.caa.go.jp/notice/entry/038810/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第6回CEFIA官民フォーラムを開催しました",
+        "link": "https://www.meti.go.jp/press/2024/07/20240724001/20240724001.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第6回日ASEAN スマートシティ・ネットワーク ハイレベル会合の実施について",
+        "link": "http://www.mlit.go.jp/report/press/sogo07_hh_000731.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "空港脱炭素化の推進に向けた取組を支援します〜空港脱炭素化推進事業費補助金の２次公募を開始〜",
+        "link": "http://www.mlit.go.jp/report/press/kouku09_hh_000256.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "航空機の離陸順序（No.1、No.2等）に関する情報提供を再開します",
+        "link": "http://www.mlit.go.jp/report/press/kouku14_hh_000015.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "内航船革新的運航効率化・非化石エネルギー転換推進事業の公募開始〜内航海運における省エネルギー化・非化石エネルギー転換を支援します〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji07_hh_000328.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "木造住宅の地震後の安全チェック方法を作成しました！〜住み続けてよいか、専門家に相談した方がよいかをご自身で簡単に判定できます〜",
+        "link": "http://www.mlit.go.jp/report/press/house05_hh_001016.html"
     }
 ]
