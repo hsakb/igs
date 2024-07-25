@@ -53,5 +53,105 @@
         "category": "財務省",
         "title": "国債金利情報(令和6年7月24日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校施設の在り方に関する調査研究協力者会議（令和4年度～）（第6回）配布資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shisetu/066/siryo/mext_01844.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第69回中央最低賃金審議会 資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41779.html"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動(令和6年7月25日)",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2024.07.25_39.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "（雇均）HP更新用",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000188657.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校施設の在り方に関する調査研究協力者会議（令和4年度～）（第6回）議事要旨",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shisetu/066/gijiroku/mext_01843.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "（雇均）HP更新用",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000183639.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "2019酸欠・硫化水素中毒発生状況について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_05929.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第65回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41745.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年「労働安全衛生調査（実態調査）」の結果を公表します",
+        "link": "https://www.mhlw.go.jp/toukei/list/r05-46-50b.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年度文部科学省寄附フォーラム",
+        "link": "https://www.mext.go.jp/a_menu/kifuforum/1405425_00004.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省研究振興局非常勤職員（期間業務職員）採用のお知らせ（令和6年10月1日採用）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00133.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立大学法人等の機能強化に向けた検討会（第1回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/koutou/128/mext_00002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第28回 医療用から要指導・一般用への転用に関する評価検討会議（オンライン会議）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41554.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度障害者総合福祉推進事業に係る公募について（２次公募） ",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000193950_00029.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校施設の質的改善・向上に関するワーキンググループ（第9回）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shisetu/066/01/gijiroku/mext_01842.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "(雇均)HP更新用",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000187570.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和6年7月25日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result240725.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第2回デジタル社会における消費取引研究会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/038798/"
+    },
+    {
+        "category": "内閣府",
+        "title": "7月月例経済報告",
+        "link": "https://www5.cao.go.jp/keizai3/getsurei/getsurei-index.html"
     }
 ]
