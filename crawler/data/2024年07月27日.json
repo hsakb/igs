@@ -3,5 +3,25 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国際租税協力に関するG20閣僚リオデジャネイロ宣言（英文のみ）（於：ブラジル・リオデジャネイロ）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/MinisterialDeclaration.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "G20財務大臣・中央銀行総裁会議議長声明（英文のみ）（令和6年7月25-26日　於：ブラジル・リオデジャネイロ）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/Annex.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "G20財務大臣・中央銀行総裁会議共同声明（仮訳）（令和6年7月25-26日　於：ブラジル・リオデジャネイロ）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/20240727.pdf"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年7月25日からの大雨に関する被害状況等について（第9報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000485.html"
     }
 ]
