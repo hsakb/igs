@@ -28,5 +28,95 @@
         "category": "総務省",
         "title": "労働力調査（基本集計）2024年（令和6年）6月分及び4〜6月期平均",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei04_01000266.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "坂本農林水産大臣の国内出張について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/240730.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（8月債）の発行予定額等（令和6年7月30日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240730.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和6年7月30日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240730.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第９回労働政策審議会雇用環境・均等分科会家内労働部会",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000207558_00011.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査［地方調査］－令和６年２月分結果概要",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/0602/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第６回労働政策審議会雇用環境・均等分科会家内労働部会資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_25041.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被災３県の雇用状況について（令和６年７月分）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41918.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年7月29日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年8月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/kashi20240730.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年8月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/yotaku20240730.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易取引通貨別比率（令和6年上半期分）【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20240729100607.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第724回　入札監理小委員会（会議資料）",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/kanmin/02shingi06_02000939.html"
+    },
+    {
+        "category": "総務省",
+        "title": "電気通信紛争処理委員会（第244回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/hunso/case/iinkai/02shingi02_04000245.html"
+    },
+    {
+        "category": "総務省",
+        "title": "日本放送協会のインターネット活用業務の競争評価に関する準備会合(第7回)配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/nhk_internet/02ryutsu07_04000488.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会 電気通信事業政策部会 接続政策委員会（第72回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001054.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年7月25日からの大雨に関する被害状況等について（第15報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000491.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度第１回薬事審議会化学物質安全対策部会　資料 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41760.html"
     }
 ]
