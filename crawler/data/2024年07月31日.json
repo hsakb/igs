@@ -43,5 +43,80 @@
         "category": "厚生労働省",
         "title": "第57回厚生科学審議会予防接種・ワクチン分科会　資料",
         "link": "https://www.mhlw.go.jp/stf/newpage_41951.html"
+    },
+    {
+        "category": "財務省",
+        "title": "クライメート・トランジション利付国債",
+        "link": "https://www.mof.go.jp/jgbs/topics/JapanClimateTransitionBonds/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債ＩＲ",
+        "link": "https://www.mof.go.jp/jgbs/IR/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和6年6月30日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "財務省",
+        "title": "fy2023k_budget_and_settlement",
+        "link": "https://www.mof.go.jp/tax_policy/reference/fy2023k_budget_and_settlement.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "令和５年度決算概要",
+        "link": "https://www.mof.go.jp/policy/budget/budger_workflow/account/fy2023/ke060731.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "令和５年度租税及び印紙収入決算額調",
+        "link": "https://www.mof.go.jp/tax_policy/reference/account/r2023.pdf"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第38回消費者教育推進会議資料を掲載しました",
+        "link": "https://www.caa.go.jp/notice/entry/038907/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第241回社会保障審議会介護給付費分科会（持ち回り）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_41625.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「高等学校における教育の質確保への対応のための調査研究」（総合評価落札方式）の募集について",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00417.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和５年分年報公表（矯正統計、少年矯正統計及び保護統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債の償還予定額（令和6年8月分）",
+        "link": "https://www.mof.go.jp/insideLink/20240726095627.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年7月30日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "衛星放送ワーキンググループ（第10回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu11_04000114.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年7月25日からの大雨に関する被害状況等について（第17報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000494.html"
     }
 ]
