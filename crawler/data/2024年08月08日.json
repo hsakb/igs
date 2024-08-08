@@ -78,5 +78,90 @@
         "category": "総務省",
         "title": "地方自治体のデジタルトランスフォーメーション推進に係る検討会（第31回）",
         "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/chiho_dx/02gyosei07_04000166.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "後期高齢者医療事業状況報告",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kouki_houkoku.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和４年度国民健康保険（市町村国保）の財政状況について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_42074.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "雇用の分野における女性活躍推進に関する検討会報告書を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_42133.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "急速な少子化が進行する中での将来社会を見据えた高等教育の在り方について（中間まとめ）（令和6年8月8日　高等教育の在り方に関する特別部会）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/053/toushin/1411360_00001.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気ウォッチャー調査（令和6年7月調査）",
+        "link": "https://www5.cao.go.jp/keizai3/watcher_index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第2回デジタル社会における消費取引研究会の議事録を掲載いたしました。",
+        "link": "https://www.caa.go.jp/notice/entry/039002/"
+    },
+    {
+        "category": "財務省",
+        "title": "紙幣探知犬（カレンシードッグ）の導入について【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20240805145356.html"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札結果（令和6年8月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result240808.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第83回）の入札結果（令和6年8月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20240808.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1248回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20240808.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療用医薬品の安定確保策に関する関係者会議（第14回）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_42180.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "港湾の生産性向上と労働環境改善に向けて〜「港湾技術開発制度」の対象とする技術開発課題を追加採択〜",
+        "link": "http://www.mlit.go.jp/report/press/port05_hh_000326.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "海上輸送の安全にかかわる情報（令和５年度）を公表します〜旅客船及び貨物船に対する運航管理監査の結果を公表〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji06_hh_000321.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "船員法等関係法令※に違反した船舶所有者を公表します（令和６年度第１/四半期）",
+        "link": "http://www.mlit.go.jp/report/press/kaiji06_hh_000322.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "世界各国と協調して寄港国検査（PSC：ポート・ステート・コントロール） 集中検査キャンペーンを実施します！",
+        "link": "http://www.mlit.go.jp/report/press/kaiji08_hh_000108.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「新技術活用サプライチェーン全体輸送効率化・非化石エネルギー転換推進事業」 （補助事業）の二次募集を開始します",
+        "link": "http://www.mlit.go.jp/report/press/tokatsu01_hh_000814.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "新たな『水辺を活かしたまちづくり』が始動〜全国２２箇所の「かわまちづくり」計画を新規登録！〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo04_hh_000246.html"
     }
 ]
