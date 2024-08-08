@@ -23,5 +23,60 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和5年度食料自給率・食料自給力指標について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/240808.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "繰上げ閣議の概要／岸田総理のカザフスタン、ウズベキスタン及びモンゴル訪問／拉致問題に関する中学生サミットについて",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202408/8_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第83回）の入札発行（令和6年8月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240808.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和6年8月8日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer240808.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1248回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240808.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "健康増進法に規定する特別用途表示の許可等に関する内閣府令の一部を改正する内閣府令(案)等に関する意見募集について",
+        "link": "https://www.caa.go.jp/notice/entry/038931/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年8月7日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律の一部の施行期日を定める政令」等の閣議決定",
+        "link": "http://www.mlit.go.jp/report/press/house01_hh_000119.html"
+    },
+    {
+        "category": "総務省",
+        "title": "地方自治体のデジタルトランスフォーメーション推進に係る検討会（第29回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/chiho_dx/02gyosei07_04000164.html"
+    },
+    {
+        "category": "総務省",
+        "title": "地方自治体のデジタルトランスフォーメーション推進に係る検討会（第31回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/chiho_dx/02gyosei07_04000166.html"
     }
 ]
