@@ -8,5 +8,60 @@
         "category": "総務省",
         "title": "令和6年8月13日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001045.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2024年7月の地震活動の評価を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00080.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2024年8月8日日向灘の地震の評価を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00081.html"
+    },
+    {
+        "category": "財務省",
+        "title": "ディスカッション・ペーパーを掲載しました「Invoice Currency Choice and its Determinants in Japanese Trade: New Evidence from Japanese Customs Data」",
+        "link": "https://www.mof.go.jp/insideLink/20240806170412.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（8月債）の発行予定額等（令和6年8月13日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240813.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "GX推進機構の金融支援業務に関する支援基準を定めました",
+        "link": "https://www.meti.go.jp/press/2024/08/20240813001/20240813001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/saiyou.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "ベトナムフェスティバルｉｎ札幌２０２４　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240813message.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "2024年度労働基準監督官採用面接申込み状況（８月13日10時00時点）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_05076.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年8月9日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "第49回独立行政法人評価制度委員会　議事概要",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000494.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第66回独立行政法人評価制度委員会評価部会　議事概要",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000495.html"
     }
 ]
