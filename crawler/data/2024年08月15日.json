@@ -13,5 +13,55 @@
         "category": "内閣府",
         "title": "四半期別GDP速報（2024年4-6月期・1次速報）",
         "link": "https://www.esri.cao.go.jp/jp/sna/menu.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年度「全国一斉『こどもの人権相談』強化週間」を実施します",
+        "link": "http://www.moj.go.jp/JINKEN/jinken112.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "坂本農林水産大臣の海外出張について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/240815.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和6年8月15日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240815.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第411回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240815.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和6年度 第2回日本版包装前面栄養表示に関する検討会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/038897/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理は宮崎における地震に関する指示を行いました",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/_20240815shiji.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年8月14日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和6年度交通安全フォーラムのお知らせ【9月5日（木）開催】",
+        "link": "https://www8.cao.go.jp/koutu/keihatsu/forum/r06/info.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第40回政策評価審議会（令和6年8月9日持ち回り開催）資料・議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/hyouka/hyokashingikai_n/gijiroku/hyouka_240815000175968.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "The list of designated regions for birds",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134696.html"
     }
 ]
