@@ -8,5 +8,60 @@
         "category": "総務省",
         "title": "令和6年8月20日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001047.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "営繕技官募集案内【係長級】",
+        "link": "https://www.mhlw.go.jp/general/saiyo/eizen_kakariin.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第189回）の入札発行（令和6年8月20日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240820.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和6年8月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240820.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第412回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240820.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "日本産業規格（JIS）を制定・改正しました（2024年8月分）",
+        "link": "https://www.meti.go.jp/press/2024/08/20240820001/20240820001.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "繊維製品品質表示規程の一部を改正する告示について更新しました",
+        "link": "https://www.caa.go.jp/notice/entry/038929/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第9回解約料の実態に関する研究会の資料を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/039056/"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和6年7月29日開催）議事要旨",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20240729.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年8月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "【総合職】説明会情報を更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03b.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "研究計画・評価分科会（第93回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/shiryo/mext_00027.html"
     }
 ]
