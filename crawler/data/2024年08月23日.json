@@ -13,5 +13,80 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 全国 2024年(令和6年)7月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000290.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年度　文部科学大臣優秀教職員表彰「社会に開かれた教育実践奨励賞」に係る推薦団体の募集について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/daijin/1417596_00006.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "フィナンシャル・レビュー157号「AIの発達やパンデミック後の経済社会と税制」を掲載しました",
+        "link": "https://www.mof.go.jp/insideLink/20240820115901.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "森ハブ・プラットフォームイベントを開催します",
+        "link": "https://www.rinya.maff.go.jp/j/press/kaihatu/240823.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "みどりの食料システム法に基づく基盤確立事業実施計画の認定について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kankyo/240823.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「サザエさん一家の”もりのわ”話 吹き出しコンテスト」の受賞作品が決まりました",
+        "link": "https://www.rinya.maff.go.jp/j/press/sanson_ryokka/240823.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1252回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240823.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1253回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240823.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度の医師の臨床研修医の採用実績を公表します",
+        "link": "https://www.mhlw.go.jp/stf/houdou/0000171153_00008.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "いじめに対する教職員の研修動画教材について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1406070_00002.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年8月22日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会（第89回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/059/shiryo/1422108_00040.htm"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会　IPネットワーク設備委員会（第79回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/02kiban05_04000675.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信行政・郵政行政審議会　電気通信事業部会（第146回）配布資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/yusei_gyousei/02ryutsu01_04000438.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "不正アクセス行為対策等の実態調査及びアクセス制御機能に関する技術の研究開発の状況等に関する調査の実施について",
+        "link": "http://www.npa.go.jp/newlyarrived/2024/20240819001.html"
     }
 ]
