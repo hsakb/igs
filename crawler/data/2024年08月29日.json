@@ -18,5 +18,55 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第2回食品寄附等に関する官民協議会開催のお知らせ",
+        "link": "https://www.caa.go.jp/notice/entry/039161/"
+    },
+    {
+        "category": "財務省",
+        "title": "菅沼　健司様に「グローバル・バリュー・チェーンの構造変化：『長さ』と『立ち位置』を用いた60年間の分析」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20240807155358.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（第464回）の入札発行（令和6年8月29日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240829.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（9月債）の発行予定額等（令和6年8月29日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240829.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房文教施設企画・防災部施設企画課 非常勤職員（時間雇用職員）採用のお知らせ（令和6年11月1日付、令和7年1月1日付）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00129.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財務省本庁舎内第二・三食堂の設置及び経営業務委託契約",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouboitakukoukoku/kyousai420240829.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年8月28日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年9月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/kashi20240829.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年9月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/yotaku20240829.html"
     }
 ]
