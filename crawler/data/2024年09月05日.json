@@ -13,5 +13,65 @@
         "category": "厚生労働省",
         "title": "毎月勤労統計調査ー令和6年7月分結果速報",
         "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/2407p/2407p.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（9月債）の発行予定額等（令和6年9月5日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240905.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第83回）の入札発行（令和6年9月5日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240905.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国民健康・栄養調査",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/gaiyo/k-eisei.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第12期 技術士分科会 制度検討特別委員会（第2回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu7/024/kaisai/mext_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和6年7月29日開催）議事録",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20240729.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年9月4日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "自動運転時代の“次世代のITS通信”研究会（第10回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/Next_Generation_ITS/02kiban14_04001162.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（7月12日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00642.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（7月23日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00643.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（7月30日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00644.html"
+    },
+    {
+        "category": "総務省",
+        "title": "接続料の算定等に関する研究会（第88回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/access-charge_calculation/02kiban03_04001059.html"
     }
 ]
