@@ -18,5 +18,85 @@
         "category": "総務省",
         "title": "家計調査報告（二人以上の世帯）2024年（令和6年）7月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000259.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "坂本農林水産大臣の海外出張について",
+        "link": "https://www.maff.go.jp/j/press/y_kokusai/kikou/240906.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度生活保護システム等標準化検討会　第２回自治体規模別（種別）オプションWT",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43423.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和６年版 労働経済の分析」（労働経済白書）を公表します～分析テーマは「人手不足への対応」～",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43038.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "生活保護システム等標準化検討会　自治体規模別（種別）オプションWT",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-syakai_141308_00006.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和6年10月18日「特定病原体等の運搬に関する講習会」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kekkaku-kansenshou17/03.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬剤師確保対策について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/yakuzaishikakuho.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年版　労働経済の分析　－人手不足への対応－",
+        "link": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "白書、年次報告書",
+        "link": "https://www.mhlw.go.jp/toukei_hakusho/hakusho/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1254回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240906.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1256回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240906.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央最低賃金審議会 (目安に関する小委員会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第８回新たな地域医療構想等に関する検討会：資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43400.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国家公務員OPENゼミ・インターンシップ　労働基準監督官",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年9月5日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "令和3年10月31日執行の衆議院比例代表選出議員選挙北海道選挙区における欠員による繰上補充の選挙会において決定された事項",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei15_02000409.html"
     }
 ]
