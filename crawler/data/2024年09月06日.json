@@ -98,5 +98,145 @@
         "category": "総務省",
         "title": "令和3年10月31日執行の衆議院比例代表選出議員選挙北海道選挙区における欠員による繰上補充の選挙会において決定された事項",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei15_02000409.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中医協各回情報",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128153.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第34回住宅金融支援機構債券（グリーンボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1883.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ロシア連邦政府等から提供された抑留者に関する資料について（資料の一覧や死亡者名簿が閲覧できます） ",
+        "link": "https://www.mhlw.go.jp/topics/bukyoku/syakai/soren/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（年金事業管理部会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_191001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会（再生医療等製品・生物由来技術部会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi-yakuji_39208.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和５年度医薬品販売制度実態把握調査結果について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43096.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　再生医療等製品・生物由来技術部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43221.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第７５回社会保障審議会年金事業管理部会の開催（ペーパーレス）について",
+        "link": "https://www.mhlw.go.jp/stf/kanribukai-75_00001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度第１回適正使用調査会（資料 ）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43282.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ロシア連邦政府などから提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43289.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中央社会保険医療協議会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43368.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ウクライナ保健省との協力覚書に署名しました",
+        "link": "https://www.mhlw.go.jp/stf/0001210262_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学ファンド・大学基金運用フォーラム",
+        "link": "https://www.mext.go.jp/a_menu/kagaku/daigakukenkyuryoku/mext_02839.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和6年度大学教育再生戦略推進費「大学の世界展開力強化事業」～EU諸国等との大学間交流形成支援～の選定事業の決定について",
+        "link": "https://www.mext.go.jp/a_menu/koutou/kaikaku/sekaitenkai/1413413_00037.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学院部会（第116回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/kaisai/1421019_00020.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和６年度「救急の日」及び「救急医療週間」（令和６年９月６日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#067848"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年6月8日から7月30日までの間の豪雨による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/240906.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第63回労働政策審議会人材開発分科会監理団体審査部会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43171.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和６年上半期の税関における知的財産侵害物品の差止状況",
+        "link": "https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/chiteki/cy2024_1/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00461.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気動向指数（令和6年7月分速報）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度の医師臨床研修費補助事業の交付申請・事業実績報告書について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/rinsyo/hojyojigyou_shinsei/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1254回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20240906.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "健康・医療・介護情報利活用検討会 - 開催案内16",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43133.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年6月8日から7月30日までの間の豪雨による災害が激甚災害として指定されたことに伴い、追加の被災中小企業・小規模事業者対策を講じます",
+        "link": "https://www.meti.go.jp/press/2024/09/20240906002/20240906002.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和5年改正景品表示法等説明会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/038784/"
     }
 ]
