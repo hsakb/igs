@@ -8,5 +8,50 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和６年９月６日（金）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00540.html"
+    },
+    {
+        "category": "財務省",
+        "title": "神田ADB総裁後任候補指名についての財務大臣談話",
+        "link": "https://www.mof.go.jp/policy/international_policy/mdbs/adb/20240906161345.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202409/10_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第172回）の入札発行（令和6年9月10日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240910.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "令和６年能登半島地震に係る被災者の生活と生業支援のためのパッケージに基づく予備費使用について",
+        "link": "https://www.mof.go.jp/insideLink/20240909153334.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年9月9日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "文部科学省",
+        "title": "高等教育の在り方に関する特別部会（第9回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/053/siryo/mext_01885.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和6年度国土交通省関係予備費の使用について",
+        "link": "http://www.mlit.go.jp/report/press/kanbo05_hh_000276.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　電気通信事業政策部会　通信政策特別委員会（第16回）配布資料・議事概要",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/tsusin_seisaku/02kiban02_04000775.html"
     }
 ]
