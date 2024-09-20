@@ -18,5 +18,95 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 全国 2024年(令和6年)8月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000292.html"
+    },
+    {
+        "category": "財務省",
+        "title": "２０２５年日本国際博覧会記念貨幣（第三次発行等）を発行します",
+        "link": "https://www.mof.go.jp/policy/currency/coin/commemorative_coin/expo_2025/20240920.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "初等中等教育分科会（第145回）議事録",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1422565_00033.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「森林×ACT（アクト）チャレンジ2024」表彰式・シンポジウムを開催します！",
+        "link": "https://www.rinya.maff.go.jp/j/press/kikaku/240920.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（10月債）の発行予定額等（令和6年9月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240920.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1259回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240920.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第10回解約料の実態に関する研究会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/039404/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和6年度第5回薬事審議会化学物質安全対策部会化学物質調査会令和6年度化学物質審議会第2回安全対策部会第247回中央環境審議会環境保健部会化学物質審査小委員会【第一部】配付資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43694.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "説明会情報の更新(総合職（数理・デジタル系）)",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/suuri.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会（化学物質安全対策部会（化学物質調査会））",
+        "link": "https://www.mhlw.go.jp/stf/shingi-yakuji_39229.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第3回～第8回解約料の実態に関する研究会の議事概要を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/039421/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年9月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会　陸上無線通信委員会　V-High帯公共BB／狭帯域無線システム作業班（第3回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/idou/v_high/02kiban13_04000082.html"
+    },
+    {
+        "category": "総務省",
+        "title": "官民競争入札等監理委員会事務局総務担当 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02shingi06_02000947.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（8月27日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00660.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（8月30日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00661.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（9月4日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00662.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(9月12日)",
+        "link": "https://www.caa.go.jp/notice/entry/039443/"
     }
 ]
