@@ -78,5 +78,105 @@
         "category": "財務省",
         "title": "国債金利情報(令和6年9月20日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "原子爆弾被爆者医療分科会（各回情報）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-shippei_127700.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎年10月は中小企業退職金共済制度の「加入促進強化月間」です",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43158.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第280回原子爆弾被爆者医療分科会」の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43196.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "疾病・障害認定審査会原子爆弾被爆者医療分科会の開催結果について(2024年８月26日)  ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43199.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "麻薬・覚醒剤・大麻乱用防止運動の実施について",
+        "link": "https://www.mhlw.go.jp/stf/houdou/0000179105_00011.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医療機器・体外診断薬部会（ペーパーレス）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43737.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第72回　労働政策審議会雇用環境・均等分科会」（ハイブリッド会議）を開催します（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43819.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働経済動向調査（令和６年８月）の概況",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keizai/2408/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和４年度福祉行政報告例（児童関係の一部）の概況",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/gyousei/222/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「研究開発に係る主務大臣が定める人の生命若しくは身体の保護のための措置又は非常災害に対する応急の措置として、緊急に遺伝子組換え生物等の第二種使用等をする必要がある場合を定める件」 に関するパブリック・コメント（意見公募手続）を実施します",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01432.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "デジタル学習基盤特別委員会(第5回)の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/093/kaisai/mext_01858.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会（第90回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/059/kaisai/1423010_00039.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教員養成部会（第144回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/mext_01891.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和6年度第3回食品衛生基準審議会農薬・動物用医薬品部会の資料掲載について",
+        "link": "https://www.caa.go.jp/notice/entry/039307/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "坂本農林水産大臣の海外出張について",
+        "link": "https://www.maff.go.jp/j/press/y_kokusai/kikou/240924.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "10月は「木材利用促進月間」です",
+        "link": "https://www.rinya.maff.go.jp/j/press/riyou/240924_23.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "岸田総理はアメリカ合衆国のニューヨークを訪問しました（３日目）（２）",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202409/23usa_2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国民年金保険料のスマートフォン決済サービスの拡大について  ",
+        "link": "https://www.mhlw.go.jp/stf/houdou/0000190457_00017.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第414回)入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20240924.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「大学発医療系スタートアップ支援プログラム」の採択拠点の決定をお知らせいたします。",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2024/1415183_00002.html"
     }
 ]
