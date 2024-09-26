@@ -28,5 +28,85 @@
         "category": "総務省",
         "title": "大臣官房総務課管理室 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kanbo03_04000115.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（10月債）の発行予定額等（令和6年9月26日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20240926.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第17回）の入札発行（令和6年9月26日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20240926.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和6年9月26日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer240926.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "第8回 消費者をエンパワーするデジタル技術に関する専門調査会【9月24日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/digital_technology/008/shiryou/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（国際保健専門官又は主査）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-kokusaihoken_syusa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会副作用・感染等被害判定第一部会　議事要旨別添",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000204154_00005.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会副作用・感染等被害判定第二部会　議事要旨別添",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000208738_00004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和３年度第２回機器部会　議事次第",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000190382_00010.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "ツーリズム・エキスポ・ジャパン２０２４　岸田総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/101_kishida/discourse/20240926message.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事・食品衛生審議会副作用・感染等被害判定第一部会　議事要旨別添",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000204154_00004.html"
+    },
+    {
+        "category": "財務省",
+        "title": "各府省の概算要求書及び要望一覧公開ページへのリンク先一覧",
+        "link": "https://www.mof.go.jp/insideLink/20240925182211.html"
+    },
+    {
+        "category": "法務省",
+        "title": "【開催案内】関東ブロック再犯防止シンポジウムのお知らせ",
+        "link": "http://www.moj.go.jp/hogo1/soumu/hogo_k_kanto_kanto.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年9月25日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保険労務士又は社会保険労務士法人の懲戒処分事案（新フォーマット版）",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roumushi/shahorou-tyoukai/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和８年度採用予定者向け採用パンフレット掲載のお知らせ",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/shinri04.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "人事院主催公務研究セミナーのご案内",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/jinjiinkoumu_seminar.html"
     }
 ]
