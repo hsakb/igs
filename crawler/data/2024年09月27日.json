@@ -23,5 +23,125 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2024年(令和6年)9月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000293.html"
+    },
+    {
+        "category": "法務省",
+        "title": "少年鑑別所視察委員会の活動状況について（令和５年度）",
+        "link": "http://www.moj.go.jp/kyousei1/kyousei08_00132.html"
+    },
+    {
+        "category": "法務省",
+        "title": "少年院視察委員会の活動状況について（令和５年度）",
+        "link": "http://www.moj.go.jp/kyousei1/_00005.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第62回政策評価に関する有識者会議",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/seisaku/kaisai/1419237_00010.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "刑事施設視察委員会の活動状況について（令和５年度）",
+        "link": "http://www.moj.go.jp/kyousei1/kyousei08_00131.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2024年度財政経済セミナーを実施しました",
+        "link": "https://www.mof.go.jp/insideLink/20240926115948.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第153次製造貨幣大試験を実施します",
+        "link": "https://www.mof.go.jp/policy/currency/coin/test/20240927.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202409/27_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1259回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20240927.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1260回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20240927.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第８回ゲノム医療推進法に基づく基本計画の検討に係るワーキンググループ　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43920.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和6年度10月食品ロス削減月間について",
+        "link": "https://www.caa.go.jp/notice/entry/039462/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「令和6年度食品ロス削減推進表彰」受賞者決定",
+        "link": "https://www.caa.go.jp/notice/entry/039463/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第9回解約料の実態に関する研究会の議事録を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/039489/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "10月は「食品ロス削減月間」、10月30日は「食品ロス削減の日」！",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/recycle/240927_2.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国の災害用備蓄食品の有効活用の取組みについて",
+        "link": "https://www.mof.go.jp/application-contact/procurement/20211005180654.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第62回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会　議事録 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_43956.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年9月26日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年10月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/kashi20240927.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年10月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/yotaku20240927.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "ＴＥＣ−ＦＯＲＣＥ（高度技術指導班）として河川分野の専門家を石川県に派遣します〜令和６年９月20日からの大雨を踏まえた今後の対策を支援〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo03_hh_001268.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年9月20日からの大雨による被害に係る普通交付税（11月定例交付分）の繰上げ交付",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000378_00006.html"
+    },
+    {
+        "category": "総務省",
+        "title": "9月20日からの大雨に関する被害状況等について（第14報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000551.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "高付加価値旅行者の誘客に向けて集中的な支援等を行うモデル観光地３地域を追加選定",
+        "link": "http://www.mlit.go.jp/kankocho/news04_00004.html"
     }
 ]
