@@ -268,5 +268,50 @@
         "category": "首相官邸",
         "title": "岸田内閣は総辞職しました",
         "link": "https://www.kantei.go.jp/jp/101_kishida/actions/202410/01soujishoku.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "土屋復興大臣退任記者会見録［令和６年10月1日］",
+        "link": "https://www.reconstruction.go.jp/topics/24/10/20241001192942.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "盛山正仁文部科学大臣記者会見録（令和6年10月1日）",
+        "link": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00526.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "予算・調達｜入札参加資格（競争参加資格の申請・変更について）を更新",
+        "link": "https://www.mod.go.jp/j/budget/shikaku/sankashikaku_shinsei.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "予算・調達｜入札参加資格を更新",
+        "link": "https://www.mod.go.jp/j/budget/shikaku/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜防衛白書（HTML版）を掲載",
+        "link": "https://www.mod.go.jp/j/press/wp/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "防衛省について｜所管の法人を更新",
+        "link": "https://www.mod.go.jp/j/profile/houjin/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "予算・調達｜技術基準・仕様を更新",
+        "link": "https://www.mod.go.jp/j/budget/documents/index.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜防衛大臣記者会見（10月1日）を掲載",
+        "link": "https://www.mod.go.jp/j/press/kisha/2024/1001a.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜人事発令（10月1日付:防衛省発令（指定職人事、書記官人事、１佐職人事））を更新",
+        "link": "https://www.mod.go.jp/j/press/jinji/index.html"
     }
 ]
