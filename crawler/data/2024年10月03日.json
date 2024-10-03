@@ -8,5 +8,40 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第376回）の入札発行（令和6年10月3日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241003.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（10月債）の発行予定額等（令和6年10月3日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241003.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札予定（令和6年10月3日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer241003.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "臨時閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202410/3_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月2日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "第148回人口・社会統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/jinkou/kaigi/02shingi05_02000725.html"
     }
 ]
