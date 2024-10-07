@@ -13,5 +13,55 @@
         "category": "厚生労働省",
         "title": "第22回社会保障審議会資金運用部会（ペーパーレス）資料",
         "link": "https://www.mhlw.go.jp/stf/newpage_shikinshiryo22.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第56回ハンセン病元患者家族補償金認定審査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44173.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年度産業標準化事業表彰の受賞者を発表します",
+        "link": "https://www.meti.go.jp/press/2024/10/20241007003/20241007003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国家公務員OPENゼミ・労働基準監督官業務説明会",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福祉行政報告例（令和６年７月分概数）及び調査票ページ更新",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/gyousei/fukushi/m24/07.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月4日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "9月20日からの大雨に関する被害状況等について（第23報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000560.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "観光地域づくり法人（第17弾「登録DMO」、第27弾「候補DMO」）の登録及び登録取消について",
+        "link": "http://www.mlit.go.jp/kankocho/topics04_00017.html"
     }
 ]
