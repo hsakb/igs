@@ -28,5 +28,85 @@
         "category": "総務省",
         "title": "家計調査報告（二人以上の世帯）2024年（令和6年）8月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000260.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年度「全国鉱山保安表彰」受賞者が決定しました",
+        "link": "https://www.meti.go.jp/press/2024/10/20241008001/20241008001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第84回）の入札発行（令和6年10月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241008.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第415回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241008.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「デジタル社会における消費者法制の比較法研究」のプログレッシブレポート",
+        "link": "https://www.caa.go.jp/notice/entry/039485/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公募公示（住基接続システムに係る耐タンパー装置の賃貸借及び保守業務　一式）",
+        "link": "https://www.mhlw.go.jp/stf/shinsei_boshu/choutatsujouhou/chotatu/j-oth-kikakukoubo/newpage_09623.html"
+    },
+    {
+        "category": "財務省",
+        "title": "アルメニアとの租税条約の締結交渉を開始します",
+        "link": "https://www.mof.go.jp/tax_policy/summary/international/tax_convention/press_release/20241008arm.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月7日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "【プレスリリース】“社会を明るくする運動”名誉フラッグアーティスト 故谷村新司氏に関する動画の公開について（R6/10/8（火）9:00公開希望）",
+        "link": "http://www.moj.go.jp/hogo1/kouseihogoshinkou/hogo03_00168.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令」等を閣議決定〜国等の建築物の計画通知について、指定確認検査機関による審査等が可能となります〜",
+        "link": "http://www.mlit.go.jp/report/press/house05_hh_001020.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第6回職業分類改定研究会",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/Occupational_Classification/dai6kai_00002.html"
+    },
+    {
+        "category": "総務省",
+        "title": "eシールに係る認定制度の関係規程策定のための有識者会議（第4回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/e_seal_yushikisha/02cyber01_04000001_00302.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "養成・更新講習の実施を希望する機関の方へ、令和6年度11月申請の申請等要領を掲載しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/koushu_jisshi.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "キャリアコンサルタント登録制度に係る各種申請について、申請手続書類を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/career_consulting/shinsei.html"
     }
 ]
