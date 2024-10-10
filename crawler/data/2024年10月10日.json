@@ -8,5 +8,60 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2024年9月の地震活動の評価を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00097.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年度の休眠会社等の整理作業（みなし解散）について",
+        "link": "http://www.moj.go.jp/MINJI/minji06_00083.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第173回）の入札発行（令和6年10月10日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241010.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第416回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241010.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第56回ハンセン病元患者家族補償金認定審査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44247.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1263回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20241010.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "分離適格振替国債の分離状況並びに現在高推移",
+        "link": "https://www.mof.go.jp/jgbs/reference/appendix/suii/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月9日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "9月20日からの大雨に関する被害状況等について（第24報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000561.html"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタル空間における情報流通の諸課題への対処に関する検討会（第1回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000507.html"
     }
 ]
