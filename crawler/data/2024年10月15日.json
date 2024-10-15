@@ -18,5 +18,60 @@
         "category": "総務省",
         "title": "衆議院議員総選挙の公示日における総務大臣談話",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei15_02000417.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年クライメート・トランジション利付国債（10月債）の発行予定額等（令和6年10月15日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241015.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第415回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241015.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国会会議録について",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/kaigiroku/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第11回解約料の実態に関する研究会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/039665/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第６０回　厚生科学審議会疾病対策部会　指定難病検討委員会（持ち回り）が開催されました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44244.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月11日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "衆議院議員の総選挙についての内閣官房長官談話",
+        "link": "https://www.kantei.go.jp/jp/tyokan/102_ishiba/20241015danwa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第43回危険業務従事者叙勲受章者について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44176.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第25回臓器移植推進国民大会が開催されます",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44304.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年10月27日の衆議院議員総選挙及び最高裁判所裁判官国民審査における不在者投票の方法について（住まわれていた市町村以外の市町村へ避難されている皆様へ）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000596.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信法学研究会（令和6年度）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/hougakuken/R06_siryou.html"
     }
 ]
