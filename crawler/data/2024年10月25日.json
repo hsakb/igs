@@ -33,5 +33,75 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2024年(令和6年)10月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000296.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年9月20日から9月23日までの間の豪雨による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/241025.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年8月26日から9月3日までの間の暴風雨及び豪雨による災害についての激甚災害並びにこれに対し適用すべき措置の指定に関する政令について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/241025_1.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1265回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20241025.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1266回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20241025.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（健康・生活衛生局難病対策課移植医療対策推進室長補佐又は主査）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-isyokuiryoutaisakusuisinsitsu_syusa.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年８月分月報公表（訟務事件統計、登記統計、検察統計、矯正統計、少年矯正統計、保護統計及び人権侵犯事件統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第6期消費者教育推進会議委員名簿を更新しました",
+        "link": "https://www.caa.go.jp/notice/entry/039774/"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202410/25_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月24日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "復興庁",
+        "title": "第40回復興推進会議[令和６年10月25日]",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat7/sub-cat7-1/20241024142302.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「国土調査法施行令の一部を改正する政令」が閣議決定〜国土調査法に基づく公示の官報電子化への対応〜",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo06_hh_000001_00013.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「広域的地域活性化のための基盤整備に関する法律の一部を改正する法律の施行期日を定める政令」を閣議決定",
+        "link": "http://www.mlit.go.jp/report/press/kokudoseisaku01_hh_000211.html"
+    },
+    {
+        "category": "総務省",
+        "title": "テレビ共同受信施設の現状等に関するアンケート調査へのご協力のお願い",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000597.html"
     }
 ]
