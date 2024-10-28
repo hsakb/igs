@@ -53,5 +53,80 @@
         "category": "財務省",
         "title": "国債金利情報(令和6年10月25日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第87回労働政策審議会勤労者生活分科会中小企業退職金共済部会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44706.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(10月17日)",
+        "link": "https://www.caa.go.jp/notice/entry/039833/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第375回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44028.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年賃金引上げ等の実態に関する調査の概況",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/jittai/24/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医療機器・体外診断薬部会（ペーパーレス）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44636.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "きみの好き！応援サイト たのしくまなび隊から、新コンテンツ「まなび隊のまいにち宝さがし」をリリース",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2024/1415183_00003.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "核融合科学技術委員会 原型炉開発総合戦略タスクフォース（第37回）の開催について ",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/078/kaisai/1421690_00019.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会（第91回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/059/shiryo/1422108_00042.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会(職業安定分科会労働力需給制度部会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "10月30日「不動産情報ライブラリ」新規データ追加！〜液状化の発生傾向が確認できるようになります〜",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo17_hh_000001_00043.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第４回「官民物流標準化懇談会」を開催します〜分科会での検討状況等を踏まえ、物流標準化の取組を議論・検討〜",
+        "link": "http://www.mlit.go.jp/report/press/tokatsu01_hh_000830.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "鉄道車両の輪軸の安全性に関する検証会議の開催について",
+        "link": "http://www.mlit.go.jp/report/press/tetsudo07_hh_000278.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "社会資本整備審議会 都市計画・歴史的風土分科会 第26回歴史的風土部会及び第４回明日香村小委員会合同会議を開催します",
+        "link": "http://www.mlit.go.jp/report/press/toshi01_hh_000085.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "河川・道路管理用光ファイバの利用希望者を募集開始〜令和6年12月2日（月）まで〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo03_hh_000338.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度分基地交付金及び調整交付金の決定",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zeimu05_02000096.html"
     }
 ]
