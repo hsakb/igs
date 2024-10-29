@@ -13,5 +13,65 @@
         "category": "総務省",
         "title": "労働力調査（基本集計）2024年（令和6年）9月分及び7〜9月期平均",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei04_01000270.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第2回日米教育における協力覚書に基づく政策対話の開催について",
+        "link": "https://www.mext.go.jp/a_menu/kokusai/mext_00041.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "資源・燃料部 燃料環境適合利用推進課",
+        "link": "https://www.meti.go.jp/press/2024/10/20241029001/20241029001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "森島　龍太様に「蓄電池産業の現況と課題」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20241025171617.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（第466回）の入札発行（令和6年10月29日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241029.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202410/29_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月28日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "11月はテレワーク月間です",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000415.html"
+    },
+    {
+        "category": "総務省",
+        "title": "eシールに係る認定制度の関係規程策定のための有識者会議（第5回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/e_seal_yushikisha/02cyber01_04000001_00305.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　電気通信事業政策部会　通信政策特別委員会（第17回）配布資料・議事概要",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/tsusin_seisaku/02kiban02_04000787.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信法学研究メディア法分科会（令和6年度第1回会合）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/hougakuken/R06_media_01_siryou.html"
     }
 ]
