@@ -18,5 +18,80 @@
         "category": "財務省",
         "title": "貿易統計(令和6年10月上旬分速報)【税関ホームページ】",
         "link": "https://www.mof.go.jp/outside_link/20241029092956.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "新井長官記者会見要旨(10月24日)",
+        "link": "https://www.caa.go.jp/notice/entry/039878/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "11 月は「和ごはん月間」、11 月24 日は「和食の日」！",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/wasyoku/241030.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和6年10月30日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer241030.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全調査委員会からの一葉(第14号)を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/039857/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第５回 柔道整復療養費のオンライン請求導入等に関するワーキング・グループの開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44761.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集の結果を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/039865/"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月29日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年11月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/kashi20241030.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年11月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/yotaku20241030.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第375回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44742.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会(職業安定分科会労働力需給制度部会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html"
+    },
+    {
+        "category": "総務省",
+        "title": "接続料の算定等に関する研究会（第89回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/access-charge_calculation/02kiban03_04001063.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第７回医師養成過程を通じた医師の偏在対策等に関する検討会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44759.html"
     }
 ]
