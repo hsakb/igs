@@ -8,5 +8,150 @@
         "category": "経済産業省",
         "title": "フリーランス・事業者間取引適正化等法が施行されました",
         "link": "https://www.chusho.meti.go.jp/keiei/torihiki/law_freelance.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "戦没者慰霊事業のお知らせ（令和６年11月実施分）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44835.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政制度分科会（令和6年11月1日開催）資料一覧",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20241101zaiseia.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第7回　日中財政シンクタンクフォーラムを開催しました",
+        "link": "https://www.mof.go.jp/insideLink/20241022102957.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "全国ジビエフェアを開催します！",
+        "link": "https://www.maff.go.jp/j/press/nousin/tyozyu/241101.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「林政審議会」委員の公募について",
+        "link": "https://www.rinya.maff.go.jp/j/press/rinsei/241101.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年物価連動国債（11月債）の発行予定額等（令和6年11月1日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241101.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札予定（令和6年11月1日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer241101.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202411/1_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1266回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20241101.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1268回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20241101.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「DXセレクション2025」の募集を開始しました",
+        "link": "https://www.meti.go.jp/press/2024/11/20241101003/20241101003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７・８年度競争参加資格審査（建設工事及び測量・建設コンサルタント等業務）定期審査について",
+        "link": "https://www.mhlw.go.jp/sinsei/chotatu/sikaku/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「DX銘柄2025」選定に向けたDX調査の項目を公表します",
+        "link": "https://www.meti.go.jp/press/2024/11/20241101004/20241101004.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "パートナーシップ構築宣言のひな形を改正しました（令和6年11月1日改正）",
+        "link": "https://www.meti.go.jp/press/2024/11/20241101002/20241101002.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "下請中小企業振興法に基づく「振興基準」を改正しました",
+        "link": "https://www.meti.go.jp/press/2024/11/20241101001/20241101001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（保険局医療課長補佐）募集情報）",
+        "link": "http://www.mhlw.go.jp/general/saiyo/ninki-hokenkyokouiryoukatyouhosa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（業務改革推進専門官）募集情報）",
+        "link": "http://www.mhlw.go.jp/general/saiyo/ninki-gyoumukaikakusuisinsenmonkan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "消費生活協同組合（生協）",
+        "link": "https://www.mhlw.go.jp/toukei/list/98-1.html"
+    },
+    {
+        "category": "法務省",
+        "title": "薬剤師（期間業務職員）の募集（大臣官房厚生管理官・令和７年４月採用）",
+        "link": "http://www.moj.go.jp/kouseikanrikan/shomu/kouseikanrikan01_00066.html"
+    },
+    {
+        "category": "法務省",
+        "title": "公証人法第13条に規定する公証人の公募（法曹有資格者）について",
+        "link": "http://www.moj.go.jp/jinji/shomu/jinji05_00040.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員(消費者庁表示対策課景品・表示調査官)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/039834/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員(総務課法規専門官)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/039845/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「公務研究セミナーin霞が関」を開催します!(12/3開催)",
+        "link": "https://www.caa.go.jp/notice/entry/039872/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "「オレンジリボン・児童虐待防止推進キャンペーン」に関する石破総理からのメッセージ",
+        "link": "https://www.kantei.go.jp/jp/102_ishiba/discourse/20241101message.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年10月31日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公務研究セミナーin霞が関のご案内",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/kasumi_seminar.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和6年9月20日から同月23日までの間の豪雨による災害が激甚災害として指定されたことに伴い、追加の被災中小企業・小規模事業者対策を講じます",
+        "link": "https://www.meti.go.jp/press/2024/11/20241101001/20241101001.html"
     }
 ]
