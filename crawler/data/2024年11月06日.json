@@ -153,5 +153,40 @@
         "category": "国土交通省",
         "title": "「航空運送分野」の安全情報（令和5年度）の公表〜｢第35回航空安全情報分析委員会｣の結果概要〜",
         "link": "http://www.mlit.go.jp/report/press/kouku10_hh_000265.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年司法試験の合格発表等について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji08_00236.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "英国からの生きた家きん、家きん肉等の輸入一時停止措置について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241106_1.html"
+    },
+    {
+        "category": "総務省",
+        "title": "弾道ミサイルを想定した住民避難訓練の実施（令和６年１１月６日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#067924"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (11月6日)",
+        "link": "https://www.caa.go.jp/notice/entry/039932/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:リコール製品で負傷事故等(電動アシスト自転車)(11月6日)",
+        "link": "https://www.caa.go.jp/notice/entry/039957/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "省エネ法定期報告情報の開示制度 参加宣言事業者と開示シート（速報版）を公表しました",
+        "link": "https://www.meti.go.jp/press/2024/11/20241106002/20241106002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "核融合科学技術委員会（第40回）の開催について ",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/074/kaisai/1421690_00023.htm"
     }
 ]
