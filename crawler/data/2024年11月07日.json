@@ -173,5 +173,50 @@
         "category": "総務省",
         "title": "9月20日からの大雨に関する被害状況等について（第26報）",
         "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000564.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福岡厚生労働大臣　閣議後記者会見のお知らせ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45241.html"
+    },
+    {
+        "category": "財務省",
+        "title": "個人向け国債の応募額（令和6年10月）",
+        "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20241107.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第376回）の第II非価格競争入札結果（令和6年11月7日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20241107a.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (11月7日)",
+        "link": "https://www.caa.go.jp/notice/entry/039970/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理は公明党による総合経済対策の策定に向けた提言申入れを受けました",
+        "link": "https://www.kantei.go.jp/jp/102_ishiba/actions/202411/07teigen.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "動物用医薬品専門調査会（第275回）の開催について【11月14日開催】",
+        "link": "https://www.fsc.go.jp/senmon/doubutu/annai/doubutu_annai_275.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品安全委員会（第961回）の開催について【11月12日開催】",
+        "link": "https://www.fsc.go.jp/iinkai_annai/annai/annai961.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第二専門調査会（第35回）の開催について（非公開）【11月18日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai2_senmon_35.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "かび毒・自然毒等専門調査会（第57回）の開催について【11月15日開催】",
+        "link": "https://www.fsc.go.jp/senmon/kabi_shizen/annai/kabidoku_annai_57.html"
     }
 ]
