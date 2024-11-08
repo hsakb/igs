@@ -253,5 +253,50 @@
         "category": "首相官邸",
         "title": "閣議の概要について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202411/8_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "関税・外国為替等審議会　第59回外国為替等分科会 資料",
+        "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/material/20241108.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "脳卒中や心臓病等に関する世論調査",
+        "link": "https://survey.gov-online.go.jp"
+    },
+    {
+        "category": "消費者庁",
+        "title": "伊東大臣記者会見の動画を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/040008/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会（第146回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/1423016_00026.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:電動アシスト自転車で火災等(11月8日)",
+        "link": "https://www.caa.go.jp/notice/entry/040000/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法の重大事故等に係る公表について(11月8日)",
+        "link": "https://www.caa.go.jp/notice/entry/040001/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(11月8日)",
+        "link": "https://www.caa.go.jp/notice/entry/040003/"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和6年秋季皇居乾通り一般公開について（令和6年11月8日発表）",
+        "link": "https://www.kunaicho.go.jp/event/inui-r06aki.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "海外専門家招へいシンポジウムの開催について【12月5日開催】",
+        "link": "https://www.fsc.go.jp/koukan/annai/annai_sympo20241205.html"
     }
 ]
