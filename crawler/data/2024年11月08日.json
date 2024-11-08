@@ -48,5 +48,75 @@
         "category": "総務省",
         "title": "家計調査報告（家計収支編）2024年（令和6年）9月分及び7〜9月期平均",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000262.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年度「全国一斉『女性の人権ホットライン』強化週間」を実施します",
+        "link": "http://www.moj.go.jp/JINKEN/jinken108.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第６１回　厚生科学審議会疾病対策部会　指定難病検討委員会（持ち回り）が開催されました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44776.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "PIO-NETデータを用いた消費生活相談の地域傾向分析の結果を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/039973/"
+    },
+    {
+        "category": "財務省",
+        "title": "楡井誠氏（当研究所特別研究官）の「第67回（2024年度）日経・経済図書文化賞」受賞について",
+        "link": "https://www.mof.go.jp/insideLink/20241106102958.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（11月債）の発行予定額等（令和6年11月8日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241108.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1268回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20241108.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1269回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20241108.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2024年11月8日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/039998/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第７２回厚生科学審議会疾病対策部会難病対策委員会・第３回社会保障審議会小児慢性特定疾病対策部会小児慢性特定疾病対策委員会（合同開催）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45264.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国家公務員OPENゼミ・労働基準監督官業務説明会（追加情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "法務省",
+        "title": "ＡＤＲの日（１２月１日）・ＡＤＲ週間（１２月１日～１２月７日）について",
+        "link": "http://www.moj.go.jp/housei/adr/housei10_00003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年11月7日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年４月１日から高年齢雇用継続給付の支給率を変更します",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000160564_00043.html"
     }
 ]
