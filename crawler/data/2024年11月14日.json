@@ -8,5 +8,70 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年１１月１３日付幹部名簿",
+        "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "意見招請（年金業務システム（個人番号管理サブシステム（情報連携））の更改に係る環境構築、基盤製品の賃貸借及び保守業務　一式）",
+        "link": "https://www.mhlw.go.jp/stf/shinsei_boshu/choutatsujouhou/chotatu/j-wto-iken/newpage_09674.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第30期　中国研究会（第2回）を開催しました",
+        "link": "https://www.mof.go.jp/insideLink/20241113115418.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（11月債）の発行予定額等（令和6年11月14日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241114.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和6年11月14日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer241114.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
+        "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "我が国の大学研究力強化に向けて～国際卓越研究大学制度が拓く研究大学の未来～",
+        "link": "https://www.mext.go.jp/a_menu/kagaku/daigakukenkyuryoku/symposium_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術・学術審議会 大学研究力強化委員会（第16回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu32/siryo/000017833_00018.html"
+    },
+    {
+        "category": "財務省",
+        "title": "任期付職員の募集について（大臣官房会計課）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/20241114095052.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国の災害用備蓄食品の有効活用の取組みについて",
+        "link": "https://www.mof.go.jp/application-contact/procurement/20211005180654.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年11月13日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度「医療安全推進週間」について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryouanzen2023_00003.html"
+    },
+    {
+        "category": "総務省",
+        "title": "経験者選考採用試験（事務系/技術系・課長補佐級/係長級・総合職相当）情報を掲載しました",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/keikensya_senkou_jimu.html"
     }
 ]
