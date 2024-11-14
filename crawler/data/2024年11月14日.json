@@ -73,5 +73,85 @@
         "category": "総務省",
         "title": "経験者選考採用試験（事務系/技術系・課長補佐級/係長級・総合職相当）情報を掲載しました",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/keikensya_senkou_jimu.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "意見招請（全ゲノム解析等に係るシステム開発、移行、テスト及び運用に関する業務一式）",
+        "link": "https://www.mhlw.go.jp/stf/shinsei_boshu/choutatsujouhou/chotatu/e-wto-iken/newpage_09672.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "随意契約に関する公示（年金生活者支援給付金の請求勧奨及び継続認定業務の見直しに係る年金給付システム改修一式）",
+        "link": "https://www.mhlw.go.jp/stf/shinsei_boshu/choutatsujouhou/chotatu/j-wto-zuikei/newpage_09673.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "天皇陛下のおことば（第215回国会開会式:令和6年11月14日）",
+        "link": "https://www.kunaicho.go.jp/page/okotoba/detail/127#1878"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "選考採用試験（課長補佐級／係長級（数理・デジタル系（総合職相当）））",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/suuri.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第29回厚生労働統計の整備に関する検討会資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44506.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第34回特定石綿被害建設業務労働者等認定審査会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_44603.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "患者申出療養評価会議の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45189.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "デジタル教科書推進ワーキンググループ（第3回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/100/kaisai/mext_00002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "博士人材の民間企業における活躍促進に向けた検討会（第4回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/koutou/130/kaisai/mext_00005.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "寄附の不当勧誘に係る情報の受理・処理等件数表(令和6年度上半期)",
+        "link": "https://www.caa.go.jp/notice/entry/040039/"
+    },
+    {
+        "category": "財務省",
+        "title": "国有林野事業債務管理特別会計の借入金の入札結果（令和6年11月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-result241114.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "政府主催拉致問題に関するシンポジウムについて",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202411/14_a.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理は奈良県知事、五條市長から奈良の柿の贈呈を受けました",
+        "link": "https://www.kantei.go.jp/jp/103/actions/202411/14zoutei.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "JASCAシンガポール現地セミナーを開催しました〜ASEANにおけるスマートシティ構想に関する協力を促進〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo07_hh_000738.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "全国内航鋼船運航業の最低賃金の改正について審議を行います〜交通政策審議会海事分科会船員部会第２回全国内航鋼船運航業最低賃金専門部会の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji04_hh_000322.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "少数台数のリコール届出の公表について（令和６年１０月分）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005297.html"
     }
 ]
