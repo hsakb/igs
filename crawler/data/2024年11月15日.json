@@ -13,5 +13,105 @@
         "category": "内閣府",
         "title": "四半期別GDP速報（2024年7-9月期・1次速報）",
         "link": "https://www.esri.cao.go.jp/jp/sna/menu.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度第８回医薬品等安全対策部会安全対策調査会 議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45459.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事工業生産動態統計令和６年８月分月報について",
+        "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "みどりの食料システム法に基づく基盤確立事業実施計画の認定について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kankyo/241115.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第174回）の入札発行（令和6年11月15日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241115.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "内閣総理大臣謹話を掲載しました",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20241115kinwa.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1269回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20241115.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1271回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20241115.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国会会議録について",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/kaigiroku/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省研究開発局原子力損害賠償紛争和解仲介室非常勤職員（期間業務職員）採用のお知らせ（令和7年2月1日採用）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1413385_00078.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省研究開発局原子力損害賠償紛争和解仲介室非常勤職員（期間業務職員:システム運用・保守補助）採用のお知らせ(令和7年2月1日採用)",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1413385_00079.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "人文学・社会科学特別委員会（第25回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/048/kaisai/1421133_00021.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第11回解約料の実態に関する研究会の議事録を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/040055/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第12回新たな地域医療構想等に関する検討会：開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45316.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年11月14日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省本省係長級職員（一般職相当）採用選考 - 令和６年度第３期・第４期",
+        "link": "https://www.mhlw.go.jp/stf/newpage_33437.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第4回中央教育審議会生涯学習分科会社会教育の在り方に関する特別部会の配布資料を更新しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/015/giji_list/mext_00006.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年能登半島地震による被災地方公共団体における職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000598.html"
+    },
+    {
+        "category": "総務省",
+        "title": "日本放送協会の番組関連情報配信業務の競争評価に関する検証会議(第1回)配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/nhk_internet/02ryutsu07_04000519.html"
     }
 ]
