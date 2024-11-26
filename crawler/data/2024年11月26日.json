@@ -3,5 +3,50 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "法務大臣閣議後記者会見の概要－令和６年１１月２２日（金）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00563.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（12月債）の発行予定額等（令和6年11月26日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241126.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第76回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45983.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和6年10月18日開催）議事録",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20241018.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年11月25日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "固定電話番号の双方向ポータビリティの実現に向けた検討会（第2回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/number_portability/02kiban06_04000179.html"
     }
 ]
