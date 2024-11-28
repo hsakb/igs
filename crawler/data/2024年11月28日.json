@@ -23,5 +23,65 @@
         "category": "総務省",
         "title": "2024年度 総合職事務系官庁訪問についての情報を更新しました。",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/jsougou_kanchohoumon.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "今井政務官の岩手県訪問（令和６年11月27日）",
+        "link": "https://www.reconstruction.go.jp/s/2024/11/20241128112437.html"
+    },
+    {
+        "category": "財務省",
+        "title": "神田眞人氏のアジア開発銀行次期総裁選出についての大臣談話",
+        "link": "https://www.mof.go.jp/policy/international_policy/mdbs/adb/202411281000.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "食品関連企業の海外展開に関するセミナーを開催します！",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/241128.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（12月債）の発行予定額等（令和6年11月28日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241128.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第13回新たな地域医療構想等に関する検討会：開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45757.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第5回柔道整復療養費のオンライン請求導入等に関するワーキング・グループ議事要旨（2024年10月30日）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_46112.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "臨時閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202411/28_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年11月27日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和6年12月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/kashi20241128.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和6年12月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/yotaku20241128.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「令和7年度地方税制改正等に関する地方財政審議会意見」の提出",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000397.html"
     }
 ]
