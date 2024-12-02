@@ -38,5 +38,45 @@
         "category": "財務省",
         "title": "法人企業統計調査（令和6年7～9月期）の結果",
         "link": "https://www.mof.go.jp/outside_link/20241129162607.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房総務課非常勤職員（期間業務職員）採用のお知らせ（令和7年2月1日付）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00146.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国民健康・栄養調査",
+        "link": "https://www.mhlw.go.jp/bunya/kenkou/kenkou_eiyou_chousa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年版　労働経済の分析　－人手不足への対応－",
+        "link": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/24-3.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和7年度食品安全モニターの募集について【令和7年1月24日17時まで】",
+        "link": "https://www.fsc.go.jp/monitor/bosyu/2025monitor-bosyu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1274回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20241202.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（共済事務専門官又は主査）募集情報）",
+        "link": "http://www.mhlw.go.jp/general/saiyo/ninki-kyousaijimusenmonkan-shusa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（中央待遇改善推進指導官）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-chuuoutaiguukaizensuishinshidoukan.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員(消費者庁表示対策課課長補佐級職員)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/040209/"
     }
 ]
