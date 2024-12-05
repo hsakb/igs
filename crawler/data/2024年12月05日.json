@@ -148,5 +148,40 @@
         "category": "国土交通省",
         "title": "リコールの届出について（ダイハツ　ムーヴ キャンバス　他）",
         "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005325.html"
+    },
+    {
+        "category": "財務省",
+        "title": "個人向け国債の応募額（令和6年11月）",
+        "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20241205.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "リチウムイオン電池使用製品のトリセツ - 暖をとる製品にもリチウムイオン電池が使われています! -",
+        "link": "https://www.caa.go.jp/notice/entry/040268/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法の重大事故等に係る公表について(12月5日)",
+        "link": "https://www.caa.go.jp/notice/entry/040324/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(12月5日)",
+        "link": "https://www.caa.go.jp/notice/entry/040325/"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第84回）の第II非価格競争入札結果（令和6年12月5日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20241205a.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第二専門調査会（第36回）の開催について（非公開）【12月16日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai2_senmon_36.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品安全委員会（第965回）の開催について【12月10日開催】",
+        "link": "https://www.fsc.go.jp/iinkai_annai/annai/annai965.html"
     }
 ]
