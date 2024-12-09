@@ -193,5 +193,30 @@
         "category": "財務省",
         "title": "国庫短期証券（第1274回）の入札結果",
         "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20241209.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "宮崎県で確認された高病原性鳥インフルエンザの疑似患畜（国内12例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241209_2.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "輿水副大臣の福島県訪問（令和６年12月５日～７日）",
+        "link": "https://www.reconstruction.go.jp/s/2024/12/20241209163854.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "消費者をエンパワーするデジタル技術に関する消費者委員会意見【12月9日付】",
+        "link": "https://www.cao.go.jp/consumer/iinkaikouhyou/2024/1209_iken.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "宮城県石巻市で発生した高病原性鳥インフルエンザ（国内7例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241209.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "北海道旭川市で発生した高病原性鳥インフルエンザ（国内8例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241209_1.html"
     }
 ]
