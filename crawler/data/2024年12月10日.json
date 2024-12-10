@@ -1,0 +1,47 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年12月9日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員の募集（訟務局・令和７年４月採用）",
+        "link": "http://www.moj.go.jp/shoumu/shoumukouhou/shoumu01_200121_00004.html"
+    },
+    {
+        "category": "法務省",
+        "title": "事務補佐員の募集（訟務局・令和７年４月採用）",
+        "link": "http://www.moj.go.jp/shoumu/shoumukouhou/shoumu01_200121_00007.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "インドネシアにおいて日本企業・スタートアップ・中小企業の海外でのオープンイノベーションを加速する「日インドネシア・ファストトラック・ピッチ 2024」を開催しました",
+        "link": "https://www.meti.go.jp/press/2024/12/20241209002/20241209002.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "愛媛県における高病原性鳥インフルエンザの疑似患畜の確認及び「農林水産省鳥インフルエンザ防疫対策本部」の持ち回り開催について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241210.html"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタル時代における放送制度の在り方に関する検討会（第31回）配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu07_04000528.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「海上運送法等の一部を改正する法律の一部の施行期日を定める政令」及び「海上運送法等の一部を改正する法律の一部の施行に伴う関係政令の整理等に関する政令」を閣議決定",
+        "link": "http://www.mlit.go.jp/report/press/kaiji03_hh_000194.html"
+    },
+    {
+        "category": "総務省",
+        "title": "行政評価局総務課（非常勤職員採用） 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/hyouka_241210000178311.html"
+    }
+]
