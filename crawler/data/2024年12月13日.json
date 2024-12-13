@@ -283,5 +283,50 @@
         "category": "財務省",
         "title": "国庫短期証券（第1275回）の入札結果",
         "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20241213.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "愛媛県で確認された高病原性鳥インフルエンザの疑似患畜（国内13例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241213.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度 地域保健総合推進事業 第1 回 2040 年を見据えた保健師活動のあり方に関する検討会",
+        "link": "https://www.mhlw.go.jp/stf/shingi/other-kenkou_128580_00015.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会（第140回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo0/kaisai/1415012_00028.html"
+    },
+    {
+        "category": "法務省",
+        "title": "民事訴訟法等の一部を改正する法律について（改正された制度の一部につき、施行日等が決まりました。）",
+        "link": "http://www.moj.go.jp/MINJI/minji07_00316.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農林中金の投融資・資産運用に関する有識者検証会（第3回）」の開催について",
+        "link": "https://www.maff.go.jp/j/press/keiei/kinyu/241213.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "インターネットにおける健康食品等の虚偽・誇大表示に対する改善指導について(令和6年7月～9月)",
+        "link": "https://www.caa.go.jp/notice/entry/040356/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:換気扇(浴室用)で火災等(12月13日)",
+        "link": "https://www.caa.go.jp/notice/entry/040421/"
+    },
+    {
+        "category": "内閣府",
+        "title": "第449回 消費者委員会本会議【12月20日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2024/449/kaisai/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和６年度「いーたいけんアワード（青少年の体験活動推進企業表彰）」一次審査結果及び 最終審査・表彰式についてお知らせします",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01460.html"
     }
 ]
