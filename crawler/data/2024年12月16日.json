@@ -1,0 +1,47 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "「財務省ＦＡＱ（よくあるご質問）」を更新しました",
+        "link": "https://www.mof.go.jp/insideLink/20241213165533.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年12月13日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "内閣府",
+        "title": "機械受注統計調査報告（令和6年10月実績）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html "
+    },
+    {
+        "category": "総務省",
+        "title": "大都市における行政課題への対応に関するワーキンググループ（第1回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/jizokukanonachihozaisei/dai01kai_00002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "じん肺標準エックス線写真集（御意見の募集について）",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/00001165493.html"
+    }
+]
