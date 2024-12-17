@@ -28,5 +28,50 @@
         "category": "総務省",
         "title": "持続可能な地方行財政のあり方に関する研究会（第2回）",
         "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/jizokukanonachihozaisei/dai01kai_00004.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術・学術政策研究所「科学技術への顕著な貢献2024（ナイスステップな研究者）」の選定について",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2020/1422310_00030.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "第64回構造改革特別区域計画の認定について",
+        "link": "https://www.chisou.go.jp/tiiki/kouzou2/nintei/nintei64/keikakunintei.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第190回）の入札発行（令和6年12月17日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241217.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第420回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241217.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働条件分科会委員名簿",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47349.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者支援かながわと株式会社タスカジとの間で差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/040353/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者機構日本とアエラホーム株式会社との間で差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/040354/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202412/17_a.html"
+    },
+    {
+        "category": "総務省",
+        "title": "村上総務大臣閣議後記者会見の概要",
+        "link": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001402.html"
     }
 ]
