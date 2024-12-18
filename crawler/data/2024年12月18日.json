@@ -8,5 +8,50 @@
         "category": "財務省",
         "title": "貿易統計(令和6年11月分速報)【税関ホームページ】",
         "link": "https://www.mof.go.jp/outside_link/20241217141335.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "伊藤復興大臣記者会見録［令和６年12月17日］",
+        "link": "https://www.reconstruction.go.jp/topics/24/12/20241218110521.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「令和6年度山村と企業をつなぐフォーラム」を開催します！",
+        "link": "https://www.rinya.maff.go.jp/j/press/sanson_ryokka/241218.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「令和6年度家畜衛生ポスターデザインコンテスト」の受賞作品の決定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241218_1.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1276回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20241218.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年12月17日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "第７４回“社会を明るくする運動”  作文コンテスト入賞作品の決定について",
+        "link": "http://www.moj.go.jp/hogo1/kouseihogoshinkou/hogo03_00169.html"
+    },
+    {
+        "category": "総務省",
+        "title": "自治行政局行政課総務室 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02gyosei01_04000449.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医薬品等の供給不安への対応について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kouhatu-iyaku/index_00006.html"
     }
 ]
