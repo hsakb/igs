@@ -18,5 +18,70 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和5年「公益法人の概況及び公益認定等委員会の活動報告」",
+        "link": "https://www.koeki-info.go.jp/outline/koueki_toukei_n4.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "山本農林水産大臣政務とカオ・キムホンASEAN事務総長との会談",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/241219.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（1月債）の発行予定額等（令和6年12月19日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20241219.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "サプライチェーンにおける人権及び国際労働基準の促進に関する日米タスクフォース第2回会合を開催しました",
+        "link": "https://www.meti.go.jp/press/2024/12/20241219002/20241219002.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2024年12月19日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/040469/"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "クライメート・トランジション利付国債；レポーティングを公表しました",
+        "link": "https://www.mof.go.jp/insideLink/20241218182435.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年12月18日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "経済産業省",
+        "title": "ALPS処理水の海洋放出に関する日中専門家間の対話を開催しました",
+        "link": "https://www.meti.go.jp/press/2024/12/20241219004/20241219004.html"
+    },
+    {
+        "category": "総務省",
+        "title": "一般職事務系業務説明会の情報を更新しました",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/setumeikai.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第29回　公共サービス改革小委員会（会議資料）",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/kanmin/02shingi06_02000965.html"
     }
 ]
