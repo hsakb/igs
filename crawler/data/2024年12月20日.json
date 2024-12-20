@@ -8,5 +8,145 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 全国 2024年(令和6年)11月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000301.html"
+    },
+    {
+        "category": "法務省",
+        "title": "いわゆる令和６年奥能登豪雨に関する情報を掲載しました。",
+        "link": "http://www.moj.go.jp/hisho/kouhou/saigai191017_00005.html"
+    },
+    {
+        "category": "法務省",
+        "title": "「令和六年九月二十日から同月二十三日までの間の豪雨による災害についての総合法律支援法第三十条第一項第四号の規定による指定等に関する政令」について",
+        "link": "http://www.moj.go.jp/housei/sougouhouritsushien/housei04_00047.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年版再犯防止推進白書（令和５年度再犯の防止等に関する施策）",
+        "link": "http://www.moj.go.jp/hisho/saihanboushi/hisho04_00117.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年版犯罪白書を掲載しました",
+        "link": "http://www.moj.go.jp/housouken/housouken03_00134.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食品中の放射性物質の調査結果 (令和6年2～3月調査分)",
+        "link": "https://www.caa.go.jp/notice/entry/040422/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "鹿児島県における高病原性鳥インフルエンザの疑似患畜の確認及び「農林水産省鳥インフルエンザ防疫対策本部」の持ち回り開催について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/241220.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2024年12月20日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/040497/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "第2回海業推進全国協議会の開催について",
+        "link": "https://www.jfa.maff.go.jp/j/press/keikaku/241220.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年度「日本食普及の親善大使」の任命について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/241220.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "みどりの食料システム法に基づく基盤確立事業実施計画の認定について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kankyo/241220.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「海業の推進に取り組む地区」を募集します！",
+        "link": "https://www.jfa.maff.go.jp/j/press/keikaku/241220_1.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1277回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20241220.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第18回　医薬品等行政評価・監視委員会資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47693.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "電気工事士法施行令の一部を改正する政令が閣議決定されました",
+        "link": "https://www.meti.go.jp/press/2024/12/20241220001/20241220001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「これから受験をお考えの方へ ～労働基準監督官業務説明会～」を更新しました。",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": " 令和７年度薬価改定について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47605.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／原子力災害対策本部／海上保安能力強化に関する関係閣僚会議について（佐藤文俊内閣官房副長官）",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202412/20_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年12月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年　障害者雇用状況の集計結果",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47084.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校安全の推進に関する有識者会議（令和6年度）第3回　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/047/siryo/1412213_00009.htm"
+    },
+    {
+        "category": "国土交通省",
+        "title": "豊川水系における水資源開発基本計画等の変更について〜需要主導型の水資源開発の促進からリスク管理型の水の安定供給〜",
+        "link": "http://www.mlit.go.jp/report/press/water02_hh_000178.html"
+    },
+    {
+        "category": "総務省",
+        "title": " 安心・安全なメタバースの実現に関する研究会（第10回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/metaverse2/10_siryou.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第212回統計委員会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/kaigi/02shingi05_02000733.html"
+    },
+    {
+        "category": "総務省",
+        "title": "競争ルールの検証に関するWG（第60回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denkitsushin_shijo/02kiban03_04001080.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　電気通信事業政策部会　ユニバーサルサービス政策委員会（第38回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/usf_seisaku/02kiban07_04000068.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省・スポーツ庁・文化庁非常勤職員（期間業務職員）採用のお知らせ（令和7年4月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421781_00029.htm"
     }
 ]
