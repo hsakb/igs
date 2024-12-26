@@ -38,5 +38,115 @@
         "category": "総務省",
         "title": "国際戦略局国際戦略課職員係 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02tsushin06_04000118.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学入学者選抜実施要項において定める試験期日等の遵守について（依頼）を掲載しました。",
+        "link": "https://www.mext.go.jp/a_menu/koutou/senbatsu/1346785.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（第468回）の入札発行（令和6年12月26日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20241226.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７・８・９年度一般競争（指名競争）参加資格審査（物品製造等）について",
+        "link": "https://www.mhlw.go.jp/sinsei/chotatu/sikaku/buppin_ekimu.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "やまなし消費者支援ネットと株式会社加取との間で差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/040546/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者被害防止ネットワーク東海とリカフル整体院との間で差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/040549/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第79回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
+        "link": "https://www.mhlw.go.jp/stf/newpage_48022.html"
+    },
+    {
+        "category": "財務省",
+        "title": "関税・外国為替等審議会　関税分科会（令和6年11月5日開催）議事録",
+        "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20241105.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年12月25日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和7年1月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/kashi20241226.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和7年1月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir6/yotaku20241226.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和7年度　厚生労働科学研究費補助金公募要項（1次）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47301.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会 日本原子力研究開発機構部会（第37回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/003/gijiroku/1383724_00004.htm"
+    },
+    {
+        "category": "総務省",
+        "title": "国際戦略局通信規格課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02tsushin04_04000247.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報流通行政局総務課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02ryutsu01_04000451.html"
+    },
+    {
+        "category": "総務省",
+        "title": "総合通信基盤局移動通信課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kiban14_04001188.html"
+    },
+    {
+        "category": "総務省",
+        "title": "統計局総務課 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02toukei01_04000102.html"
+    },
+    {
+        "category": "総務省",
+        "title": "統計局総務課 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02toukei01_04000103.html"
+    },
+    {
+        "category": "総務省",
+        "title": "総合通信基盤局電気通信事業部基盤整備促進課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kiban07_04000070.html"
     }
 ]
