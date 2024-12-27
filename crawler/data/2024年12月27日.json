@@ -338,5 +338,75 @@
         "category": "厚生労働省",
         "title": "採用情報（期間業務職員（社会・援護局（援護行政））募集情報）",
         "link": "https://www.mhlw.go.jp/general/saiyo/hj-dnakanteikensagishi.html"
+    },
+    {
+        "category": "財務省",
+        "title": "関税・外国為替等審議会 第59回外国為替等分科会議事録",
+        "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20241220140818.html"
+    },
+    {
+        "category": "法務省",
+        "title": "第７４回“社会を明るくする運動”作文コンテスト法務大臣賞表彰式を行いました。",
+        "link": "https://www.moj.go.jp/hisho/kouhou/hisho06_01169.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "みどりの食料システム法に基づくモデル地区（特定区域）が50区域を超えました！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kankyo/241227.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和6年12月26日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "復興庁",
+        "title": "伊藤復興大臣記者会見録［令和６年12月27日］",
+        "link": "https://www.reconstruction.go.jp/topics/24/12/20241227161932.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "株式会社JERAから提出された報告書に関して同社に対して追加報告を要請しました",
+        "link": "https://www.meti.go.jp/press/2024/12/20241227003/20241227003.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年産米の契約・販売状況、民間在庫の推移及び米穀販売事業者における販売数量・販売価格の動向について（令和6年11月末現在）",
+        "link": "https://www.maff.go.jp/j/press/nousan/kikaku/241227.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "2025年農林業センサス農林業経営体調査客体候補名簿の一部紛失について",
+        "link": "https://www.maff.go.jp/j/press/tokei/kikaku/241227.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度革新的医療機器等国際標準獲得推進事業（国際標準規格化推進事業）について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47441.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（労働基準局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-roudoukijunkyoku.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:除雪機についての注意喚起(12月27日)",
+        "link": "https://www.caa.go.jp/notice/entry/040621/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "セルフメディケーション税制対象医薬品に係るレシートの表示の誤りについて",
+        "link": "https://www.mhlw.go.jp/stf/newpage_08184.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "告示削除済みの先進医療Bの一覧",
+        "link": "https://www.mhlw.go.jp/topics/bukyoku/isei/sensiniryo/itiran.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働基準関係法令違反に係る公表事案",
+        "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
     }
 ]
