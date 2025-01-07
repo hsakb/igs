@@ -8,5 +8,65 @@
         "category": "農林水産省",
         "title": "鹿児島県における高病原性鳥インフルエンザの疑似患畜の確認及び「農林水産省鳥インフルエンザ防疫対策本部」の持ち回り開催について",
         "link": "https://www.maff.go.jp/j/press/syouan/douei/250107.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第13回 消費者法制度のパラダイムシフトに関する専門調査会の議事録掲載【11月29日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/paradigm_shift/013/shiryou/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2025年1月7日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/040649/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食品のリスク管理に関するリスクコミュニケーションの推進に向けた消費者庁と食品安全委員会の更なる連携強化について ",
+        "link": "https://www.caa.go.jp/notice/entry/040644/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／北朝鮮による拉致問題について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202501/7_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第377回）の入札発行（令和7年1月7日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250107.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（1月債）の発行予定額等（令和7年1月7日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250107.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1278回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250107.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（企業年金連合会常勤理事候補者の公募）について",
+        "link": "https://www.mhlw.go.jp/general/saiyo/tokubetuminkan_koubo.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月6日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度依存症民間団体支援事業の公募について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202921_00064.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "能登半島での地震、大雨を教訓とした「複合災害」への備えの強化について 有識者からご意見を頂いて議論します〜「能登半島での地震・大雨を踏まえた水害・土砂災害対策検討会」の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo03_hh_001279.html"
     }
 ]
