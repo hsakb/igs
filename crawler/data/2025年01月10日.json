@@ -213,5 +213,75 @@
         "category": "内閣府",
         "title": "景気動向指数（令和6年11月分速報）",
         "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "法務省",
+        "title": "鈴木法務大臣年頭所感－令和７年１月８日（水）",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho08_00576.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「説明会・セミナーの案内」に財務局独自説明会の告知を掲載しました【財務局ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20250110171614.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度消費者月間統一テーマの決定とポスター申込み・関連事業の登録開始について",
+        "link": "https://www.caa.go.jp/notice/entry/040688/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "愛知県で確認された高病原性鳥インフルエンザの疑似患畜（国内20例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250110_3.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "愛知県で確認された高病原性鳥インフルエンザの疑似患畜（国内17例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250110_5.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "岩手県で確認された高病原性鳥インフルエンザの疑似患畜（国内19例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250110_4.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福岡厚生労働大臣　閣議後記者会見のお知らせ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_48908.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "伊東大臣記者会見の動画を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/040719/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:リコール製品で火災等(扇風機)(1月10日)",
+        "link": "https://www.caa.go.jp/notice/entry/040714/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「人口動態統計月報（概数）」令和６年８月分",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2024/08.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "認定日本語教育機関の認定申請等の手引きを更新しました",
+        "link": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/1246441_00009.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術･学術審議会資源調査分科会（第49回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu3/kaisai/mext_00007.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "決算に関する情報（年金特別会計）",
+        "link": "https://www.mhlw.go.jp/wp/yosan/kaiji/nenkin01.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "決算に関する情報（労働保険特別会計）",
+        "link": "https://www.mhlw.go.jp/wp/yosan/kaiji/roudou01.html"
     }
 ]
