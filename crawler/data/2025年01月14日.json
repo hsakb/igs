@@ -13,5 +13,80 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2025年1月14日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/040725/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "江藤農林水産大臣の海外出張（中国）について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/250114.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事工業生産動態統計令和６年10月分月報について",
+        "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+        "category": "財務省",
+        "title": "平山　賢太郎様に「EUデジタル市場法（DMA）によるデジタル・プラットフォーム規制～規制の概要とわが国への示唆～」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20250110131522.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202501/14_a.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年度林業イノベーション現場実装シンポジウムを開催します！",
+        "link": "https://www.rinya.maff.go.jp/j/press/kaihatu/250114.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（1月債）の発行予定額等（令和7年1月14日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250114.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第175回）の入札発行（令和7年1月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250114.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和7年1月14日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer250114.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月10日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「測量法施行令の一部を改正する政令」を閣議決定〜測量成果の電子提供等の開始への対応等〜",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00253.html"
+    },
+    {
+        "category": "総務省",
+        "title": "郵便局データ活用アドバイザリーボード（第7回）の開催について",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/postaldata_advisoryboard/02ryutsu14_04000198.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "国民生活の安全・安心のための広報啓発活動の強化について",
+        "link": "http://www.npa.go.jp/newlyarrived/2025/20250108002.html"
     }
 ]
