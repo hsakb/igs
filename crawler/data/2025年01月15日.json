@@ -73,5 +73,85 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年1月14日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "農林水産省",
+        "title": "千葉県における高病原性鳥インフルエンザの疑似患畜の確認及び「農林水産省鳥インフルエンザ防疫対策本部」の開催について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250115.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第500回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1910.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第１３回循環器病対策推進協議会　議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47260.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第36回特定石綿被害建設業務労働者等認定審査会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_47554.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第140回脳死下での臓器提供事例に係る検証会議を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49005.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度全国学力・学習状況調査リーフレット",
+        "link": "https://www.mext.go.jp/a_menu/shotou/gakuryoku-chousa/zenkoku/mext_02942.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "図書館・学校図書館の運営の充実に関する有識者会議（第2回）の開催について ",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/050/kaisai/1422195_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "原子力科学技術委員会　原子力研究開発・基盤・人材作業部会（第24回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/100/kaisai/1422732_00026.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "滝波農林水産副大臣の海外出張について",
+        "link": "https://www.maff.go.jp/j/press/y_kokusai/kikou/250115.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "NIPPON FOOD SHIFT FES.大阪 開催",
+        "link": "https://www.maff.go.jp/j/press/kanbo/anpo/250110.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "特定サービス産業動態統計速報（2024年11月分）",
+        "link": "https://www.meti.go.jp/statistics/tyo/tokusabido/result-1.html?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "経済産業省",
+        "title": "第2回日韓スタートアップ政策対話を開催しました",
+        "link": "https://www.meti.go.jp/press/2024/01/20250115003/20250115003.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和7年1月15日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result250115.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札結果（令和7年1月15日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/resul399.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "鰐淵厚生労働副大臣の阪神・淡路大震災30年追悼式典への出席及び視察について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49053.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度　地域の健康増進活動支援事業について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49038.html"
     }
 ]
