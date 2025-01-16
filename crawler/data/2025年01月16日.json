@@ -168,5 +168,55 @@
         "category": "財務省",
         "title": "国庫短期証券（第1281回）の入札結果",
         "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20250116.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "宮崎県で確認された高病原性鳥インフルエンザの疑似患畜（国内25例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250116.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "資源調査分科会（第49回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu3/shiryo/mext_00004.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第16回 消費者法制度のパラダイムシフトに関する専門調査会【1月15日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/paradigm_shift/016/shiryou/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第75回 食品表示部会【1月23日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/syokuhinhyouji/bukai/075/kaisai/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第3回グリーン志向の消費行動に関するワーキングチームの会議資料掲載について",
+        "link": "https://www.caa.go.jp/notice/entry/040758/"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第191回）の第II非価格競争入札結果（令和7年1月16日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20250116a.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特定商取引法の通信販売分野における執行状況について",
+        "link": "https://www.caa.go.jp/notice/entry/040736/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (1月16日)",
+        "link": "https://www.caa.go.jp/notice/entry/040756/"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品安全委員会（第969回）の開催について【1月21日開催】",
+        "link": "https://www.fsc.go.jp/iinkai_annai/annai/annai969.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第二専門調査会（第37回）の開催について（非公開）【1月27日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai2_senmon_37.html"
     }
 ]
