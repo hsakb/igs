@@ -8,5 +8,90 @@
         "category": "法務省",
         "title": "採用情報を更新しました（近畿地方更生保護委員会）",
         "link": "http://www.moj.go.jp/hogo1/soumu/hogo_k_kinki_kinki.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2024年12月の地震活動の評価及び「令和６年能登半島地震」に関する「地震調査委員長見解」を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00118.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "長期評価による地震発生確率値の年次更新について",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00122.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "SDGs Week EXPOエコプロ2024に出展しました(令和6年12月4日～6日)",
+        "link": "https://www.caa.go.jp/notice/entry/040727/"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第191回）の入札発行（令和7年1月16日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250116.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和7年1月16日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer250116.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第421回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250116.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1281回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250116.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1283回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250116.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
+        "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学術分科会（第94回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/kaisai/1421133_00013.html"
+    },
+    {
+        "category": "財務省",
+        "title": "(株)日本政策投資銀行の特定投資業務の在り方に関する検討会の開催について",
+        "link": "https://www.mof.go.jp/policy/financial_system/councils/dbjttkentou/dbjttkentoukaikaisai/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和６年12月12日開催）議事要旨",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20241212.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月15日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "自動車運転手の公募について（大臣官房会計課・令和７年４月採用）",
+        "link": "http://www.moj.go.jp/kaikei/bunsho/kaikei01_00037.html"
     }
 ]
