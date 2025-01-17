@@ -98,5 +98,130 @@
         "category": "総務省",
         "title": "消防庁消防庁総務課 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02shoubo01_04000130.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第501回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1911.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "天皇陛下のおことば（1.17のつどい－阪神・淡路大震災30年追悼式典－:令和7年1月17日）",
+        "link": "https://www.kunaicho.go.jp/page/okotoba/detail/295#2145"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和6年度我が国周辺水域の水産資源に関する評価結果が公表されました（ゴマサバ、マサバ、ソウハチ、ホッケ、マガレイ）",
+        "link": "https://www.jfa.maff.go.jp/j/press/sigen/250117.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「第6回建設業と農林水産業の連携シンポジウムーインバウンド観光から地域を見つめ直すー」の開催及び参加者の募集について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kihyo01/250117.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ハンセン病に関する情報ページ",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/hansen/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第19回医療用医薬品の安定確保策に関する関係者会議」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_45824.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回機能性表示食品等の健康被害情報への対応に関する小委員会（第２小委員会）（Web会議）を開催します。（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00016.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年 民間主要企業年末一時金妥結状況を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_48748.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第24回ハンセン病問題に関するシンポジウム（人権フォーラム2025）」を2月11日に現地開催（福岡県春日市）とライブ配信によるハイブリッド開催します ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49028.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "病院報告（令和６年10月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m24/10.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度第11回厚生科学審議会医薬品医療機器制度部会（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49073.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医薬品第一部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49084.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　化粧品・医薬部外品部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49218.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度文部科学省予算（案）等の発表資料一覧(1月)",
+        "link": "https://www.mext.go.jp/a_menu/yosan/h31/1412639_00007.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "気候変動予測先端研究プログラム令和6年度研究成果報告会開催のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01472.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "質の高い教師の確保特別部会（第15回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/099/kaisai/mext_00019.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会 調査・安全小委員会（第54回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/060/kaisai/1422158_00022.htm"
+    },
+    {
+        "category": "総務省",
+        "title": "弾道ミサイルを想定した住民避難訓練の実施（令和７年１月１７日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#068350"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00474.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザの発生状況を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザに関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00018.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省総合教育政策局非常勤職員（時間雇用職員） 採用のお知らせ（令和7年4月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1422427_00017.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1282回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20250117.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「日本語教師養成・研修推進拠点整備事業」全国協議会の開催について",
+        "link": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/mext_02957.html"
     }
 ]
