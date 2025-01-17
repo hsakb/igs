@@ -18,5 +18,85 @@
         "category": "総務省",
         "title": "弾道ミサイルを想定した住民避難訓練の実施",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02000905.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房人事課非常勤職員（障害者雇用）採用のお知らせ（令和7年4月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421781_00033.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "食品関連企業の海外展開に関するセミナーを開催します！",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/250117.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2025年1月17日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/040782/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202501/17_a.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和7年度「みどりの食料システム戦略実現技術開発・社会実装促進事業（委託プロジェクト研究）」の公募及び公募説明会の開催について",
+        "link": "https://www.affrc.maff.go.jp/docs/press/250117.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1282回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250117.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "産業連携・地域振興部会（第10回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu31/kaisai/230125_00009.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "「行政文書の管理に関するガイドライン」の改正案についての意見募集について（e-Gov）",
+        "link": "https://public-comment.e-gov.go.jp/pcm/1050"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月16日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "令和4年7月10日執行の参議院比例代表選出議員選挙における欠員による繰上補充の選挙会において決定された事項",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei15_02000431.html"
+    },
+    {
+        "category": "総務省",
+        "title": "政策統括官（統計制度担当）庶務担当（任期付職員募集担当） 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02toukatsu01_04000484.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第213回統計委員会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/kaigi/02shingi05_02000736.html"
+    },
+    {
+        "category": "総務省",
+        "title": "デジタル空間における情報流通の諸課題への対処に関する検討会（第3回）配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000518.html"
+    },
+    {
+        "category": "総務省",
+        "title": "消防庁消防庁総務課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02shoubo01_04000130.html"
     }
 ]
