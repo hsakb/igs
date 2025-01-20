@@ -13,5 +13,80 @@
         "category": "総務省",
         "title": "情報通信審議会　情報通信技術分科会　技術戦略委員会　社会実装加速化WG（第3回）",
         "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/gijutsusenryaku/syakai/02tsushin03_04000593.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度意思疎通支援従事者確保等事業の公募について",
+        "link": "https://www.mhlw.go.jp/stf/r7_ishisotsushien_koubo.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2025年1月20日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/040808/"
+    },
+    {
+        "category": "財務省",
+        "title": "「日本企業の成長と内外の資金フローに関する研究会」第3回会合を開催しました",
+        "link": "https://www.mof.go.jp/insideLink/20250116165946.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第422回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250120.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "都道府県労働局からのお知らせ・説明会等のご案内 （北海道労働局、埼玉労働局）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第31回アルコール健康障害対策関係者会議の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49303.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "研究環境基盤部会（第120回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/kaisai/1423087_00018.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "研究環境基盤部会（第120回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/010/siryo/1417785_00037.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "企画競争情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kikaku/index.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "説明会情報の更新(総合職（数理・デジタル系）)",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/suuri.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "公募（使用許可相手方選定）公告",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubokoukoku/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月17日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": " 情報通信行政・郵政行政審議会　郵政行政分科会（第96回）配布資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/yusei_gyousei/02ryutsu01_04000454.html"
     }
 ]
