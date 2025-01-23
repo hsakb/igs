@@ -18,5 +18,95 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省研究開発局原子力損害賠償紛争和解仲介室非常勤職員（期間業務職員）採用のお知らせ（令和7年4月1日採用）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1413385_00085.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農山漁村」経済・生活環境プラットフォーム設立記念シンポジウムを開催します！",
+        "link": "https://www.maff.go.jp/j/press/nousin/nousei/250123.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第1回PRI・KIPFセミナーを実施しました",
+        "link": "https://www.mof.go.jp/insideLink/20250121181528.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第75回 食品表示部会【1月23日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/syokuhinhyouji/bukai/075/shiryou/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第421回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250123.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1283回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250123.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第12回厚生科学審議会結核部会　議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49092.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "都道府県労働局からのお知らせ・説明会等のご案内 （大阪労働局）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和5年度「外国人の子供の就学状況の把握・就学促進に関する取組事例」及び令和5年度「日本語指導が必要な児童生徒の受入状況等に関する取組事例」について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/clarinet/genjyou/1295897_00001.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "研究開発基盤部会（第29回）の開催について ",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu28/kaisai/mext_00029.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "任期付職員(消費者庁表示対策課係長級職員)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/040844/"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "臨時閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202501/23_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月22日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "首相官邸",
+        "title": "「ノウフク・アワード２０２４」表彰式　林内閣官房長官ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/tyokan/103/20250123message.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会　電波利用環境委員会　CISPR F作業班（第27回）配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_kankyou/cispr_f/02kiban16_04000867.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信行政・郵政行政審議会 電気通信事業部会　ユニバーサルサービス委員会（第11回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/universal_service/02kiban07_04000072.html"
     }
 ]
