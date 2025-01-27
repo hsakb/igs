@@ -3,5 +3,45 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "『芸人だってツラいよ！トラブっちゃった座談会～第３弾～』の公開について",
+        "link": "http://www.moj.go.jp/hogo1/kouseihogoshinkou/hogo03_00170.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第422回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250127.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査［地方調査］－令和６年８月分結果概要",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r06/0608/index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年１１月分月報公表（訟務事件統計、登記統計、検察統計、矯正統計、少年矯正統計、保護統計及び人権侵犯事件統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "公募情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "庁務補佐員の募集（三田共用会議所）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/chomuhosa/20250127_hisyo.mita.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月24日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
     }
 ]
