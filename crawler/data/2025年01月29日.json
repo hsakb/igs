@@ -3,5 +3,65 @@
         "category": "内閣府",
         "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
         "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術・学術審議会総会（第75回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu0/shiryo/mext_00019.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律」に基づく開発供給実施計画の認定について",
+        "link": "https://www.affrc.maff.go.jp/docs/press/250129.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年クライメート・トランジション利付国債（第2回）の入札発行（令和7年1月29日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250129.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（医療事故調査専門官）募集情報）",
+        "link": "http://www.mhlw.go.jp/general/saiyo/ninki-iryoujikochousasenmonkan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（期間業務職員（医薬局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-iyakukyoku1.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度「WWL（ワールド・ワイド・ラーニング）コンソーシアム構築支援事業」（全国拠点構築に向けた調査研究事業）（総合評価落札方式）の募集について",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00435.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年1月28日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "電話リレーサービス・文字表示電話サービス（ヨメテル）に関する講習会",
+        "link": "https://www.soumu.go.jp/menu_news/gyouji/02ryutsu05_04000224.html"
+    },
+    {
+        "category": "総務省",
+        "title": " 情報通信行政・郵政行政審議会　電気通信事業部会（第152回）配布資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/yusei_gyousei/02ryutsu01_04000457.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "令和６年中の月別自殺者数について（12月末の暫定値）",
+        "link": "http://www.npa.go.jp/newlyarrived/2025/20250124001.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「地域観光魅力向上事業」の事業説明会を実施します！",
+        "link": "http://www.mlit.go.jp/kankocho/topics05_00023.html"
     }
 ]
