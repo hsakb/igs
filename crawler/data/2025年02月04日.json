@@ -8,5 +8,85 @@
         "category": "農林水産省",
         "title": "「2024年の農林水産物・食品の輸出実績」について",
         "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/250204.html"
+    },
+    {
+        "category": "法務省",
+        "title": "説明会情報を更新しました（松山保護観察所）",
+        "link": "http://www.moj.go.jp/hogo1/soumu/hogo_k_matsuyama_matsuyama.html"
+    },
+    {
+        "category": "法務省",
+        "title": "鈴木馨祐法務大臣が東日本入国管理センターを視察しました。",
+        "link": "http://www.moj.go.jp/hisho/kouhou/hisho06_01191.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房人事課非常勤職員【障害者支援員（期間業務職員）】採用のお知らせ（令和7年4月1日）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1417881_00039.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特定保健用食品の表示許可について(2月4日)",
+        "link": "https://www.caa.go.jp/notice/entry/041002/"
+    },
+    {
+        "category": "財務省",
+        "title": "「日本企業の成長と内外の資金フローに関する研究会」第4回会合を開催しました",
+        "link": "https://www.mof.go.jp/insideLink/20250131155828.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "海業PRの漁港マスコットキャラクターが誕生しました！",
+        "link": "https://www.jfa.maff.go.jp/j/press/keikaku/250204.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第377回）の入札発行（令和7年2月4日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250204.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "鈴木馨祐法務大臣が東日本入国管理センターを視察しました。",
+        "link": "https://www.moj.go.jp/hisho/kouhou/hisho06_01191.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省科学技術・学術政策局参事官（国際戦略担当）付　非常勤職員（時間雇用職員）採用のお知らせ（令和7年4月1日採用）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00164.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202502/4_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "2025年日本国際博覧会「介護ロボット等テクノロジーの普及」に係る展示機器の公募について",
+        "link": "https://www.mhlw.go.jp/stf/expo_bosyuu_0204.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年2月3日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "第8回　電気通信事故検証会議",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/tsuushin_jiko_kenshou/02kiban05_04000704.html"
+    },
+    {
+        "category": "総務省",
+        "title": "村上総務大臣閣議後記者会見の概要",
+        "link": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001417.html"
     }
 ]
