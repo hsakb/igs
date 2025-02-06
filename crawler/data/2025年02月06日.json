@@ -13,5 +13,60 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "感染症危機管理専門家（IDES）養成プログラム　研修生　募集案内",
+        "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/kikikanri/index.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和7年度「安全な農畜水産物安定供給のための包括的レギュラトリーサイエンス研究推進委託事業（うち短期課題解決型研究）」の公募及び公募説明会の開催について",
+        "link": "https://www.maff.go.jp/j/press/syouan/gijyutu/250206.html"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第85回）の入札発行（令和7年2月6日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250206.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1285回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250206.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "高齢化やテクノロジーの進展等を見据えた消費者保護に関する官民共創ラウンドテーブルの第2回会議(令和7年1月23日)を開催しました。",
+        "link": "https://www.caa.go.jp/notice/entry/041067/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度公衆衛生事業功労者に対する厚生労働大臣表彰受賞者が決まりました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_50391.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年2月5日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "行政管理局企画調整課 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02gyokan01_04000379.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「海外教育旅行シンポジウム2025」を開催します！",
+        "link": "http://www.mlit.go.jp/kankocho/topics07_00009.html"
     }
 ]
