@@ -8,5 +8,105 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "文部科学省",
+        "title": "高校生による専門高校の魅力紹介動画を募集します。",
+        "link": "https://www.mext.go.jp/a_menu/shotou/shinkou/main19_a2.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事工業生産動態統計令和６年11月分月報について",
+        "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "令和７年度予算「下請かけこみ寺事業(相談及びＡＤＲ業務)」に係る入札の可能性を調査します",
+        "link": "https://www.chusho.meti.go.jp/keiei/torihiki/2025/250214shitauke.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第176回）の入札発行（令和7年2月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250214.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和7年2月14日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer250214.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1287回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250214.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1289回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250214.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "令和７年司法試験予備試験の受験案内について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00277.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者支援機構福岡と北九州マラソン実行委員会との間の差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/041094/"
+    },
+    {
+        "category": "財務省",
+        "title": "公募情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働基準監督官採用試験HPを更新しました。",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
+        "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／最高裁判事の人事／ルーラ・ブラジル連邦共和国大統領夫妻の訪日について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202502/14_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年2月13日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度「世界患者安全の日」について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_40267.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "埼玉県八潮市の道路陥没事故を踏まえた有識者委員会を開催します〜「下水道等に起因する大規模な道路陥没事故を踏まえた対策検討委員会」の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000625.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "埼玉県八潮市の道路陥没事故を踏まえた緊急点検結果等を公表します〜下水道管路に起因する道路陥没事故の未然防止に向けて〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000629.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第128回産業統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/kaigi/02shingi05_02000739.html"
     }
 ]
