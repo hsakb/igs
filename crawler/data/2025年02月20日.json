@@ -13,5 +13,75 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度　文教施設における多様なPPP/PFIの先導的開発事業（概要）",
+        "link": "https://www.mext.go.jp/a_menu/shisetu/ppp/mext_02146.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政金融統計月報第869号＜財政投融資特集＞を掲載しました",
+        "link": "https://www.mof.go.jp/pri/publication/zaikin_geppo/hyou/g869/869.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（3月債）の発行予定額等（令和7年2月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250220.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第423回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250220.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度エイジフレンドリー補助金（間接補助金）に係る補助事業者（執行団体）の公募について（公募要領）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_31599.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "都道府県労働局からのお知らせ・説明会等のご案内 （千葉労働局）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kantokukan.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年2月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "法務省",
+        "title": "【総合職】採用パンフレットを更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03g.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第379回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_50545.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会(職業安定分科会労働力需給制度部会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126981.html"
+    },
+    {
+        "category": "総務省",
+        "title": "宇宙通信アドバイザリーボード（第4回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/Space_Communications/02tsushin05_04000168.html"
+    },
+    {
+        "category": "総務省",
+        "title": " eシールに係る認定制度の関係規程策定のための有識者会議（第8回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/e_seal_yushikisha/02cyber01_04000001_00310.html"
     }
 ]
