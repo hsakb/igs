@@ -188,5 +188,65 @@
         "category": "文部科学省",
         "title": "日本語教育部会(第5回）配布資料",
         "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/014/giji_list/mext_02039.html"
+    },
+    {
+        "category": "財務省",
+        "title": "予算書・決算書データベースのシステムメンテナンスのお知らせ",
+        "link": "https://www.mof.go.jp/policy/budget/maintenance.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品表示基準の一部改正に係る答申【2月28日付】",
+        "link": "https://www.cao.go.jp/consumer/iinkaikouhyou/2025/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第2回 支払手段の多様化と消費者問題に関する専門調査会【3月10日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/payment/002/kaisai/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第454回 消費者委員会本会議【2月28日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2025/454/shiryou/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "G20財務大臣・中央銀行総裁会議議長総括（仮訳）（令和7年2月26-27日　於：南アフリカ・ケープタウン）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/20250227.pdf"
+    },
+    {
+        "category": "農林水産省",
+        "title": "千葉県匝瑳市で発生した高病原性鳥インフルエンザ（国内46例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250303_1.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和6年度　7年１月末租税及び印紙収入、収入額調",
+        "link": "https://www.mof.go.jp/tax_policy/reference/taxes_and_stamp_revenues/202501.pdf"
+    },
+    {
+        "category": "消費者庁",
+        "title": "(動画)「この寄附勧誘、ヤバくない?」を掲載しました。",
+        "link": "https://www.caa.go.jp/notice/entry/041302/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "告示削除済みの先進医療Bの一覧",
+        "link": "https://www.mhlw.go.jp/topics/bukyoku/isei/sensiniryo/itiran.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "広島ＡＩプロセス・フレンズグループ会合　石破総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20250303message.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度 情報通信機器（ICT）を利用した死亡診断等検証事業実施団体の公募について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_53358.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省高等教育局任期付職員採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00169.html"
     }
 ]
