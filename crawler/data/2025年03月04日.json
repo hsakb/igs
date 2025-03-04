@@ -148,5 +148,65 @@
         "category": "総務省",
         "title": "岩手県大船渡市の林野火災に関する被害状況等について（第9報）",
         "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000580.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和7年2月中実績）の概要",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202502gaiyo.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和7年3月見込）",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202503a.pdf"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「電気事業法施行令の一部を改正する政令」が閣議決定されました",
+        "link": "https://www.meti.go.jp/press/2024/03/20250304002/20250304002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第27回精神保健福祉士国家試験合格結果を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_53287.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第195回労働政策審議会労働条件分科会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_53401.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2040年を見据えて社会とともに歩む私立大学の在り方検討会議（第1回）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/koutou/132/kaisai/mext_00008.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "全国的な学力調査に関する専門家会議（第9回）、調査結果の取扱い検討ワーキンググループ（第3回）合同会議の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/186/kaisai/1422553_00006.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "連鎖販売業者【株式会社SEED】に対する行政処分について",
+        "link": "https://www.caa.go.jp/notice/entry/041314/"
+    },
+    {
+        "category": "内閣府",
+        "title": "消費動向調査（令和7年2月実施分）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/shouhi/shouhi.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "ランピースキン病ワクチン接種県由来の牛肉の米国への輸出停止措置の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250304.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "3月10日は「農山漁村女性の日」です",
+        "link": "https://www.maff.go.jp/j/press/keiei/kourei/250304.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第377回）の入札結果（令和7年3月4日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20250304.htm"
     }
 ]
