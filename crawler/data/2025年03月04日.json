@@ -33,5 +33,120 @@
         "category": "総務省",
         "title": "労働力調査（基本集計）2025年（令和7年）1月分",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei04_01000276.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「第12期の審議のまとめ～法科大学院制度の20年の歩みと法科大学院教育の更なる発展・充実～」（令和7年2月20日）",
+        "link": "https://www.mext.go.jp/a_menu/koutou/houka/1388525_00006.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特定保健用食品の表示許可等に関する部会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/041333/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "ＩＣＧＮ３０周年記念アジアカンファレンス　石破総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20250304message4.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第377回）の入札発行（令和7年3月4日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250304.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札予定（令和7年3月4日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer250304.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "第５回帰国留学生総会　石破総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20250304message3.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "東日本大震災の発生から１４年を迎えるに当たっての石破内閣総理大臣の談話「国民の皆様へ」を掲載しました",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20250304danwa.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省総合教育政策局生涯学習推進課　非常勤職員（時間雇用職員）採用のお知らせ（令和7年5月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1422814_00061.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「公益通報者保護法の一部を改正する法律案」の閣議決定について",
+        "link": "https://www.caa.go.jp/notice/entry/041304/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "第１４回日本証券サミット　石破総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20250304message1.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "ＦＩＮ／ＳＵＭ ２０２５　石破総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20250304message2.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／東日本大震災について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202503/4_a.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律案」が閣議決定されました",
+        "link": "https://www.meti.go.jp/press/2024/03/20250304003/202503004003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "中堅期看護職員等の就業継続支援事業実施団体の公募について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000193976_00090.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年3月3日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "村上総務大臣閣議後記者会見の概要",
+        "link": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001425.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "マンションの管理・再生の円滑化等のための改正法案を閣議決定〜新築から再生までのライフサイクル全体を見通した取組〜",
+        "link": "http://www.mlit.go.jp/report/press/house03_hh_000224.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「駐車場法施行令の一部を改正する政令」を閣議決定〜共同住宅の荷さばき駐車施設の不足に対応〜",
+        "link": "http://www.mlit.go.jp/report/press/toshi09_hh_000118.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和7年度国土交通本省診療所（内科）血液検査等業務（単価契約）",
+        "link": "http://www.mlit.go.jp/page/kanbo07_hy_000140_re.html"
+    },
+    {
+        "category": "総務省",
+        "title": "岩手県大船渡市の林野火災に関する被害状況等について（第9報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000580.html"
     }
 ]
