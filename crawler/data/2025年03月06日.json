@@ -168,5 +168,65 @@
         "category": "国土交通省",
         "title": "リコールの届出について（三菱　ふそう スーパーグレート）",
         "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005382.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第1回 支払手段の多様化と消費者問題に関する専門調査会【3月5日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/payment/001/shiryou/index.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "千葉県匝瑳市で発生した高病原性鳥インフルエンザ（国内50例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/250306.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "規制の事前評価及び事後評価を実施しました（計２件）",
+        "link": "https://www.mext.go.jp/a_menu/hyouka/kekka/1407910_00008.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "個人向け国債の応募額（令和7年2月）",
+        "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20250306.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法の重大事故等に係る公表について(3月6日)",
+        "link": "https://www.caa.go.jp/notice/entry/041366/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(3月6日)",
+        "link": "https://www.caa.go.jp/notice/entry/041367/"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第85回）の第II非価格競争入札結果（令和7年3月6日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20250306a.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (3月6日)",
+        "link": "https://www.caa.go.jp/notice/entry/041363/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "小中高生等へのアントレプレナーシップ教育の拡大に向けた「EDGE-PRIME Initiative」全国フォーラムを開催",
+        "link": "https://www.mext.go.jp/a_menu/kagaku/platform/index_00008.htm"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品安全委員会（第975回）の開催について【3月11日開催】",
+        "link": "https://www.fsc.go.jp/iinkai_annai/annai/annai975.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "肥料・飼料等専門調査会（第207回）の開催について（非公開）【3月14日開催】",
+        "link": "https://www.fsc.go.jp/senmon/hisiryou/annai/hisiryou_annai_207.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第一専門調査会（第35回）の開催について（非公開）【3月14日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai1_senmon_35.html"
     }
 ]
