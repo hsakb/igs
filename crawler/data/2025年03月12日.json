@@ -23,5 +23,120 @@
         "category": "内閣府",
         "title": "法人企業景気予測調査（令和7年1-3月期）",
         "link": "https://www.esri.cao.go.jp/jp/stat/hojin/menu_hojin.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房人事課非常勤職員【障害者支援員（期間業務職員）】採用のお知らせ（令和7年6月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1417881_00040.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2025年2月の地震活動の評価を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00143.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "2025年2月20日　第117回社会保障審議会介護保険部会　議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_54202.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第455回 消費者委員会本会議【3月10日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2025/455/shiryou/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第2回 支払手段の多様化と消費者問題に関する専門調査会【3月10日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/payment/002/shiryou/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "消費者基本計画についての答申【3月10日付】",
+        "link": "https://www.cao.go.jp/consumer/iinkaikouhyou/2025/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第191回）の入札発行（令和7年3月12日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250312.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "第82回 財務省政策評価懇談会（3月12日開催）資料",
+        "link": "https://www.mof.go.jp/about_mof/councils/policy_evaluation/proceedings/material/82seihyoukon.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "石綿ばく露作業による労災認定等事業場一覧表（令和５年度以前認定分）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_35324.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国際連携学科等の設置の認可申請等 に係る提出書類の作成の手引を更新しました。",
+        "link": "https://www.mext.go.jp/a_menu/koutou/ninka/1422217_00005.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年3月6日新年度における法等に基づくいじめに対する平時からの備えについて（通知）",
+        "link": "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1414737_00016.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "第76回獣医師国家試験（令和6年度）の結果について",
+        "link": "https://www.maff.go.jp/j/press/syouan/tikusui/250312.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年3月11日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度学校基本調査について",
+        "link": "https://www.mext.go.jp/b_menu/toukei/chousa01/kihon/sonota/2025.htm"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（2月25日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00742.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（2月25日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00743.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（2月28日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00744.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（2月28日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00745.html"
+    },
+    {
+        "category": "総務省",
+        "title": "接続料の算定等に関する研究会（第93回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/access-charge_calculation/02kiban03_04001091.html"
+    },
+    {
+        "category": "総務省",
+        "title": "岩手県大船渡市の林野火災に関する被害状況等について（第22報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000595.html"
     }
 ]
