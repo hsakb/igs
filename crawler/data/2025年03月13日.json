@@ -8,5 +8,55 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "調査対象の皆様へ（中高年者縦断調査について）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/judan/taishousha/tn_00.html"
+    },
+    {
+        "category": "財務省",
+        "title": "法人企業景気予測調査　財務局等別主要データを掲載しました",
+        "link": "https://www.mof.go.jp/insideLink/20250312102939.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第37回厚生科学審議会予防接種・ワクチン分科会研究開発及び生産・流通部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_54372.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "官民によるスタートアップ支援プログラム「J-Startup」新たな選定企業を発表",
+        "link": "https://www.meti.go.jp/press/2024/03/20250313001/20250313001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省総合教育政策局生涯学習推進課　非常勤職員（期間業務職員）採用のお知らせ  （令和7年6月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1422814_00063.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "栄養成分表示を巡る改正予定事項や検討状況に関する説明会",
+        "link": "https://www.caa.go.jp/notice/entry/041384/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年3月12日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "岩手県大船渡市の林野火災に関する被害状況等について（第23報）",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000596.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（3月5日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00746.html"
     }
 ]
