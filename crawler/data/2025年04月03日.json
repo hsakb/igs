@@ -23,5 +23,30 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第378回）の入札発行（令和7年4月3日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250403.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（4月債）の発行予定額等（令和7年4月3日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250403.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札予定（令和7年4月3日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer250403.htm"
+    },
+    {
+        "category": "総務省",
+        "title": "第51回独立行政法人評価制度委員会　議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000511.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第69回独立行政法人評価制度委員会評価部会　議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000512.html"
     }
 ]
