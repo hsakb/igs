@@ -18,5 +18,45 @@
         "category": "厚生労働省",
         "title": "毎月勤労統計調査ー令和7年1月分結果確報",
         "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/2501r/2501r.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「海業の推進に取り組む地区」の決定について",
+        "link": "https://www.jfa.maff.go.jp/j/press/keikaku/250404.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「コンセント制度」を適用した初の商標登録を行いました",
+        "link": "https://www.meti.go.jp/press/2025/04/20250407001/20250407001.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "企業の競争力強化のためのダイバーシティ経営（ダイバーシティレポート）を公表しました",
+        "link": "https://www.meti.go.jp/press/2025/04/20250407002/20250407002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（国際保健・協力室国際機関専門官又は主査）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-kokusaihoken-kyouryokushitsukokusaikikansenmonkan-shusa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（職業安定局）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/hj-shokugyouanteikyoku.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "土地活用ハンズオン支援の公募について",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat1/sub-cat1-15/20180426172452.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者機構日本と一般社団法人文化芸能国際交流機構との間の共通義務確認訴訟に関する判決の確定について",
+        "link": "https://www.caa.go.jp/notice/entry/041793/"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年4月4日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
     }
 ]
