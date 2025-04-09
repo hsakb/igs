@@ -148,5 +148,40 @@
         "category": "文部科学省",
         "title": "【一般職技術系】業務説明会日程一覧",
         "link": "https://www.mext.go.jp/b_menu/saiyou/ippangijyutsu/detail/1387690.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政制度分科会（令和7年4月9日開催）資料一覧",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/202050409zaiseia.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政制度等審議会　総会（令和7年4月9日開催）資料一覧",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/soukai/proceedings/material/zaiseiar070409.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "無歯科医地区等調査：令和４年度調査の概況",
+        "link": "https://www.mhlw.go.jp/toukei/list/77-16b/R5.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政制度等審議会 第64回国有財産分科会（令和7年4月9日開催）資料一覧",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_national_property/proceedings_np/material/zaisan20250409.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "ESRI Discussion Paper No.400 「日本における所得・収入・資産格差に関する長期的視点からの考察：1984年～2019年」",
+        "link": "https://www.esri.cao.go.jp/jp/esri/archive/e_dis/2025/e_dis400.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (4月9日)",
+        "link": "https://www.caa.go.jp/notice/entry/041861/"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第15回「国土交通省国際政策推進本部」を開催しました〜米国関税措置への対応について〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo05_hh_000393.html"
     }
 ]
