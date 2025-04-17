@@ -23,5 +23,55 @@
         "category": "財務省",
         "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度看護師の特定行為研修に係る実態調査・分析等事業実施団体の公募について ",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000193976_00095.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（5月債）の発行予定額等（令和7年4月17日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250417.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和7年4月17日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer250417.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第427回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250417.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1300回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250417.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房人事課非常勤職員（障害者雇用）採用のお知らせ（令和7年6月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421781_00035.htm"
+    },
+    {
+        "category": "復興庁",
+        "title": "県外自主避難者支援体制強化事業",
+        "link": "https://www.reconstruction.go.jp/topics/main-cat2/sub-cat2-7/20180703113812.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "在外教育施設シニア派遣教師の公募について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/clarinet/1294120.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "在外教育施設プレ派遣教師の公募について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/clarinet/1403613.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和7年度　厚生労働科学研究費補助金公募要項（2次）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_56541.html"
     }
 ]
