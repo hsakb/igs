@@ -18,5 +18,60 @@
         "category": "国土交通省",
         "title": "訪日外国人旅行者の受入環境に関する調査を実施しました　〜旅行中「困ったことは無かった」と回答した割合が大幅増〜",
         "link": "http://www.mlit.go.jp/kankocho/news08_00022.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事工業生産動態統計令和７年１月分月報について",
+        "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度第1回食品衛生基準審議会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/041924/"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1301回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250418.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1302回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250418.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "大学の研究者の目線に立った知財の情報提供資料として、研究活動を前に進めるヒントを記載したパンフレットを作成しました（大学の産学連携組織関係者必見です）",
+        "link": "https://www.meti.go.jp/press/2025/04/20250418001/20250418001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "業務説明会のご案内〈総合職（人間科学区分）〉",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/gyoumu_setumeikai.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202504/18_a.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "人材委員会　次世代人材育成ワーキング・グループ（第1回配布資料）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu10/006/siryo/mext_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年4月17日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "総務省",
+        "title": "一般職事務系業務説明会の情報を更新しました",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/setumeikai.html"
     }
 ]
