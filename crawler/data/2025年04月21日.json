@@ -13,5 +13,40 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年4月18日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食用赤色3号を含有する食品に関する自主点検について",
+        "link": "https://www.caa.go.jp/notice/entry/041999/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "関西万博ORAパビリオンにおいて「GFP試食展示会」を開催します！",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/s_keisei/250421.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "アルコール健康障害対策関係者会議(アルコール健康障害対策関係者会議)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/0000167071_450973.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第33回アルコール健康障害対策関係者会議の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_57155.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（遺骨鑑定専門官又は主査）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-ikotsukanteisenmonkan-shusa.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（社会・援護局事業課事業推進室事業専門官）募集情報）",
+        "link": "https://www.mhlw.go.jp/general/saiyo/ninki-shakai-engokyokujigyoukajigyousuishinshitsujigyousenmonkan.html"
+    },
+    {
+        "category": "総務省",
+        "title": "放送・配信コンテンツ産業戦略検討チーム（第4回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu04_04000274.html"
     }
 ]
