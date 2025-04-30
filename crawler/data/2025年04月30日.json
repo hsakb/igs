@@ -73,5 +73,40 @@
         "category": "総務省",
         "title": "令和7年4月30日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001081.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査を装った不審なメールにご注意ください（令和７年４月30日）",
+        "link": "https://www.mhlw.go.jp/toukei/list/30-1.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和7年春の叙勲等の受章者数及び受章者名簿（令和7年4月29日（火祝）付け発令）",
+        "link": "https://www8.cao.go.jp/shokun/hatsurei/r07haru.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和7年3月31日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "江藤農林水産大臣の海外出張（インドネシア）結果概要について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/250430.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和7年春の叙勲・褒章等（農林水産省関係）について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/hisyo/250430.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "政府備蓄米の買戻し条件付売渡しの入札結果（第3回）の概要について",
+        "link": "https://www.maff.go.jp/j/press/nousan/boeki/250430.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "中小企業等経営強化法に基づく「先端設備等導入計画」の認定状況について(令和6年12月31日現在)",
+        "link": "https://www.chusho.meti.go.jp/keiei/seisansei/2025/250430seisansei.html"
     }
 ]
