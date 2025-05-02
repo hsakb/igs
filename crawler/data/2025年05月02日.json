@@ -188,5 +188,60 @@
         "category": "首相官邸",
         "title": "石破総理は米国の関税措置に関する日米協議についての会見を行いました",
         "link": "https://www.kantei.go.jp/jp/103/statement/2025/0502kaiken.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省高等教育局学生支援課アルバイト募集について",
+        "link": "https://www.mext.go.jp/a_menu/koutou/hutankeigen/mext_01896.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第429回)入札において追加発行した国債の銘柄",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20250502a.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "買入消却入札による買入れの詳細及び累計（令和7年4月実施分）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/ichiran208.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「錠剤、カプセル剤等食品の製造管理及び品質管理(GMP)に関する指針(ガイドライン)」に係る項目解 説及び自己点検表について(周知)",
+        "link": "https://www.caa.go.jp/notice/entry/042170/"
+    },
+    {
+        "category": "内閣府",
+        "title": "第88回 公共料金等専門調査会【5月12日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/088/kaisai/index.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第460回 消費者委員会本会議【5月13日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2025/460/kaisai/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:リコール製品で火災等(充電器(電気シェーバー用))(5月2日)",
+        "link": "https://www.caa.go.jp/notice/entry/042177/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(5月2日)",
+        "link": "https://www.caa.go.jp/notice/entry/042176/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法の重大事故等に係る公表について(5月2日)",
+        "link": "https://www.caa.go.jp/notice/entry/042178/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (5月2日)",
+        "link": "https://www.caa.go.jp/notice/entry/042172/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術・学術審議会 研究開発基盤部会（第30回）開催案内",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu28/kaisai/mext_00030.html"
     }
 ]
