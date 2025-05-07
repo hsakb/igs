@@ -18,5 +18,25 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年5月2日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "ハラール食品の展示を行います！",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/250507.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被保護者調査（令和７年２月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2025/02.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2025年度総合職試験　夏の官庁訪問について【総合職事務系（施設系を含む）】",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/detail/1417945_00007.htm"
     }
 ]
