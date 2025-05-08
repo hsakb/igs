@@ -1,0 +1,22 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房文教施設企画・防災部施設企画課非常勤職員（時間雇用職員）採用のお知らせ（令和7年7月1日採用）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00141.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省研究振興局参事官（情報担当）付非常勤職員（文部科学省調査員）採用のお知らせ（令和7年7月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00173.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年5月7日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    }
+]
