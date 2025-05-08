@@ -18,5 +18,55 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年5月7日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第378回）の入札発行（令和7年5月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250508.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（5月債）の発行予定額等（令和7年5月8日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250508.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和7年5月8日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer250508.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1304回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250508.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "無人航空機衝突回避システムに関する国際規格が発行されました",
+        "link": "https://www.meti.go.jp/press/2025/05/20250508001/20250508001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福祉行政報告例（令和７年２月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/gyousei/fukushi/m25/02.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理は北朝鮮からの弾道ミサイルの可能性があるものの発射について指示を行いました",
+        "link": "https://www.kantei.go.jp/jp/103/discourse/20250508shiji.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第３６回全国「みどりの愛護」のつどいを開催〜６月７日に松戸市にて活動事例紹介や記念植樹を行います！〜",
+        "link": "http://www.mlit.go.jp/report/press/toshi10_hh_000537.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第３６回「みどりの愛護」功労者国土交通大臣表彰の受賞団体を決定〜６月７日開催の全国「みどりの愛護」のつどいにて表彰します！〜",
+        "link": "http://www.mlit.go.jp/report/press/toshi10_hh_000538.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "警察庁サイバー部門・デジタル部門における技官採用の実施について",
+        "link": "http://www.npa.go.jp/newlyarrived/2025/20250425001.html"
     }
 ]
