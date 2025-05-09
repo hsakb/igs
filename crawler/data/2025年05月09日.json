@@ -138,5 +138,105 @@
         "category": "首相官邸",
         "title": "閣議の概要について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202505/9_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第34回民間都市開発債券（グリーンボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1932.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "第511回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1931.htm"
+    },
+    {
+        "category": "復興庁",
+        "title": "伊藤復興大臣記者会見録［令和７年５月９日］",
+        "link": "https://www.reconstruction.go.jp/topics/25/05/20250509133658.html"
+    },
+    {
+        "category": "財務省",
+        "title": "株式会社日本政策投資銀行法の一部を改正する法律が成立しました",
+        "link": "https://www.mof.go.jp/insideLink/20250509092217.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "産業データ連携の促進に向けた優良な取組を「ウラノス・エコシステム・プロジェクト制度」に基づき選定しました",
+        "link": "https://www.meti.go.jp/press/2025/05/20250509003/20250509003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働者派遣事業及び有料の職業紹介事業の許可を取り消しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_57334.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２回「令和６年育児・介護休業法改正を踏まえた実務的な介護両立支援の具体化に関する研究会」を開催します（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_57542.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_57690.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の医療費の動向-MEDIAS-令和6年度12月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/month/24/12.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の医科医療費（電算処理分）の動向　令和6年度12月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2024/12/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の歯科医療費（電算処理分）の動向　令和6年度12月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2024/12/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の調剤医療費（電算処理分）の動向　令和6年度12月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/c-med/2024/12/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "火山調査研究推進本部政策委員会総合基本施策・調査観測計画部会 第1回 調査観測計画検討分科会を開催します（令和7年5月15日）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00157.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "【開催案内】基幹ロケット開発に係る有識者検討会（第2回）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/kaihatu/031/kaisai/mext_00003.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会生涯学習分科会社会教育の在り方に関する特別部会（第7回）を開催します。",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/015/kaisai/mext_00007.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債及び借入金並びに政府保証債務現在高（令和7年3月末現在）",
+        "link": "https://www.mof.go.jp/jgbs/reference/gbb/202503.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "大阪・関西万博を契機に、日本産農林水産物・食品の魅力を世界に発信します！",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/250507.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気動向指数（令和7年3月分速報）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1305回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20250509.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第213回労働政策審議会職業安定分科会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_021225156_00099.html"
     }
 ]
