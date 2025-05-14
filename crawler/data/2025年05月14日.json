@@ -13,5 +13,45 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年5月13日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2025年4月の地震活動の評価を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00156.html"
+    },
+    {
+        "category": "財務省",
+        "title": "谷垣　征一郎様に「トランプ2.0時代の環境政策アップデート～再選から6ヶ月、米国脱炭素政策の行方と州vs連邦の攻防～」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20250512140333.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和7年5月14日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer403.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「SX銘柄2025」「SX注目企業2025」を選定しました",
+        "link": "https://www.meti.go.jp/press/2025/05/20250514001/20250514001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和6年度消費生活協同組合（連合会）実態調査の公開の遅延について",
+        "link": "https://www.mhlw.go.jp/toukei/list/98-1.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者機構日本とソーダストリーム株式会社との間の差止請求に関する協議が調ったことについて",
+        "link": "https://www.caa.go.jp/notice/entry/042238/"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「地域観光魅力向上事業」の二次公募に向けた事業説明会を実施します！",
+        "link": "http://www.mlit.go.jp/kankocho/topics05_00026.html"
     }
 ]
