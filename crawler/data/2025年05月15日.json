@@ -1,0 +1,37 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年5月14日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "オフショア勘定残高",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "文部科学省",
+        "title": "基幹ロケット開発に係る有識者検討会（第2回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/kaihatu/031/siryo/mext_00004.html"
+    },
+    {
+        "category": "総務省",
+        "title": "放送・配信コンテンツ産業戦略検討チーム（第5回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu04_04000276.html"
+    }
+]
