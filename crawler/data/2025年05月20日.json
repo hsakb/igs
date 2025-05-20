@@ -18,5 +18,55 @@
         "category": "総務省",
         "title": "政党説明会等の開催のお知らせについて",
         "link": "https://www.soumu.go.jp/main_content/001009483.pdf"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「半導体基盤プラットフォーム」採択機関の決定について",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/arim_stera_results_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国際卓越研究大学制度と第2期公募について",
+        "link": "https://www.mext.go.jp/a_menu/kagaku/daigakukenkyuryoku/kokusaitakuetsu_koubo.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第192回）の入札発行（令和7年5月20日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250520.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国家一般職（厚生行政）の業務説明会を行います",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/kokka2-kousei/online-gyomusetumei.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国家一般職（労働行政）の業務説明会を行います",
+        "link": "https://www.mhlw.go.jp/general/saiyo/kokka2/ippanroudou_setsumeikai.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第6回Global×Innovation人材育成フォーラム配布資料",
+        "link": "https://www.mext.go.jp/a_menu/koutou/ryugaku/mext_00007.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202505/20_a.html"
+    },
+    {
+        "category": "総務省",
+        "title": "村上総務大臣閣議後記者会見の概要",
+        "link": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001446.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "観光地・観光産業における生成AIの適切かつ効果的な活用に向けた手引書を作成いたしました",
+        "link": "http://www.mlit.go.jp/kankocho/topics12_00010.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "総合旅行業務取扱管理者試験及び国内旅行業務取扱管理者試験の受験手数料を見直します 〜「旅行業法施行令の一部を改正する政令」を閣議決定〜",
+        "link": "http://www.mlit.go.jp/kankocho/news06_00031.html"
     }
 ]
