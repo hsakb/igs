@@ -1,0 +1,77 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年5月20日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和7年4月分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20250520093749.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（4月15日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00771.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（4月18日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00773.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（4月8日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00769.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（4月11日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00770.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（3月21日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00764.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（3月25日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00765.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（3月28日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00766.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（4月1日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00767.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（4月4日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00768.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（3月14日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00762.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年度地方財政審議会（3月14日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00763.html"
+    }
+]
