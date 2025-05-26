@@ -58,5 +58,105 @@
         "category": "警察庁",
         "title": "特殊詐欺及びSNS型投資・ロマンス詐欺の認知・検挙状況等（令和６年・確定値）について（広報資料）",
         "link": "http://www.npa.go.jp/newlyarrived/2025/20250205001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第１回「高額療養費制度の在り方に関する専門委員会」資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_58126.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第69回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_57957.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気動向指数（令和7年3月分速報からの改訂状況）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農山漁村」インパクト創出ソリューション実装プログラムを開始します！",
+        "link": "https://www.maff.go.jp/j/press/nousin/nousei/250520.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "第10版食品添加物公定書の付録1の差し替え",
+        "link": "https://www.caa.go.jp/notice/entry/042410/"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第430回)入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20250526.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理は千鳥ヶ淵戦没者墓苑拝礼式に出席しました",
+        "link": "https://www.kantei.go.jp/jp/103/actions/202505/26haireishiki.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "シンガポール航空局との第４回政策対話を実施〜航空政策の重点分野における連携強化を進めます〜",
+        "link": "http://www.mlit.go.jp/report/press/kouku03_hh_000287.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "港湾物流関係者の業務をサイバーポートで一体的に効率化〜複数の主要事業者参加のトライアル、三島川之江港で全国初開催〜",
+        "link": "http://www.mlit.go.jp/report/press/port05_hh_000382.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「第９回 自動物流道路に関する検討会」の開催について〜「危機」を「転機」とする自動物流道路〜",
+        "link": "http://www.mlit.go.jp/report/press/road01_hh_001940.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "建設労働需給調査結果(令和７年４月分調査)について",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00284.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "5月の主要建設資材の需給動向は全ての調査対象資材において均衡〜主要建設資材需給・価格動向調査（令和7年5月1〜5日現在）の結果〜",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00285.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "外国人技術者採用のためのインドネシア合同就職説明会を開催します！〜幅広い地域の学生に現地で直接アプローチが可能です〜",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo03_hh_000001_00104.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "港湾統計速報（令和7年3月分）",
+        "link": "http://www.mlit.go.jp/report/press/joho05_hh_000849.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「有効利用評価方針」の改定案に対する意見募集の結果及び改定後の「有効利用評価方針」の公表",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban01_02000084.html"
+    },
+    {
+        "category": "総務省",
+        "title": "放送法施行規則の一部を改正する省令案等に関する意見募集",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu08_02000319.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第737回　入札監理小委員会（開催案内）",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/kanmin/02shingi06_02000981.html"
+    },
+    {
+        "category": "総務省",
+        "title": "競争ルールの検証に関するWG（第62回）開催案内",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denkitsushin_shijo/02kiban03_04001104.html"
+    },
+    {
+        "category": "総務省",
+        "title": "電波法施行規則等の一部を改正する省令案等に係る意見募集の結果及び電波監理審議会からの答申",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban15_02000299.html"
     }
 ]
