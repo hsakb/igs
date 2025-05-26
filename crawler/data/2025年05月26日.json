@@ -23,5 +23,40 @@
         "category": "総務省",
         "title": "自治財政局総務省自治財政局地方債課 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02zaisei02_04001421.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第430回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250526.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「諸外国の教育統計」令和7（2025）年版 を公表しました。",
+        "link": "https://www.mext.go.jp/b_menu/toukei/data/syogaikoku/1415074_00023.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度文部科学省選考採用試験（係長級・一般職相当）について",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/sonota/1422427_00009.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "令和７年３月分月報公表（訟務事件統計、登記統計、検察統計、矯正統計、少年矯正統計、保護統計及び人権侵犯事件統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "総務省",
+        "title": "自治体におけるAIの利用に関するワーキンググループ（第4回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/jizokukanonachihozaisei/02gyosei04_04000165.html"
+    },
+    {
+        "category": "総務省",
+        "title": "一般職技術系（情報通信行政）の情報を更新しました",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "特殊詐欺及びSNS型投資・ロマンス詐欺の認知・検挙状況等（令和６年・確定値）について（広報資料）",
+        "link": "http://www.npa.go.jp/newlyarrived/2025/20250205001.html"
     }
 ]
