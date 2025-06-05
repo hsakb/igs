@@ -53,5 +53,115 @@
         "category": "総務省",
         "title": "利用者情報に関するワーキンググループ（第26回）",
         "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/ICT_services/02kiban18_02000414.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の医療費の動向-MEDIAS-令和6年度1月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/month/25/01.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の医科医療費（電算処理分）の動向　令和6年度1月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2025/01/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の歯科医療費（電算処理分）の動向　令和6年度1月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2025/01/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "最近の調剤医療費（電算処理分）の動向　令和6年度1月号",
+        "link": "https://www.mhlw.go.jp/topics/medias/c-med/2025/01/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "デジタル教科書推進ワーキンググループ（第9回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/100/kaisai/mext_00011.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "農林水産省行政事業レビュー（公開プロセス）について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/hyoka/250605.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第２回「労働基準法における「労働者」に関する研究会」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_58504.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和6年度海外主要国における消費者保護に関する生成AI関連の規制等の調査業務報告書を公表しました。",
+        "link": "https://www.caa.go.jp/notice/entry/042523/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "小泉農林水産大臣の現地視察について",
+        "link": "https://www.maff.go.jp/j/press/nousan/soumu/250531.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "小泉農林水産大臣の現地視察について",
+        "link": "https://www.maff.go.jp/j/press/nousan/soumu/250604.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和7年6月5日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result250605.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第86回）の入札結果（令和7年6月5日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20250605.htm"
+    },
+    {
+        "category": "国土交通省",
+        "title": "航空業界の産官学が一体となり、空の仕事の魅力を伝えます！〜航空技術産業セミナーを6/14（土）午後に開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kouku02_hh_000260.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（三菱　ふそうエアロエース　他）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005477.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "持続可能な物流体系の構築にむけて〜「多様な輸送モードのさらなる活用に向けた実証等事業」の募集開始〜",
+        "link": "http://www.mlit.go.jp/report/press/tokatsu01_hh_000891.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和７年度第１回車両安全対策検討会を開催します〜自動車の安全基準の拡充・強化等に関する検討〜",
+        "link": "http://www.mlit.go.jp/report/press/jidosha10_hh_000325.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "ハザードマップポータルサイトを活用して災害に備えよう 〜身のまわりの災害リスクや避難場所の確認が地図上で簡単にできます〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000319.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "新しい時代のエリアマネジメントについて議論します！〜「官民所有のパブリックスペースの利活用・管理ワーキンググループ」及び 「持続的なエリアマネジメントに必要な財源・人材ワーキンググループ」を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/toshi05_hh_000496.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和６年能登半島地震からの復旧・復興状況と今後の見通し （令和７年出水期前時点）〜被災者の方々の暮らしと生業の再生に向けて〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo01_hh_000063.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「郵便事業を取り巻く経営環境等の変化を踏まえた郵便料金に係る制度の在り方」に係る答申（案）に対する意見募集",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu14_02000158.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第740回　入札監理小委員会（開催案内）",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/kanmin/02shingi06_02000984.html"
+    },
+    {
+        "category": "総務省",
+        "title": "大臣官房会計課厚生企画管理室 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kanbo04_04000150.html"
     }
 ]
