@@ -1,0 +1,52 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "ラオスとの租税条約の締結交渉を開始します",
+        "link": "https://www.mof.go.jp/tax_policy/summary/international/tax_convention/press_release/20250606la.html"
+    },
+    {
+        "category": "法務省",
+        "title": "「人権教育・啓発に関する基本計画（第二次）」及び「令和６年度人権教育及び人権啓発施策」（人権教育・啓発白書）について",
+        "link": "http://www.moj.go.jp/JINKEN/jinken04_00316.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "復興庁",
+        "title": "福島イノベーション・コースト構想を基軸とした産業発展の青写真",
+        "link": "https://www.reconstruction.go.jp/topics/m25/06/20250605192356.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "地方教育行政における連携促進事業",
+        "link": "https://www.mext.go.jp/a_menu/chihou/1402350_00005.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年6月5日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "外貨準備等の状況（令和7年5月末現在）",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0705.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和7年5月上中旬分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20250605085815.html"
+    },
+    {
+        "category": "総務省",
+        "title": "家計調査報告（二人以上の世帯）2025年（令和7年）4月分",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000272.html"
+    }
+]
