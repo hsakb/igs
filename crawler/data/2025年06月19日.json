@@ -33,5 +33,50 @@
         "category": "首相官邸",
         "title": "ジャパン・イノベーション・ナイト　石破総理ビデオメッセージ ",
         "link": "https://www.kantei.go.jp/jp/103/discourse/20250619message.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度第1回食品衛生基準審議会器具・容器包装部会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/042683/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "日チリ鉱業分野における官民合同会議を開催しました",
+        "link": "https://www.meti.go.jp/press/2025/06/20250619004/20250619004.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（7月債）の発行予定額等（令和7年6月19日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250619.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第178回）の入札発行（令和7年6月19日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250619.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1313回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250619.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第40回管理栄養士国家試験の施行について",
+        "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年6月11日自殺対策基本法の一部を改正する法律の公布について（通知）",
+        "link": "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1414737_00017.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "技術士分科会（第49回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu7/siryo/mext_00003.html"
+    },
+    {
+        "category": "総務省",
+        "title": "放送・配信コンテンツ産業戦略検討チーム（第6回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu04_04000278.html"
     }
 ]
