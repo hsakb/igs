@@ -83,5 +83,85 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2025年(令和7年)6月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000315.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "行政機関匿名加工情報に関する提案の募集〔2025年度公示〕",
+        "link": "https://www.caa.go.jp/notice/entry/042832/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和7年度農林水産省「こども霞が関見学デー」",
+        "link": "https://www.maff.go.jp/j/press/kanbo/koho/250627.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "事業系食品ロス量（2023年推計値）を公表",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/recycle/250627.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和７年度 予算執行調査の結果を公表します（６月公表分）",
+        "link": "https://www.mof.go.jp/policy/budget/topics/budget_execution_audit/fy2025/sy0706/0706b.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202506/27_a.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「こどもの森づくりフォーラム in 奈良」の参加者募集について",
+        "link": "https://www.rinya.maff.go.jp/j/press/sanson_ryokka/250627.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "2023(令和5)年度食品ロス量推計値の公表について",
+        "link": "https://www.caa.go.jp/notice/entry/042653/"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1315回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250627.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1316回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250627.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「令和7年版通商白書」及び「通商戦略2025」を取りまとめました",
+        "link": "https://www.meti.go.jp/press/2025/06/20250627001/20250627001.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "国内最大級のオープンデータプラットフォームである地域経済分析システム（RESAS）をアップデートしました",
+        "link": "https://www.meti.go.jp/press/2025/06/20250627004/20250627004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国会会議録について",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/kaigiroku/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度夏季開催研修「未来を創る技術教育」を開催します",
+        "link": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_00077.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "次世代計算基盤を見据えた今後のHPCIの運営に係る検討ワーキンググループ（第6回）議事要旨",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/073/gijiroku/mext_00005.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理は第１３回原子力防災会議を開催しました",
+        "link": "https://www.kantei.go.jp/jp/103/actions/202506/27genshiryoku.html"
     }
 ]
