@@ -83,5 +83,95 @@
         "category": "経済産業省",
         "title": "大阪・関西万博「ジャパンデー」を開催しました",
         "link": "https://www.meti.go.jp/press/2025/07/20250707002/20250707002.html"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動(令和7年7月7日)",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2025.07.07_26.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第10回ユース年金学会共催",
+        "link": "https://www.mhlw.go.jp/stf/youth_nenkin_00004.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和5年度喫煙環境に関する実態調査の概況",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/kenkou/kituen/r05/index.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会大学分科会質向上・質保証システム部会（第3回）開催案内",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/055/kaisai/1422340_00003.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "全国的な学力調査に関する専門家会議（令和7年度第4回）・全国的な学力調査のCBT 化検討ワーキンググループ（令和7年度第2回）合同会議の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/200/kaisai/mext_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "技術士分科会（第50回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu7/kaisai/1416087_00007.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度第2回食品衛生基準審議会農薬・動物用医薬品部会の資料掲載について",
+        "link": "https://www.caa.go.jp/notice/entry/042017/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特定保健用食品の表示許可等に関する部会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/042966/"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気動向指数（令和7年5月分速報）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校安全の推進に関する有識者会議（令和7年度）第1回　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/047/siryo/1412213_00012.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「今後の人材開発政策の在り方に関する研究会報告書」を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_59371.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "インフラ施設管理を高度化するための会員企業を公募します〜河川機械設備のAI異常検知システムを活用した確実な維持管理支援の実現〜",
+        "link": "http://www.mlit.go.jp/report/press/kanbo08_hh_001236.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "建築研究所の令和６年度業務実績について意見を聴取します〜国土交通省国立研究開発法人審議会 令和７年度第１回建築研究所部会を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kanbo08_hh_001237.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「第37回航空安全情報分析委員会」の開催〜令和６年度に収集した「航空運送分野」の安全情報※の審議を行います〜",
+        "link": "http://www.mlit.go.jp/report/press/kouku02_hh_000263.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "全国一斉　海の駅フェスタ始動！〜全国各地で開催される「海の駅フェスタ」のご案内〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji05_hh_000304.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「第３回 自動運転インフラ検討会」の開催について〜自動運転に資するインフラの在り方について議論します〜",
+        "link": "http://www.mlit.go.jp/report/press/road01_hh_001962.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "一級河川の区間を見直します〜国民の安全・安心を図る上で必要な区間を一体的に管理します〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo02_hh_000042.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "スマートシティ推進に向けた情報提供依頼（RFI）を実施〜３つの分野におけるスマートシティ事業に関する意見を募集します〜",
+        "link": "http://www.mlit.go.jp/report/press/toshi03_hh_000181.html"
     }
 ]
