@@ -63,5 +63,95 @@
         "category": "総務省",
         "title": "一般職（事務系） − 官庁訪問情報を更新しました。",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/j2syu_houmon.html"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動(令和7年7月10日)",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2025.07.10_30.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "人事異動(令和7年7月9日)_2",
+        "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2025.07.09-2_29.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "年金数理部会の役割について（２０２３年度公的年金財政状況資料を追加しました）",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000128082_00003.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第27回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
+        "link": "https://www.mhlw.go.jp/stf/newpage_59398.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年（第19回）みどりの学術賞受賞記念イベントを開催します",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01545.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和8年度全国学力・学習状況調査を実施するための委託事業に関する事前説明会の開催について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/gakuryoku-chousa/zenkoku/1417141_00012.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校における持続可能な保健管理の在り方に関する調査検討会（第2回）開催案内",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/199/kaisai/mext_00006.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教員養成部会（第152回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/mext_00014.html"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札結果（令和7年7月10日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result250710.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第193回）の入札結果（令和7年7月10日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20250710.htm"
+    },
+    {
+        "category": "国土交通省",
+        "title": "土木研究所の令和６年度業務実績について意見をお聴きします〜国土交通省国立研究開発法人審議会 令和７年度第１回土木研究所部会を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kanbo08_hh_001238.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "取材要領および事前登録方法のお知らせについて〜第60回アジア太平洋航空局長会議（ＤＧＣＡ）を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kouku01_hh_000136.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（いすゞ　フォワード　他）[1]",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005521.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（いすゞ　フォワード　他）[2]",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005522.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "自主改善の実施について （マツダ株式会社　アルミホイール）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005523.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "河川事業に係る事業評価手法について検討します〜「第11回河川事業の評価手法に関する研究会」の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo03_hh_001309.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "建設工事受注動態統計調査報告（令和７年５月分）",
+        "link": "http://www.mlit.go.jp/report/press/joho04_hh_001310.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　総会（第53回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02tsushin10_04000673.html"
     }
 ]
