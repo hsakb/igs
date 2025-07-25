@@ -28,5 +28,40 @@
         "category": "総務省",
         "title": "2020年基準 消費者物価指数 東京都区部 2025年(令和7年)7月分(中旬速報値)",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000319.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第434回)入札",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250725.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1321回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250725.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1322回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250725.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "令和７年５月分月報公表（訟務事件統計、登記統計、検察統計、矯正統計、少年矯正統計、保護統計及び人権侵犯事件統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度第4回中央選挙管理会において決定された事項",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei15_02000457.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「観光地域づくり法人の登録制度に関するガイドライン」（令和７年３月25日改正）のFAQを公開しました",
+        "link": "http://www.mlit.go.jp/kankocho/topics04_00054.html"
     }
 ]
