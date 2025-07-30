@@ -1,0 +1,72 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第10回 柔道整復療養費のオンライン請求導入等に関するワーキング・グループの開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_59877.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "次世代計算基盤を見据えた今後のHPCIの運営に係る検討ワーキンググループ（第7回）議事要旨",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/073/gijiroku/mext_00006.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年7月29日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和7年8月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir7/kashi20250730.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和7年8月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir7/yotaku20250730.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易取引通貨別比率（令和7年上半期分）【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20250729202134.html"
+    },
+    {
+        "category": "財務省",
+        "title": "新型窓口販売方式による2年利付国債（第475回）の発行条件等",
+        "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20250730.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和7年7月上旬分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20250729202515.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第29回社会保障審議会資金運用部会（ペーパーレス）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_shikinshiryo29.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第132回産業統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/kaigi/02shingi05_02000772.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会 電気通信事業政策部会 接続政策委員会（第73回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001117.html"
+    },
+    {
+        "category": "総務省",
+        "title": " 衛星放送ワーキンググループ（第13回）配付資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu09_04000273.html"
+    }
+]
