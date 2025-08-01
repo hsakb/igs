@@ -273,5 +273,45 @@
         "category": "厚生労働省",
         "title": "採用情報（期間業務職員（大臣官房国際課）募集情報",
         "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-daijinkanboukokusaika.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "伊藤復興大臣記者会見録［令和７年８月１日］",
+        "link": "https://www.reconstruction.go.jp/topics/25/08/20250801170017.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "地域･職域連携のポータルサイトの取組事例等を更新しました",
+        "link": "https://www.mhlw.go.jp/chiikishokuikiportal/index.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "輿水復興副大臣の福島県訪問（令和７年７月31日）",
+        "link": "https://www.reconstruction.go.jp/s/2025/07/20250801165331.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和7年度　6月末租税及び印紙収入、収入額調",
+        "link": "https://www.mof.go.jp/tax_policy/reference/taxes_and_stamp_revenues/202506.pdf"
+    },
+    {
+        "category": "消費者庁",
+        "title": "P＆Gジャパン合同会社に対する景品表示法に基づく措置命令について",
+        "link": "https://www.caa.go.jp/notice/entry/043199/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:リコール製品で火災等(イヤホン(コードレス式、マイク付、リチウムポリマーバッテリー内蔵)、ACアダプタ...",
+        "link": "https://www.caa.go.jp/notice/entry/043216/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度「厚生年金保険・国民年金の収支決算の概要」を公表します",
+        "link": "https://www.mhlw.go.jp/stf/houdou_kouhou/newpage_00004.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理は米国相互関税措置に関する大統領令署名等についての会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/103/statement/2025/0801bura.html"
     }
 ]
