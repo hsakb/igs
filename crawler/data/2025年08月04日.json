@@ -68,5 +68,95 @@
         "category": "厚生労働省",
         "title": "医道審議会保健師助産師看護師分科会看護師特定行為・研修部会（第37回）",
         "link": "https://www.mhlw.go.jp/stf/newpage_60360.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和7年7月中実績）の概要",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202507gaiyo.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和7年8月見込）",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202508a.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第１０６回社会保障審議会年金数理部会の開催について（オンラインセミナー形式）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_59555.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60769.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房会計課非常勤職員（期間業務職員）採用のお知らせ（令和7年9月8日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00145.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第13期環境エネルギー科学技術委員会（第1回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/115/250808_01_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "原子力科学技術委員会　原子力バックエンド作業部会（第10回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/099/shiryo/1423069_20250724_00001.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "臨時事務補助員(消費者制度課)の募集について ",
+        "link": "https://www.caa.go.jp/notice/entry/043223/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「2025年1-6月（上半期）の農林水産物・食品の輸出実績」について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/250804.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "ウクライナの建設現場での遠隔施工の普及に向けた事前調査を行いました！〜日本発の技術でウクライナの復興に貢献〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo07_hh_000773.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "自動運転トラックの社会実装及び物流の効率化を推進〜「自動運転トラックによる幹線輸送の社会実装に向けた実証事業」二次公募〜",
+        "link": "http://www.mlit.go.jp/report/press/tokatsu01_hh_000930.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "住宅分野における建設技能者の持続的確保等に向けて議論します〜第４回「住宅分野における建設技能者の持続的確保懇談会」の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/house04_hh_001294.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "空き家対策のモデル的な取組を行う事業を決定！ 〜令和７年度「空き家対策モデル事業」の採択対象を決定しました〜",
+        "link": "http://www.mlit.go.jp/report/press/house03_hh_000233.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "次期無電柱化推進計画の策定に向けて議論します〜令和７年度第２回｢無電柱化推進のあり方検討委員会｣を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/road01_hh_001975.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "地域資源の保全と活用に向けたまちづくりについて議論します！〜「第１回　地域資源の保全と活用に向けた歴史まちづくりや景観行政に関するワーキンググループ」を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/toshi10_hh_000550.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "交通運輸技術開発推進制度の新規研究課題を決定〜新技術を活用した交通運輸分野におけるイノベーションを推進〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo17_hh_000202.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「安心・安全なメタバースの実現に関する研究会」 報告書2025（案）に対する意見募集",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000126.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第133回 産業統計部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/kaigi/02shingi05_02000774.html"
     }
 ]
