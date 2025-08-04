@@ -18,5 +18,55 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年8月1日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「働き方改革」新PR動画「くらし、はたらき、もっとススメ！」を公開",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60316.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "世界メンタルヘルスデー JAPAN 2025 特設サイト",
+        "link": "https://www.mhlw.go.jp/kokoro/mental_health_day/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食品安全科学研究事業 採択課題一覧",
+        "link": "https://www.caa.go.jp/notice/entry/042796/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理の広島県及び長崎県訪問について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202508/4_a.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "ロボット分野のオープンなソフトウェア開発基盤の構築に向けて2事業計7件の研究開発テーマを採択しました",
+        "link": "https://www.meti.go.jp/press/2025/08/20250804002/20250804002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "栄養系技官採用案内",
+        "link": "https://www.mhlw.go.jp/general/saiyo/eiyou.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度中央最低賃金審議会目安に関する小委員会（第７回）資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60753.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会 情報通信技術分科会 IPネットワーク設備委員会（第89回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/ipnet/02kiban05_04000736.html"
+    },
+    {
+        "category": "総務省",
+        "title": "地方自治体のデジタルトランスフォーメーション推進に係る検討会（第37回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/chiho_dx/02gyosei04_04000174.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医道審議会保健師助産師看護師分科会看護師特定行為・研修部会（第37回）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60360.html"
     }
 ]
