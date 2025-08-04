@@ -158,5 +158,60 @@
         "category": "総務省",
         "title": "第133回 産業統計部会",
         "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/kaigi/02shingi05_02000774.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福岡厚生労働大臣　閣議後記者会見のお知らせ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60816.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "学校施設の在り方に関する調査研究協力者会議（令和6年度～）（第3回）配布資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shisetu/074/siryo/mext_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "買入消却入札による買入れの詳細及び累計（令和7年7月実施分）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/ichiran211.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第117回労働政策審議会労働条件分科会労災保険部会資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60792.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国際情報オリンピックに参加した選手が金メダル等を獲得しました。また、国際的な科学技術コンテストで特に優秀な成績をおさめた選手に対する文部科学大臣表彰の受賞者を決定しました。",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2025/1419630_00008.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "法人等による寄附の不当な勧誘の防止等に関する法律附則第5条に係る不当寄附勧誘防止法執行アドバイザー会議の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/043206/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "農福連携に取り組む優れた事例を表彰！ 「ノウフク・アワード2025」募集開始！",
+        "link": "https://www.maff.go.jp/j/press/nousin/kouryu/250804.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "GREEN×EXPO 2027政府出展エリアでガーデン制作に取り組む高校生グループを決定！",
+        "link": "https://www.maff.go.jp/j/press/nousan/kaki/250804.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国際地理オリンピックに参加した生徒が銀メダルを獲得しました。また、国際的な科学技術コンテストで特に優秀な成績をおさめた生徒に対する文部科学大臣表彰等の受賞者を決定しました。",
+        "link": "https://www.mext.go.jp/b_menu/houdou/2025/1419630_000012_00002.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (8月4日)",
+        "link": "https://www.caa.go.jp/notice/entry/043218/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理はベリーズのジョン・アントニオ・ブリセーニョ首相と首脳会談を行いました",
+        "link": "https://www.kantei.go.jp/jp/103/actions/202508/04belize.html"
     }
 ]
