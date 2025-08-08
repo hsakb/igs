@@ -148,5 +148,120 @@
         "category": "総務省",
         "title": "一般職技術系（情報通信行政）の情報を更新しました",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医道審議会薬剤師分科会薬剤師国家試験制度改善検討部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60806.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "2024年度（令和6年度）消費者相談報告書をまとめました",
+        "link": "https://www.meti.go.jp/press/2025/08/20250808002/20250808002.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会(福祉部会)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126700.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "戦没者慰霊事業の実施状況（令和７年度）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_59451.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働者派遣事業の許可を取り消しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_59993.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働基準監督署等が自動車運転者を使用する事業場に対して行った令和６年の監督指導、送検等の状況を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60439.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度第３回化学物質管理に係る専門家検討会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60905.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第28回社会保障審議会福祉部会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60915.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "特定一般教育訓練の指定講座を公表しました（令和７年10月１日付け指定）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60956.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "専門実践教育訓練の指定講座を公表しました（令和７年10月１日付け指定）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60968.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医薬品第二部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_60975.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度第1回高等学校卒業程度認定試験（2日目）の一部中止（鹿児島県）について",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01555.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "HPCI計画推進委員会（第65回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/020/shiryo/1421321_00034.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "HPCI計画推進委員会（第66回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/kaisai/1420803_00032.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "研究計画・評価分科会（第99回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/kaisai/1421120_00006.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学院部会（第119回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/kaisai/1421019_00023.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "景気ウォッチャー調査（令和7年7月調査）",
+        "link": "https://www5.cao.go.jp/keizai3/watcher_index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債及び借入金並びに政府保証債務現在高（令和7年6月末現在）",
+        "link": "https://www.mof.go.jp/jgbs/reference/gbb/202506.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00474.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "中小企業省力化投資補助事業（一般型）第2回公募の補助金交付候補者を採択しました",
+        "link": "https://www.chusho.meti.go.jp/keiei/sapoin/2025/250808shoryokuka_saitaku.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "自治体向け事業承継支援研修を今年度も開催いたします！",
+        "link": "https://www.chusho.meti.go.jp/zaimu/shoukei/2025/250808event.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度消費者志向経営優良事例表彰の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/043239/"
     }
 ]
