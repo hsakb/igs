@@ -13,5 +13,40 @@
         "category": "総務省",
         "title": "令和7年8月12日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001104.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（職員の育児休業期間の代替職員）大臣官房国際課）募集情報",
+        "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-daijinkanboukokusaika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "小泉農林水産大臣の海外出張概要について（第10回APEC食料安全保障担当大臣会合）",
+        "link": "https://www.maff.go.jp/j/press/y_kokusai/kikou/250810.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（8月債）の発行予定額等（令和7年8月12日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20250812.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1326回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250812.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "国会会議録について",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/kaigiroku/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ハンセン病に関する情報ページ",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/hansen/index.html"
     }
 ]
