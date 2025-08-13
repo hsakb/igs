@@ -13,5 +13,45 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年8月12日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特定保健用食品の表示許可について(8月13日)",
+        "link": "https://www.caa.go.jp/notice/entry/043262/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2025年7月の地震活動の評価を公表しました（地震調査研究推進本部地震調査委員会）",
+        "link": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00178.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第179回）の入札発行（令和7年8月13日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250813.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する不当廉売関税の課税に関する調査を開始します",
+        "link": "https://www.meti.go.jp/press/2025/08/20250813001/20250813001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（任期付職員（訟務官）募集情報）",
+        "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-shoumukan.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第66回ハンセン病元患者家族補償金認定審査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_61347.html"
+    },
+    {
+        "category": "総務省",
+        "title": "手話リンクの導入について",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000610.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「日・ペルー間の観光分野における協力覚書」の締結",
+        "link": "http://www.mlit.go.jp/kankocho/topics07_00016.html"
     }
 ]
