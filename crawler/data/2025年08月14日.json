@@ -38,5 +38,65 @@
         "category": "首相官邸",
         "title": "内閣官房長官談話を掲載しました",
         "link": "https://www.kantei.go.jp/jp/tyokan/103/20250814danwa.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第520回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1950.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回国立研究開発法人審議会 国立健康危機管理研究機構評価部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_61277.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学院部会（第117回）　議事録",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/004/gijiroku/1422799_00025.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第３回国立研究開発法人等審議会 国立健康危機管理研究機構評価部会　開催案内 ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_61276.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国有林野事業債務管理特別会計の借入金の入札結果（令和7年8月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-result250814.htm"
+    },
+    {
+        "category": "総務省",
+        "title": "政党助成法に基づく政党の届出（令和7年7月29日現在）の概要",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei18_02000197.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年8月6日からの低気圧と前線による大雨に伴う災害に係る普通交付税（9月定例交付分）の繰上げ交付",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000378_00008.html"
+    },
+    {
+        "category": "総務省",
+        "title": "電気通信事業法施行令の一部を改正する政令案に対する意見募集の結果",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban05_02000378.html"
+    },
+    {
+        "category": "総務省",
+        "title": "政治資金規正法施行令等の一部を改正する政令（案）等に対する意見募集の結果",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01gyosei17_02000246.html"
+    },
+    {
+        "category": "総務省",
+        "title": "衛星放送ワーキンググループ（第14回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_hososeido/02ryutsu09_04000277.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会 情報通信技術分科会 ITU 部会 放送業務委員会（第58回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/docs_Broadcast/02ryutsu08_04000595.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　電気通信事業政策部会　ユニバーサルサービス政策委員会（第43回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban02_04000816.html"
     }
 ]
