@@ -28,5 +28,50 @@
         "category": "内閣府",
         "title": "四半期別ＧＤＰ速報（2025年4-6月期・1次速報）",
         "link": "https://www.esri.cao.go.jp/jp/sna/menu.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "米国の関税措置に関する日米合意に係る全国説明会の開催について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kisei/250815.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事工業生産動態統計令和７年５月分月報について",
+        "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "「通信制高等学校の情報発信事業」（総合評価落札方式）",
+        "link": "https://www.mext.go.jp/b_menu/boshu/mext_00068.html"
+    },
+    {
+        "category": "財務省",
+        "title": "小山　堅様に「地政学から読み解く ～戦略物資・資源の未来地図～」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20250813164149.html"
+    },
+    {
+        "category": "財務省",
+        "title": "渡辺　将人様に「台湾のデモクラシー：メディア、選挙、アメリカ」について、ご講演いただきました",
+        "link": "https://www.mof.go.jp/insideLink/20250813164240.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年物価連動国債（第30回）の入札発行（令和7年8月15日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20250815.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1325回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250815.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1327回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250815.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（雇用環境・均等局）募集情報）",
+        "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-koyoukankyou-kintoukyoku.html"
     }
 ]
