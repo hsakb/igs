@@ -78,5 +78,100 @@
         "category": "総務省",
         "title": "令和8年度の地方財政の課題",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000402.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和8年度農林水産予算概算要求の概要について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/yosan/250829.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和8年度組織・定員要求について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/hisyo/250829.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和8年度税制改正要望について",
+        "link": "https://www.maff.go.jp/j/press/keiei/tyosei/250829.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "景品表示法に基づく法的措置件数の推移及び措置事件の概要の公表(令和7年7月31日現在)",
+        "link": "https://www.caa.go.jp/notice/entry/024740/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "滝波農林水産副大臣の海外出張（トルコ、スロベニア）について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/250829.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "９月10日から９月16日は「自殺予防週間」です",
+        "link": "https://www.mhlw.go.jp/stf/r7_jisatsuyoboushukan.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1328回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20250829.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1329回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250829.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "21世紀出生児縦断調査（平成22年出生児）対象者のみなさまへ",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/judan/taishousha/sn_07.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和６年分年報公表（検察統計）及び令和６年度分年報公表（戸籍統計及び供託統計）",
+        "link": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和８年度概算要求",
+        "link": "http://www.moj.go.jp/kaikei/bunsho/kaikei02_00150.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度開催「国民生活センター評価等のための有識者懇談会」の会議資料を掲載しました",
+        "link": "https://www.caa.go.jp/notice/entry/043358/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "独立行政法人国民生活センター令和6年度の業務実績に対する主務大臣の評価を公表しました",
+        "link": "https://www.caa.go.jp/notice/entry/043401/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "世界メンタルヘルスデー JAPAN 2025 特設サイト",
+        "link": "https://www.mhlw.go.jp/kokoro/mental_health_day/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202508/29_a.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和8年度文部科学省　概算要求等の発表資料一覧",
+        "link": "https://www.mext.go.jp/a_menu/yosan/r01/1420668_00003.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "ＡＮＡウイングス株式会社に対する厳重注意について",
+        "link": "http://www.mlit.go.jp/report/press/kouku10_hh_000292.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "建築物に係る防火関係規制の見直し等について〜「建築基準法施行令の一部を改正する政令」を閣議決定〜",
+        "link": "http://www.mlit.go.jp/report/press/house05_hh_001079.html"
     }
 ]
