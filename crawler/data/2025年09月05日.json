@@ -218,5 +218,50 @@
         "category": "内閣府",
         "title": "景気動向指数（令和7年7月分速報）",
         "link": "https://www.esri.cao.go.jp/jp/stat/di/di.html"
+    },
+    {
+        "category": "復興庁",
+        "title": "伊藤復興大臣記者会見録［令和７年９月５日］",
+        "link": "https://www.reconstruction.go.jp/topics/25/09/20250905174817.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "加藤経済産業大臣政務官がタイ王国のウィッチュ駐日特命全権大使と会談を行いました",
+        "link": "https://www.meti.go.jp/press/2025/09/20250905003/20250905003.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年夏の記録的な高温や大雨に関する研究成果について",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01562.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "日越農業協力対話ハイレベル会合・官民フォーラムの結果概要について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/250904.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "情報通信機器の利活用に関する世論調査",
+        "link": "https://survey.gov-online.go.jp"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費生活用製品の重大製品事故:リコール製品で火災等(高圧洗浄機(充電式)、電気掃除機(自走式))(9月5日)",
+        "link": "https://www.caa.go.jp/notice/entry/043490/"
+    },
+    {
+        "category": "内閣府",
+        "title": "令和7年度「エイジレス・ライフ実践事例及び社会参加活動事例」を決定",
+        "link": "https://www8.cao.go.jp/kourei/kou-kei/age_list_all.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「人口動態統計月報（概数）」令和７年４月分",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/04.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会教育課程企画特別部会(第12回）の配布資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00013.html"
     }
 ]
