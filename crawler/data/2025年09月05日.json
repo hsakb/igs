@@ -1,0 +1,37 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外貨準備等の状況（令和7年8月末現在）",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0708.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和7年8月上中旬分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20250904104620.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査ー令和7年7月分結果速報",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/2507p/2507p.html"
+    },
+    {
+        "category": "総務省",
+        "title": "家計調査報告（二人以上の世帯）2025年（令和7年）7月分",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000275.html"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会　情報通信技術分科会　新世代モバイル通信システム委員会（第36回）",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/5th_generation/02kiban14_04001253.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度震災復興特別交付税の9月交付額の決定",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000405.html"
+    }
+]
