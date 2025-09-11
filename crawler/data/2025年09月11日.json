@@ -48,5 +48,45 @@
         "category": "内閣府",
         "title": "法人企業景気予測調査（令和7年7-9月期）",
         "link": "https://www.esri.cao.go.jp/jp/stat/hojin/menu_hojin.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "生命科学・医学系研究等における個人情報の取扱い等に関する合同会議（令和7年2月～）（第5回） 配付資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu1/mext_00027.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食品寄附ガイドラインに関する研修会の資料掲載について",
+        "link": "https://www.caa.go.jp/notice/entry/043537/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食べ残し持ち帰りガイドラインに関する研修会の資料掲載について",
+        "link": "https://www.caa.go.jp/notice/entry/043506/"
+    },
+    {
+        "category": "経済産業省",
+        "title": "福島県事業承継・引継ぎ支援センターにてサブマネージャーを募集しております！",
+        "link": "https://www.chusho.meti.go.jp/zaimu/shoukei/2025/250911shoukei.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1333回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20250911.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生科学審議会（匿名感染症関連情報の第三者提供に関する小委員会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-kousei_38060.html"
+    },
+    {
+        "category": "総務省",
+        "title": "統計研究研修所管理・研修部管理課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02toukei01_04000109.html"
     }
 ]
