@@ -93,5 +93,105 @@
         "category": "総務省",
         "title": "総合職技術系（情報通信行政）の説明会情報を更新しました。",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/isougou_setumeikai.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "再生可能エネルギー特別措置法に基づき、納付金を納付しない電気事業者を公表します",
+        "link": "https://www.meti.go.jp/press/2025/10/20251014001/20251014001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年賃金引上げ等の実態に関する調査の概況",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/jittai/25/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "樺太等残留邦人４名が集団一時帰国します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_63266.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第７回労働政策審議会労働条件分科会電気事業及び石炭鉱業における争議行為の方法の規制に関する法律の在り方に関する部会(開催案内)",
+        "link": "https://www.mhlw.go.jp/stf/shinngi_00017.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_64534.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度第５回化学物質管理に係る専門家検討会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_64552.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会特別支援教育ワーキンググループ（第2回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/105/kaisai/mext_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": " 地震火山観測研究計画部会（第61回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu6/kaisai/1416111_00058.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "宇宙開発利用部会 国際宇宙ステーション・国際宇宙探査小委員会（第72回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/071/kaisai/1420358_00002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会（第152回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/1423016_00036.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「令和6年度 特別用途食品(特定保健用食品を除く。)に係る栄養成分等、特定保健用食品に係る関与成分及び機能性表示食品に係る機能性関与...",
+        "link": "https://www.caa.go.jp/notice/entry/043548/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "外食・中食における食物アレルギーの情報提供に関する実態調査アンケート実施のお知らせ",
+        "link": "https://www.caa.go.jp/notice/entry/043399/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "食品ロス削減に向けた食品寄附の促進に関する取組について紹介するページを 設け、「直接支援組織(フードパントリー、こども食堂等)」一覧...",
+        "link": "https://www.caa.go.jp/notice/entry/043880/"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第2回｢遠隔操作等荷役機械の導入に必要となる安全確保の方策に係る検討委員会｣の開催〜 遠隔操作等荷役機械の安全確保のためのモデル運用規程の策定に向けて 〜",
+        "link": "http://www.mlit.go.jp/report/press/port05_hh_000409.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「港湾法施行令の一部を改正する政令」を閣議決定〜伊勢湾に係る緊急確保航路の区域等が変更されます〜",
+        "link": "http://www.mlit.go.jp/report/press/port07_hh_000253.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第２回「港湾運送事業における適正取引等推進のためのガイドライン検討委員会」を開催します〜港湾運送事業における適正取引等推進のためのガイドラインを策定します〜",
+        "link": "http://www.mlit.go.jp/report/press/port02_hh_000214.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "漁業（いか釣り）の最低賃金の改正について審議を行います〜交通政策審議会海事分科会船員部会漁業（いか釣り）最低賃金専門部会の開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji04_hh_000367.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "強い内航への変革を促進する『NX補助金』3件を新たに採択〜内航と造船・舶用が連携して取り組む技術開発・実証事業への支援を決定〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji07_hh_000382.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "海事分野における脱炭素化促進事業（うちメタノール燃料システム等導入支援）の公募について",
+        "link": "http://www.mlit.go.jp/report/press/kaiji07_hh_000384.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "都市における「業務施設等の集積」等について議論します〜第29回都市計画基本問題小委員会を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/toshi01_hh_000094.html"
     }
 ]
