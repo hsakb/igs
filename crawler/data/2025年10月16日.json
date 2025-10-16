@@ -23,5 +23,40 @@
         "category": "総務省",
         "title": "情報通信審議会　情報通信技術分科会　陸上無線通信委員会　5.2GHz帯及び6GHz帯無線LAN作業班　令和7年度AFC運用検討アドホックグループ（第6回）",
         "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/rikujou/02kiban12_04000422.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "経済産業省生産動態統計 時系列表（61ヶ月）",
+        "link": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html#menu2?pk_campaign=rss_statistics"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和7年10月16日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer251016.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第440回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20251016.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1338回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20251016.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "人材委員会　科学技術人材多様化ワーキング・グループ（第5回配布資料）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu10/007/siryo/mext_00008.html"
+    },
+    {
+        "category": "法務省",
+        "title": "【総合職】説明会情報を更新しました！",
+        "link": "http://www.moj.go.jp/jinji/shomu/kanbou_jinji03b.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
     }
 ]
