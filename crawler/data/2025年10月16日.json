@@ -153,5 +153,45 @@
         "category": "文部科学省",
         "title": "【総合職技術系】業務説明会日程一覧",
         "link": "https://www.mext.go.jp/b_menu/saiyou/mext_00044.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "福岡厚生労働大臣　閣議後記者会見のお知らせ",
+        "link": "https://www.mhlw.go.jp/stf/newpage_64798.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政投融資分科会（令和7年10月16日開催）資料一覧",
+        "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20251016.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "蓄電池の製造能力確保に必要な蓄電池に係る人材の育成・確保のために、バッテリー先進人材普及ネットワーク（BATON）を設立しました",
+        "link": "https://www.meti.go.jp/press/2025/10/20251016002/20251016002.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和７年司法試験の合格発表日時等について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji08_00278.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教育課程部会　特定分野に特異な才能のある児童生徒に係る特別の教育課程ワーキンググループ（第2回） 配布資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/120/mext_00002.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品制度届出データベース届出情報の更新 (10月16日)",
+        "link": "https://www.caa.go.jp/notice/entry/043910/"
+    },
+    {
+        "category": "内閣府",
+        "title": "農薬第一専門調査会（第42回）の開催について（非公開）【10月27日開催】",
+        "link": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai1_senmon_42.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "石破総理はＣＥＡＴＥＣ２０２５視察についての会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/103/statement/2025/1016bura.html"
     }
 ]
