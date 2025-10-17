@@ -1,0 +1,57 @@
+[
+    {
+        "category": "内閣府",
+        "title": "重要なお知らせ、国民参加型の行事等の情報については「新着情報」のRSSフィードにて提供しています。",
+        "link": "http://www.cao.go.jp/rss/index.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和7年10月16日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "オフショア勘定残高",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "第112回世銀・IMF 合同開発委員会における日本国ステートメント （2025年10月16日　於：ワシントンD.C.）",
+        "link": "https://www.mof.go.jp/policy/international_policy/imf/dc/20251015224920.html"
+    },
+    {
+        "category": "財務省",
+        "title": "G20財務大臣・中央銀行総裁議長総括（令和7年10月15-16日）仮訳",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/20251017_2.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "G20財務大臣・中央銀行総裁議長総括（令和7年10月15日-16日　於：米国・ワシントンD.C.）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/20251017.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "債務持続可能性に関する閣僚宣言（令和7年10月15日-16日　於：米国・ワシントンD.C.）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/20251016.pdf"
+    },
+    {
+        "category": "財務省",
+        "title": "債務持続可能性に関する閣僚宣言（令和7年10月15日-16日　於：米国・ワシントンD.C.）仮訳",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/20251016Jp.pdf"
+    }
+]
