@@ -18,5 +18,30 @@
         "category": "財務省",
         "title": "国債金利情報(令和7年10月28日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "農林水産省",
+        "title": "小泉農林水産大臣の海外出張（フィリピン）結果概要について",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/251002.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（11月債）の発行予定額等（令和7年10月29日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20251029.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和7年10月29日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer251029.htm"
+    },
+    {
+        "category": "総務省",
+        "title": "国際戦略局国際戦略課AI政策推進室 任期付職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02tsushin06_04000124.html"
+    },
+    {
+        "category": "総務省",
+        "title": "電話リレーサービスの在り方に関する検討会（第1回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/denwa_riresabisu/02ryutsu05_04000229.html"
     }
 ]
