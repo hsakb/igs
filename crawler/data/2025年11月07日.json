@@ -118,5 +118,125 @@
         "category": "総務省",
         "title": "情報通信法学研究メディア法分科会（令和7年度第1回会合）",
         "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/hougakuken/02iicp01_04000310.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "農業競争力強化支援法に基づく事業再編計画の認定について（株式会社野上米穀）",
+        "link": "https://www.maff.go.jp/j/press/nousan/b_taisaku/251107.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和７年秋季全国火災予防運動の実施（令和７年11月７日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069076"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「和食と日本の酒の魅力体験フェア」を開催します！",
+        "link": "https://www.maff.go.jp/j/press/shokuhin/wasyoku/251107.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「ウクライナへの食料・農業分野官民ミッション」の結果概要について",
+        "link": "https://www.maff.go.jp/j/press/y_kokusai/kokkyo/251107.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ロシア連邦政府等から提供された抑留者に関する資料について（資料の一覧や死亡者名簿が閲覧できます） ",
+        "link": "https://www.mhlw.go.jp/topics/bukyoku/syakai/soren/index.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度第７回薬事審議会化学物質安全対策部会化学物質調査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65119.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「地域若者サポートステーション（サポステ）」 特設サイトをリニューアルしました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65240.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度 卓越した技能者を決定しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65373.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65574.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第24回社会保障審議会統計分科会生活機能分類専門委員会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65630.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教育課程部会　算数・数学ワーキンググループ（第2回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/110/kaisai/mext_00001.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "第13期研究費部会（第3回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/053/kaisai/0003.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "堀井長官記者会見要旨(11月6日)",
+        "link": "https://www.caa.go.jp/notice/entry/044123/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザの発生状況を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザに関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00023.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00474.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案についての会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/104/statement/2025/1107kaiken.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました",
+        "link": "https://www.kantei.go.jp/jp/104/discourse/20251107shiji.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "北朝鮮からの弾道ミサイルの可能性があるものの発射に関する総理指示（１２：３８）",
+        "link": "https://www.kantei.go.jp/jp/104/discourse/20251107shiji.html"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札結果（令和7年11月7日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result251107.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第441回)入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20251107.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1343回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20251107.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第29回労働政策審議会安全衛生分科会じん肺部会　議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65707.html"
     }
 ]
