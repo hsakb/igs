@@ -48,5 +48,55 @@
         "category": "財務省",
         "title": "外貨準備等の状況（令和7年10月末現在）",
         "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0710.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2025年11月10日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/044138/"
+    },
+    {
+        "category": "財務省",
+        "title": "10年物価連動国債（11月債）の発行予定額等（令和7年11月10日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20251110.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和7年11月10日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer409.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "アルコール健康障害対策関係者会議(アルコール健康障害対策関係者会議)",
+        "link": "https://www.mhlw.go.jp/stf/shingi/0000167071_450973.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公務研究セミナーin霞が関のご案内",
+        "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ningen-kagaku/seminar-kasumigaseki.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "HPCI整備計画調査研究事業における採択機関を決定",
+        "link": "https://www.mext.go.jp/b_menu/boshu/detail/mext_00487.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「公益通報者保護法第11条第1項及び第2項の規定に基づき事業者がとるべき措置に関して、その適切かつ有効な実施を図るために必要な指針の...",
+        "link": "https://www.caa.go.jp/notice/entry/044127/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "総務省",
+        "title": "一般職技術系（情報通信行政）の情報を更新しました",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu.html"
     }
 ]
