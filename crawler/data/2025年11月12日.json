@@ -158,5 +158,45 @@
         "category": "国土交通省",
         "title": "東急田園都市線 列車衝突事故を踏まえた緊急点検の結果（中間報告）",
         "link": "http://www.mlit.go.jp/report/press/tetsudo09_hh_000240.html"
+    },
+    {
+        "category": "財務省",
+        "title": "関税・外国為替等審議会 第63回外国為替等分科会議事録",
+        "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20251110192712.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "原子力科学技術委員会　原子力研究開発・基盤・人材作業部会（第27回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/100/shiryo/1422932_00039.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "ドイツ産牛肉等の輸入一時停止措置の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/251112.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和７年司法試験の結果について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji08_00265.html"
+    },
+    {
+        "category": "法務省",
+        "title": "令和７年司法試験の合格発表について",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji08_00283.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第475回 消費者委員会本会議【11月19日開催】",
+        "link": "https://www.cao.go.jp/consumer/iinkai/2025/475/kaisai/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "特別用途表示の許可等に関する専門家会議",
+        "link": "https://www.caa.go.jp/notice/entry/044064/"
+    },
+    {
+        "category": "首相官邸",
+        "title": "高市総理は国民民主党・経済対策の策定に向けた提言申し入れを受けました",
+        "link": "https://www.kantei.go.jp/jp/104/actions/202511/12teigen.html"
     }
 ]
