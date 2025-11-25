@@ -108,5 +108,110 @@
         "category": "総務省",
         "title": "電気通信紛争処理委員会（第256回）",
         "link": "https://www.soumu.go.jp/main_sosiki/hunso/case/iinkai/02shingi02_04000271.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会特別支援教育ワーキンググループ（第3回）の配付資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/105/siryo/mext_02233.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和６年（１～12月）における火災の状況（確定値）（令和７年11月25日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069125"
+    },
+    {
+        "category": "農林水産省",
+        "title": "北海道白老町で発生した高病原性鳥インフルエンザ（国内1例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/251125.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第144回脳死下での臓器提供事例に係る検証会議を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65841.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度「社会保険労務士制度功労者厚生労働大臣表彰」の受賞者を決定しました",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65936.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第130回社会保障審議会介護保険部会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66010.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第42回社会保障審議会介護給付費分科会介護事業経営調査委員会」を開催します（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66025.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「生涯現役地域づくり環境整備事業（令和７年度開始分・第２次募集）」の実施団体候補を決定",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66126.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66235.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第205回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66237.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省大臣官房会計課非常勤職員（時間雇用職員）採用のお知らせ（令和8年1月1日予定）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00158.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会理科ワーキンググループ（第3回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00085.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "人材委員会　次世代人材育成ワーキング・グループ（第5回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu10/006/kaisai/mext_00007.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立研究開発法人審議会 海洋研究開発機構部会（第38回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/kokurituken/002/kaisai/1419001_00001.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「令和7年度石油コンビナート等における自衛防災組織の技能コンテスト」の結果および表彰式の実施",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069120"
+    },
+    {
+        "category": "農林水産省",
+        "title": "農林水産政策研究所シンポジウム「東アジアにおける有機農産物フードシステムの現状と展望」を開催します！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/kihyo01/251125.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「ノウフク・アワード2025」選定結果を公表しました！",
+        "link": "https://www.maff.go.jp/j/press/nousin/kouryu/251125.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "台湾が日本産食品の輸入規制措置の撤廃を公表（東日本大震災関連）",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kisei/251121.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "機能性表示食品の自己点検等報告に関する説明会",
+        "link": "https://www.caa.go.jp/notice/entry/043906/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第121回社会保障審議会医療部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66269.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました",
+        "link": "https://www.kantei.go.jp/jp/104/statement/2025/111125kaiken.html"
     }
 ]
