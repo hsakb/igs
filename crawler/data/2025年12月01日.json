@@ -103,5 +103,65 @@
         "category": "首相官邸",
         "title": "本日付の内閣官房の人事について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202512/1_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第529回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1970.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和8年度世界かんがい施設遺産の国内申請受付開始について",
+        "link": "https://www.maff.go.jp/j/press/nousin/kaigai/251201.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "戦没者慰霊事業のお知らせ（令和７年12月実施分）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66300.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度医学教育等関係業務功労者表彰について",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01577.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教育課程部会　情報・技術ワーキンググループ（第4回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00087.html"
+    },
+    {
+        "category": "総務省",
+        "title": "第７回緊急消防援助隊全国合同訓練",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069132"
+    },
+    {
+        "category": "総務省",
+        "title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令案に対する意見募集",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069135"
+    },
+    {
+        "category": "文部科学省",
+        "title": "食に関する健康課題対策支援事業(令和7年3月)",
+        "link": "https://www.mext.go.jp/a_menu/sports/syokuiku/mext_00007.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "第３回「港湾運送事業における適正取引等推進のためのガイドライン検討委員会」を開催します〜港湾運送事業における適正取引等推進のためのガイドラインを策定します〜",
+        "link": "http://www.mlit.go.jp/report/press/port02_hh_000216.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "日本が国際海事機関（IMO）理事国に当選しました",
+        "link": "http://www.mlit.go.jp/report/press/kaiji01_hh_000586.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（フェラーリ　Purosangue）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005619.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "リコールの届出について（KTM　390DUKE　他）",
+        "link": "http://www.mlit.go.jp/report/press/jidosha08_hh_005620.html"
     }
 ]
