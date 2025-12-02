@@ -83,5 +83,95 @@
         "category": "警察庁",
         "title": "令和７年10月末の特殊詐欺及びSNS型投資・ロマンス詐欺の認知・検挙状況等について",
         "link": "http://www.npa.go.jp/newlyarrived/2025/20250227001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和7年11月中実績）の概要",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202511gaiyo.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和7年12月見込）",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202512a.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度第３回医道審議会医師分科会医師臨床研修部会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66055.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第249回社会保障審議会介護給付費分科会（Web会議）を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66377.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第206回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66487.html"
+    },
+    {
+        "category": "総務省",
+        "title": "消防分野における最新技術活用検証事業に係る検証技術の募集（令和７年１２月２日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069138"
+    },
+    {
+        "category": "内閣府",
+        "title": "消費動向調査（令和7年11月実施分）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/shouhi/shouhi.html "
+    },
+    {
+        "category": "農林水産省",
+        "title": "「ワシントン条約（CITES）第19回締約国会議」の結果について",
+        "link": "https://www.jfa.maff.go.jp/j/press/sigen/221128.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教育課程部会　理科ワーキンググループ（第3回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/111/siryo/mext_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第380回）の入札結果（令和7年12月2日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20251202.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "第77回人権週間　令和7年12月4日（木）～12月10日（水）",
+        "link": "http://www.moj.go.jp/JINKEN/jinken04_00346.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "環境に優しい「船のリサイクル」が開始されます〜第１号となるシップ・リサイクル法に基づく再資源化解体計画を承認しました〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji07_hh_000388.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "完全キャッシュレスバスの実証運行の実施路線（２次公募）を 選定しました！",
+        "link": "http://www.mlit.go.jp/report/press/jidosha03_hh_000486.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "バス会社による日本版ライドシェアのトライアル運行を行います",
+        "link": "http://www.mlit.go.jp/report/press/jidosha03_hh_000487.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "東急田園都市線 列車衝突事故を踏まえた緊急点検の結果（中間報告その３）",
+        "link": "http://www.mlit.go.jp/report/press/tetsudo09_hh_000242.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "大雪に対する国土交通省発表",
+        "link": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000336.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "2025年度「外国人材とつくる建設未来賞」受賞対象の決定！〜特定技能外国人及び受入企業等の日々の研鑽・取組を表彰〜",
+        "link": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo03_hh_000001_00130.html"
+    },
+    {
+        "category": "総務省",
+        "title": "アクセス制御機能に関する技術の研究開発情報の募集",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00267.html"
     }
 ]
