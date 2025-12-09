@@ -83,5 +83,50 @@
         "category": "首相官邸",
         "title": "青森県沖を震源とする地震について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202512/9_a1.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度「外国人患者受入れ医療コーディネーター養成研修」について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202921_00077.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "北朝鮮人権侵害問題啓発週間について",
+        "link": "https://www.caa.go.jp/notice/entry/044440/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「海業の推進に取り組む地区」を募集します！",
+        "link": "https://www.jfa.maff.go.jp/j/press/keikaku/251209.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第182回）の入札発行（令和7年12月9日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20251209.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "流動性供給(第443回)入札の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20251209.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1349回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20251209.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第70回ハンセン病元患者家族補償金認定審査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66912.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要／北朝鮮人権侵害問題啓発週間／青森県沖を震源とする地震について（３）",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202512/9_a.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "４都県の民間企業による合同防災通信訓練の延期について",
+        "link": "http://www.mlit.go.jp/report/press/kanbo08_hh_001271.html"
     }
 ]
