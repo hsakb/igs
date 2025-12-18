@@ -73,5 +73,95 @@
         "category": "警察庁",
         "title": "児童の性的ディープフェイク被害・加害防止のための広報啓発資料",
         "link": "http://www.npa.go.jp/newlyarrived/2025/20251218001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "決算に関する情報（労働保険特別会計）",
+        "link": "https://www.mhlw.go.jp/wp/yosan/kaiji/roudou01.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "決算に関する情報（年金特別会計）",
+        "link": "https://www.mhlw.go.jp/wp/yosan/kaiji/nenkin01.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第29回労働政策審議会　職業安定分科会　雇用環境・均等分科会　同一労働同一賃金部会」（ペーパーレス）を開催します（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66369.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第８回電子処方箋等検討ワーキンググループ」を開催します（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67082.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第76回難病対策委員会・第７回小児慢性特定疾病対策委員会(合同開催)（ペーパーレス）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67125.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第６回厚生科学審議会食品衛生監視部会」の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67208.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "指定薬物を含有する危険ドラッグの発見について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67378.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第389回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67189.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第54回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67515.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "AI for Scienceを支える研究データの管理・利活用と流通の在り方ワーキンググループ（第1回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu29/006/kaisai/mext_251224.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会家庭ワーキンググループ（第3回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/114/kaisai/mext_00003.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度 地方消費者行政の現況調査について",
+        "link": "https://www.caa.go.jp/notice/entry/044522/"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1352回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20251218.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "内閣官房人事について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202512/18_a.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第107回社会保障審議会年金数理部会　資料",
+        "link": "https://www.mhlw.go.jp/stf/shingi2/0000198131_00055.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和７年度補正予算に係る個別公共事業評価について（その２）",
+        "link": "http://www.mlit.go.jp/report/press/kanbo11_hh_000163.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "次世代船舶の世界トップシェア獲得に向け、更なる設備投資を促進〜令和７年度ゼロエミッション船等の建造促進事業について、６件の事業を採択しました〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji05_hh_000314.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "船員養成等に係る訴求強化戦略の方向性について議論を行います〜第２回「船員養成・就業拡大に向けた訴求強化戦略策定検討チーム」を開催〜",
+        "link": "http://www.mlit.go.jp/report/press/kaiji04_hh_000378.html"
     }
 ]
