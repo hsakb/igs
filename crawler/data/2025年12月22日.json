@@ -148,5 +148,50 @@
         "category": "総務省",
         "title": "大臣官房会計課 非常勤職員採用情報",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02kanbo04_04000152.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "H3ロケット8号機の打上げ失敗について ［文部科学大臣談話］",
+        "link": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00651.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "農林水産省とウズベキスタン共和国農業省、カザフスタン共和国農業省、タジキスタン共和国農業省との協力覚書の署名・交換について",
+        "link": "https://www.maff.go.jp/j/press/y_kokusai/kokkyo/251222.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会血液事業部会令和７年度第４回運営委員会（資料）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_66917.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度輸入食品監視指導計画に基づく監視指導結果（中間報告）の公表",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67133.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会芸術ワーキンググループ（第4回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/113/kaisai/mext_00004.html"
+    },
+    {
+        "category": "財務省",
+        "title": "産業投資現在高（令和7年11月末）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_balance/santou/santou0711.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金現在高（令和7年11月末）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_balance/zaiyuu/zaiyuu0711.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "第８回アジア・アフリカ・アラブ５５総会　高市総理ビデオメッセージ",
+        "link": "https://www.kantei.go.jp/jp/104/discourse/20251222message.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "豪州における都市開発事業への日本企業の参入を支援します〜豪州の住宅不足解消に貢献〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo07_hh_000787.html"
     }
 ]
