@@ -173,5 +173,35 @@
         "category": "総務省",
         "title": "eLTAXを装ったメールやSMS等に対する注意喚起",
         "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000629.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "北朝鮮のミサイル等関連情報（速報）",
+        "link": "https://www.mod.go.jp/j/press/news/2026/01/04a.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "北朝鮮のミサイル等関連情報（ミサイル落下推定情報）",
+        "link": "https://www.mod.go.jp/j/press/news/2026/01/04b.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "北朝鮮のミサイル等関連情報（続報）",
+        "link": "https://www.mod.go.jp/j/press/news/2026/01/04c.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜防衛大臣臨時記者会見（1月4日）を掲載",
+        "link": "https://www.mod.go.jp/j/press/kisha/2026/0104a_r.html"
+    },
+    {
+        "category": "防衛省",
+        "title": "報道・白書・広報イベント｜人事発令（令和7年12月31日付:防衛省発令（１佐人事）、令和8年1月1日付:防衛省発令（昇任１佐人事））を更新",
+        "link": "https://www.mod.go.jp/j/press/jinji/index.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "高市総理は年頭記者会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/104/statement/2026/0105kaiken.html"
     }
 ]
