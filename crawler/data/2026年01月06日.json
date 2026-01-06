@@ -63,5 +63,85 @@
         "category": "総務省",
         "title": "令和8年度「デジタル・ディバイド解消のための技術等研究開発推進事業」等合同公募説明会の開催",
         "link": "https://www.soumu.go.jp/menu_news/gyouji/02ryutsu05_04000234.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和7年12月中実績）の概要",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202512gaiyo.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和8年1月見込）",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202601a.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会血液事業部会令和７年度第２回安全技術調査会（ペーパーレス・Web併用）の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_65348.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度第９回薬事審議会化学物質安全対策部会化学物質調査会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67539.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第100回「電離放射線障害の業務上外に関する検討会」を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_67573.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会生涯学習分科会社会教育の在り方に関する特別部会（第14回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/015/kaisai/mext_00019.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "【医療機関・地域関係者向け情報】「外国人患者の受入れにおける地域連携の最前線～医療機関の枠に捉われない連携事例～」 オンラインセミナーを開催します",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202921_00078.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年1月6日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260106.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "10年利付国債（第381回）の入札結果（令和8年1月6日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260106.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1353回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260106.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "高市総理は島根県東部を震源とする地震についての会見を行いました",
+        "link": "https://www.kantei.go.jp/jp/104/statement/2026/0106kaiken.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「港湾施設の持続可能な維持管理に向けた検討会（第６回）」を開催します〜維持管理ガイドラインの見直しに向けた検討を行います〜",
+        "link": "http://www.mlit.go.jp/report/press/port05_hh_000416.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「社会資本整備重点計画（案）」「交通政策基本計画（案）」に係る答申を金子大臣に手交します〜 社会資本整備と交通政策の羅針盤となる計画案のとりまとめ 〜",
+        "link": "http://www.mlit.go.jp/report/press/sogo01_hh_000069.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和8年1月6日10時18分頃の島根県東部の地震に伴う土砂災害警戒情報発表基準の暫定的な運用について",
+        "link": "http://www.mlit.go.jp/report/press/sabo01_hh_000197.html"
+    },
+    {
+        "category": "警察庁",
+        "title": "令和７年中の交通事故死者数について",
+        "link": "http://www.npa.go.jp/newlyarrived/2026/20260106001jiko.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和7年度文部科学大臣優秀教職員表彰式の開催について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/daijin/index_00011.htm"
     }
 ]
