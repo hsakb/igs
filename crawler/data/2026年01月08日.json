@@ -83,5 +83,80 @@
         "category": "消費者庁",
         "title": "臨時事務補助員(表示対策課)の募集について",
         "link": "https://www.caa.go.jp/notice/entry/044720/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省国立教育政策研究所非常勤職員（期間業務職員）採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00187.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "第4回「⾷料・農林⽔産分野におけるGX加速化研究会」を開催します！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/b_kankyo/260108.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第120回コーデックス連絡協議会 (開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_68186.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学研究力強化部会（第4回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu35/mext_00004.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「第120回コーデックス連絡協議会」の開催及び一般傍聴について",
+        "link": "https://www.caa.go.jp/notice/entry/044687/"
+    },
+    {
+        "category": "財務省",
+        "title": "米ドル建株式会社日本政策投資銀行社債に対する政府保証の付与（令和8年1月14日発行）",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1975.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザの発生状況を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "インフルエンザに関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00023.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00474.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "消費動向調査（令和7年12月実施分）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/shouhi/shouhi.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "令和8年度SSHコーディネーター配置機関について",
+        "link": "https://www.mext.go.jp/a_menu/jinzai/gakkou/mext_00004.html"
+    },
+    {
+        "category": "財務省",
+        "title": "エネルギー対策特別会計の借入金の入札結果（令和8年1月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result260108.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "30年利付国債（第89回）の入札結果（令和8年1月8日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260108.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1354回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260108.htm"
     }
 ]
