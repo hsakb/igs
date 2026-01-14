@@ -18,5 +18,65 @@
         "category": "財務省",
         "title": "国債金利情報(令和8年1月13日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第183回）の入札結果（令和8年1月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260114.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "日米財務大臣会談（令和8年1月12日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260109224858.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「令和８年度診療報酬改定に係るこれまでの議論の整理」に関するご意見の募集について",
+        "link": "https://www.mhlw.go.jp/public/bosyuu/iken/p20260109-01.html"
+    },
+    {
+        "category": "財務省",
+        "title": "製造たばこの小売定価の認可",
+        "link": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
+    },
+    {
+        "category": "財務省",
+        "title": "日韓財務大臣会談の開催について（令和8年1月12日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/katayama-kuy.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "科学技術・学術審議会 大学研究力強化部会（第4回）　配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu35/siryo/00004.html"
+    },
+    {
+        "category": "財務省",
+        "title": "「日本の所得分配・再分配に関する研究会」第3回会合を開催しました",
+        "link": "https://www.mof.go.jp/insideLink/20260109145815.html"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（第183回）の入札発行（令和8年1月14日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260114.htm"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「食品ロス削減関係参考資料」を更新しました。",
+        "link": "https://www.caa.go.jp/notice/entry/044771/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "法執行専門職員(期間業務職員)の募集について",
+        "link": "https://www.caa.go.jp/notice/entry/044774/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "「みんなでエシカル」の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/044778/"
+    },
+    {
+        "category": "総務省",
+        "title": "電波監理審議会（第1151回）会議資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/denpa_kanri/kaisai/02kiban01_04000305.html"
     }
 ]
