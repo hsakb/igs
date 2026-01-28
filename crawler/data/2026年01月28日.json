@@ -18,5 +18,45 @@
         "category": "財務省",
         "title": "国債金利情報(令和8年1月27日)",
         "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第18回）の入札結果（令和8年1月28日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260128.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和８年度　困難な問題を抱える女性への支援に関する プラットフォーム構築事業の公募について ",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/jyoseishien_r5_00007.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "臓器提供施設連携体制構築事業について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/ishoku/renkeitaisei_00006.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "採用情報（非常勤職員（健康・生活衛生局）募集情報）",
+        "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku03.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "改質リグニンの実現可能性調査成果報告会を開催します",
+        "link": "https://www.rinya.maff.go.jp/j/press/ken_sidou/260128.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「おいしい日本、届け隊 SUMMIT2026」 開催！",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/shien/260128.html"
+    },
+    {
+        "category": "財務省",
+        "title": "40年利付国債（第18回）の入札発行（令和8年1月28日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260128.htm"
+    },
+    {
+        "category": "法務省",
+        "title": "休日を会社等の設立の日とすることが可能になりました",
+        "link": "http://www.moj.go.jp/MINJI/minji06_00234.html"
     }
 ]
