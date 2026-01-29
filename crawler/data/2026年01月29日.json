@@ -158,5 +158,60 @@
         "category": "総務省",
         "title": "第225回統計委員会",
         "link": "https://www.soumu.go.jp/main_sosiki/singi/toukei/kaigi/02shingi05_02000799.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "千葉県で確認された高病原性鳥インフルエンザの疑似患畜（国内18例目）の遺伝子解析及びNA亜型の確定について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/260129.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "第91回公共料金等専門調査会【1月28日開催】",
+        "link": "https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/091/shiryou/index.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法の重大事故等に係る公表について(1月29日)",
+        "link": "https://www.caa.go.jp/notice/entry/045000/"
+    },
+    {
+        "category": "消費者庁",
+        "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(1月29日)",
+        "link": "https://www.caa.go.jp/notice/entry/045002/"
+    },
+    {
+        "category": "文部科学省",
+        "title": "【総合職技術系】業務説明会日程一覧",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/mext_00044.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "【一般職技術系】業務説明会日程一覧",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/ippangijyutsu/detail/1387690.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和６年度における保険医療機関等の指導・監査等の実施状況について",
+        "link": "https://www.mhlw.go.jp/stf/houdou/0000188884_00004.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "次期学習指導要領に向けた論点整理の要点をイラストやアイコン等も交えて分かりやすく整理したポイント資料を公表しました！",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gaiyou/mext_00010.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "食品安全委員会（第1012回）の開催について【2月3日開催】",
+        "link": "https://www.fsc.go.jp/iinkai_annai/annai/annai1012.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "動物用医薬品専門調査会（第285回）の開催について【2月5日開催】",
+        "link": "https://www.fsc.go.jp/senmon/doubutu/annai/doubutu_annai_285.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "国立大学法人運営費交付金等についての文部科学省の基本的考え方",
+        "link": "https://www.mext.go.jp/a_menu/koutou/houjin/1403895_0001808.htm"
     }
 ]
