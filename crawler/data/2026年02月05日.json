@@ -1,0 +1,32 @@
+[
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月4日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "「2月4日重要鉱物閣僚会合に続く、米国政府、欧州委員会及び日本政府との間の共同プレスステートメント」を発出しました",
+        "link": "https://www.mof.go.jp/policy/international_policy/convention/other/20260202143202.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学分科会（第188回）会議配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/siryo/mext_00008.html"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "警察庁",
+        "title": "捜査特別報奨金に関する広告（令和８年２月５日）",
+        "link": "http://www.npa.go.jp/newlyarrived/2026/20260115001.html"
+    }
+]
