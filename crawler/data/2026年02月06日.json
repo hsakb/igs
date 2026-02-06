@@ -1,0 +1,47 @@
+[
+    {
+        "category": "財務省",
+        "title": "企画競争情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kikaku/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教育課程部会　外国語ワーキンググループ（第8回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/108/siryo/mext_00008.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月5日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "農林水産省",
+        "title": "三重県津市で発生した高病原性鳥インフルエンザ（国内16例目）に係る移動制限の解除について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/260206.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外国為替平衡操作の実施状況(令和7年10月～令和7年12月)",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2025_4Q.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外貨準備等の状況（令和8年1月末現在）",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0801.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和8年1月上中旬分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/260206.html"
+    },
+    {
+        "category": "総務省",
+        "title": "家計調査報告（家計収支編）2025年（令和7年）12月分、10〜12月期平均及び2025年平均",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000282.html"
+    }
+]
