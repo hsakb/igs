@@ -1,0 +1,62 @@
+[
+    {
+        "category": "文部科学省",
+        "title": "文部科学省研究開発局環境エネルギー課非常勤職員（文部科学省調査員）採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00162.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "事務補助員の募集（主計局給与共済課）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/jimuhojo/20260209_shukei_kyuyo.html"
+    },
+    {
+        "category": "財務省",
+        "title": "調査員の募集（大臣官房総合政策課）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/jimuhosa/20260209_sousei_chousa.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月6日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省研究振興局非常勤職員（期間業務職員）採用のお知らせ（令和8年4月1日採用）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00197.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "大学院における社会人等の免許取得に資する新教育課程ワーキンググループ（第2回）配布資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/123/siryo/mext_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "令和7年12月中 国際収支状況（速報）の概要",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202512.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "令和7年中 国際収支状況（速報）の概要",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2025cy.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査ー2025（令和7）年分結果速報",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/25cp/25cp.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "毎月勤労統計調査ー2025（令和7）年12月分結果速報",
+        "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/2512p/2512p.html"
+    }
+]
