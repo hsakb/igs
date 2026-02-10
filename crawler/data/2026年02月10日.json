@@ -1,0 +1,22 @@
+[
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月9日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "保険医・保険薬剤師の登録等に関するオンライン申請について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_49106.html"
+    },
+    {
+        "category": "総務省",
+        "title": "【開催案内】第55回独立行政法人評価制度委員会・第74回評価部会",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000533.html"
+    }
+]
