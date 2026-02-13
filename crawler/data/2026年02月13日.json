@@ -1,0 +1,37 @@
+[
+    {
+        "category": "財務省",
+        "title": "公募情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "研究員の募集（財務総合政策研究所）",
+        "link": "https://www.mof.go.jp/about_mof/recruit/mof/jimuhosa/20260213_zaisouken_kenkyu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月12日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "総務省",
+        "title": "情報通信審議会 電気通信事業政策部会 接続政策委員会　接続料の算定等に関するワーキンググループ（第5回）配布資料",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001155.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省科学技術・学術政策局政策課資源室日本食品標準成分表専門調査員（期間業務職員）採用のお知らせ（令和8年4月1日採用）",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00013.html"
+    }
+]
