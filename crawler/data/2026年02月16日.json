@@ -1,0 +1,67 @@
+[
+    {
+        "category": "財務省",
+        "title": "公募情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月13日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "医療分野における業務効率化・職場環境改善支援事業について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70522.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "四半期別ＧＤＰ速報（2025年10-12月期・1次速報）",
+        "link": "https://www.esri.cao.go.jp/jp/sna/menu.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（10月17日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00855.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（12月16日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00856.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（12月19日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00857.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（12月19日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00858.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（12月23日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00859.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（9月26日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00860.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（1月16日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00861.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和7年度地方財政審議会（1月30日）議事要旨",
+        "link": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00862.html"
+    }
+]
