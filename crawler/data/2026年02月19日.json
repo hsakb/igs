@@ -38,5 +38,70 @@
         "category": "内閣府",
         "title": "機械受注統計調査報告（令和7年12月実績および令和8年1～3月見通し）",
         "link": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "小学校作業部会（第1回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/126/kaisai/mext_00001.html"
+    },
+    {
+        "category": "財務省",
+        "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年2月19日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260219.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第195回）の入札結果（令和8年2月19日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260219.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1363回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260219.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "ディスカッション・ペーパーを掲載しました「Protecting Subsidiaries from Exchange Rate Risk: The Role of Ownership Ratios in Invoice Currency Choices」",
+        "link": "https://www.mof.go.jp/insideLink/20260216180855.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "食品安全シンポジウムの開催及び参加者の募集について",
+        "link": "https://www.maff.go.jp/j/press/syouan/seisaku/260219.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "シンポジウム「ランドスケープアプローチによる森林の多面的機能の発揮を通じたネイチャーポジティブ社会への移行」を開催します",
+        "link": "https://www.rinya.maff.go.jp/j/press/sin_riyou/260219.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「第24回聞き書き甲子園フォーラム」を開催します",
+        "link": "https://www.rinya.maff.go.jp/j/press/sanson_ryokka/260217.html"
+    },
+    {
+        "category": "財務省",
+        "title": "20年利付国債（第195回）の入札発行（令和8年2月19日入札）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260219.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1363回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260219.htm"
+    },
+    {
+        "category": "首相官邸",
+        "title": "臨時閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202602/19_a.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和6年能登半島地震等による被災地方公共団体における職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000633.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "ユニバーサルツーリズム「すべての人が安心して楽しめる旅づくり」オンラインセミナーを開催します！",
+        "link": "http://www.mlit.go.jp/kankocho/topics06_00042.html"
     }
 ]
