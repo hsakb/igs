@@ -63,5 +63,100 @@
         "category": "総務省",
         "title": "令和8年2月20日付　総務省人事",
         "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001122.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1364回）の入札結果",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260220.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "文部科学省国立教育政策研究所非常勤職員（期間業務職員）採用のお知らせ",
+        "link": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00198.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "ライフサイエンス委員会　基礎・横断研究戦略作業部会（第13期～）（第2回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/116/siryo/mext_00002.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教員養成部会　教職課程・免許・大学院課程ワーキンググループ養護教諭・栄養教諭作業部会（第2回）配付資料",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/125/siryo/mext_00004.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "鳥インフルエンザに関する情報(2026年2月20日更新)",
+        "link": "https://www.caa.go.jp/notice/entry/045217/"
+    },
+    {
+        "category": "農林水産省",
+        "title": "令和8年1月6日の地震による鳥取県境港市の区域に係る災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令について",
+        "link": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260220.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「農林水産省が優先的にリスク管理を行うべき有害化学物質のリスト」を更新し、「食品の安全性に関する有害化学物質のサーベイランス・モニタリング中期計画（令和8年度〜令和12年度）」を策定しました",
+        "link": "https://www.maff.go.jp/j/press/syouan/seisaku/260220.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "J−クレジットに新たに“牛のげっぷ由来のメタンガスを減らす飼料添加物の使用”が追加！",
+        "link": "https://www.maff.go.jp/j/press/kanbo/b_kankyo/260220.html"
+    },
+    {
+        "category": "財務省",
+        "title": "2年利付国債（3月債）の発行予定額等（令和8年2月20日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260220.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1364回）の入札発行",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260220.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国庫短期証券（第1365回）の発行予定額等",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260220.htm"
+    },
+    {
+        "category": "経済産業省",
+        "title": "「新市場創造型標準化制度」を活用したJIS開発案件を決定しました",
+        "link": "https://www.meti.go.jp/press/2025/02/20260220001/20260220001.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「日パラオ農業協力促進のためのタスクフォース」の第4回会合を開催しました",
+        "link": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/260220_1.html"
+    },
+    {
+        "category": "財務省",
+        "title": "制度の概要",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/real_property/seido_gaiyo.html"
+    },
+    {
+        "category": "財務省",
+        "title": "外国為替の取引等の報告に関する省令の一部を改正します（令和8年2月20日）",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/recent_revised/gaitamehou_20260220.html"
+    },
+    {
+        "category": "財務省",
+        "title": "非居住者による本邦の不動産等取得に係る報告制度に関する照会及び問合せ窓口",
+        "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/real_property/shoukai_toiawase.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "閣議の概要について",
+        "link": "https://www.kantei.go.jp/jp/tyoukanpress/202602/20_a.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "「クールジャパン・プラットフォームアワード2026」受賞作品の発表及び表彰式開催について",
+        "link": "https://www.cao.go.jp/cool_japan/link/cjpf_ws2.html"
+    },
+    {
+        "category": "総務省",
+        "title": "消防庁総務課 非常勤職員採用情報",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02shoubo01_04000170.html"
     }
 ]
