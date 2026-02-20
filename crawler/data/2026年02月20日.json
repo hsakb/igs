@@ -1,0 +1,67 @@
+[
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "シンポジウム「ランドスケープアプローチによる森林の多面的機能の発揮を通じたネイチャーポジティブ社会への移行」を開催します",
+        "link": "https://www.rinya.maff.go.jp/j/press/sin_riyou/260219.html"
+    },
+    {
+        "category": "財務省",
+        "title": "所得税法等の一部を改正する法律案 国会提出",
+        "link": "https://www.mof.go.jp/insideLink/20260219203335.html"
+    },
+    {
+        "category": "財務省",
+        "title": "東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法の一部を改正する法律案　国会提出",
+        "link": "https://www.mof.go.jp/insideLink/20260219203056.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政運営に必要な財源の確保を図るための公債の発行の特例に関する法律の一部を改正する法律案　国会提出",
+        "link": "https://www.mof.go.jp/insideLink/20260219202750.html"
+    },
+    {
+        "category": "財務省",
+        "title": "関税定率法等の一部を改正する法律案 国会提出",
+        "link": "https://www.mof.go.jp/insideLink/20260219203558.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月19日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "農林水産省",
+        "title": "千葉県における高病原性鳥インフルエンザの疑似患畜の確認（国内19例目）及び「農林水産省鳥インフルエンザ防疫対策本部」の持ち回り開催について",
+        "link": "https://www.maff.go.jp/j/press/syouan/douei/260220.html"
+    },
+    {
+        "category": "総務省",
+        "title": " 情報通信行政・郵政行政審議会　電気通信事業部会（第165回）配布資料・議事概要・議事録",
+        "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/denki_tsusin/02ryutsu01_04000497.html"
+    },
+    {
+        "category": "総務省",
+        "title": "2020年基準 消費者物価指数 全国 2026年(令和8年)1月分",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000337.html"
+    },
+    {
+        "category": "総務省",
+        "title": "「サービス産業動態統計調査」2025年（令和7年）12月分（速報）",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000330.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和8年2月20日付　総務省人事",
+        "link": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001122.html"
+    }
+]
