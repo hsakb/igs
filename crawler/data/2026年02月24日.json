@@ -1,0 +1,37 @@
+[
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（工事等）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "政府調達情報",
+        "link": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "入札、落札結果情報（物品・役務）",
+        "link": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会幼児教育ワーキンググループ（第5回）の配付資料を掲載しました",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/104/siryo/mext_00008.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月20日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "経済産業省",
+        "title": "赤澤経済産業大臣が米国のラトニック商務長官と電話会談を行いました",
+        "link": "https://www.meti.go.jp/press/2025/02/20260224006/20260224006.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "令和７年度補正予算「観光地・観光産業におけるユニバーサルツーリズム促進事業」に係る事務局を決定しました",
+        "link": "http://www.mlit.go.jp/kankocho/kobo06_00044.html"
+    }
+]
