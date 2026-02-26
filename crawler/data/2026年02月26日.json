@@ -1,0 +1,37 @@
+[
+    {
+        "category": "厚生労働省",
+        "title": "看護管理者の能力向上支援事業の公募について",
+        "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000193976_00100.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年2月25日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金貸付金利（令和8年3月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir7/kashi20260226.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政融資資金預託金利（令和8年3月1日以降適用）",
+        "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir7/yotaku20260226.html"
+    },
+    {
+        "category": "財務省",
+        "title": "貿易統計(令和8年2月上旬分速報)【税関ホームページ】",
+        "link": "https://www.mof.go.jp/outside_link/20260225104251.html"
+    },
+    {
+        "category": "総務省",
+        "title": "一般職技術系（情報通信行政）の情報を更新しました",
+        "link": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu.html"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「外国人患者を受け入れる医療機関の情報を取りまとめたリスト」を更新しました",
+        "link": "http://www.mlit.go.jp/kankocho/topics08_00031.html"
+    }
+]
