@@ -88,5 +88,80 @@
         "category": "首相官邸",
         "title": "閣議の概要について",
         "link": "https://www.kantei.go.jp/jp/tyoukanpress/202603/3_a.html"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和8年2月中実績）の概要",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202602gaiyo.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "財政資金対民間収支（令和8年3月見込）",
+        "link": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202603a.pdf"
+    },
+    {
+        "category": "法務省",
+        "title": "【周知】令和８年司法試験予備試験電子出願における入力内容の御確認について（３月３日更新）",
+        "link": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00288.html"
+    },
+    {
+        "category": "経済産業省",
+        "title": "プラスチック汚染に関する法的拘束力のある国際文書（条約）の策定に向けた日本主催非公式少数国会合が開催されました",
+        "link": "https://www.meti.go.jp/press/2025/03/20260303001/20260303001.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "社会保障審議会（介護保険部会）",
+        "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第134回社会保障審議会介護保険部会の開催について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70766.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第28回精神保健福祉士国家試験合格結果を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70847.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "厚生労働省における環境配慮の方針に関する令和６年度の点検結果を公表します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70903.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第９３回がん対策推進協議会（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70945.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "AI for Science推進委員会（第2回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/077/kaisai/aifors_260310.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教育課程部会　生活、総合的な学習・探究の時間ワーキンググループ（第5回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/115/kaisai/mext_00005.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "中央教育審議会初等中等教育分科会教育課程部会家庭ワーキンググループ（第5回）を開催します",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/114/kaisai/mext_00005.html"
+    },
+    {
+        "category": "総務省",
+        "title": "令和７年度「消防団地域貢献表彰」の受賞団体の決定及び表彰式の開催（令和８年３月３日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069658"
+    },
+    {
+        "category": "文部科学省",
+        "title": "SNS上で拡散されている暴力行為動画を受けた情報モラル教育の動画教材について",
+        "link": "https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1369617.htm"
+    },
+    {
+        "category": "国土交通省",
+        "title": "国土交通データプラットフォームの利活用促進に向けた意見交換会の開催〜戦略的イノベーション創造プログラム（SIP）第３期課題「スマートインフラマネジメント システムの構築」と連携した実証調査のデータ提供・利活用事例を公表します〜",
+        "link": "http://www.mlit.go.jp/report/press/kanbo08_hh_001307.html"
     }
 ]
