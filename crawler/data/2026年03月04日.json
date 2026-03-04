@@ -28,5 +28,55 @@
         "category": "総務省",
         "title": "一般職技術系（情報通信行政）の情報を更新しました",
         "link": "https://www.soumu.go.jp/menu_syokai/saiyou/i2syu.html"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札結果（令和8年3月4日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/resul413.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "5年利付国債（3月債）の発行予定額等（令和8年3月4日公表）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260304.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "国債整理基金による買入消却に係る国債の買入れのための入札（令和8年3月4日）",
+        "link": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/offer413.htm"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第91回労働政策審議会勤労者生活分科会中小企業退職金共済部会議事録",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70930.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "令和７年度 第２回戦没者の遺骨収集に関する有識者会議資料",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70869.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被保護者調査（令和６年度確定値）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2025/kakutei.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "被保護者調査（令和７年12月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2025/12.html"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度第3回食品衛生基準審議会添加物部会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/045313/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+        "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+        "category": "総務省",
+        "title": "AIネットワーク社会推進会議（第32回）・AIガバナンス検討会（第30回）合同会議",
+        "link": "https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000137.html"
     }
 ]
