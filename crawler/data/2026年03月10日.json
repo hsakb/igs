@@ -148,5 +148,80 @@
         "category": "厚生労働省",
         "title": "第73回ハンセン病元患者家族補償金認定審査会",
         "link": "https://www.mhlw.go.jp/stf/newpage_71427.html"
+    },
+    {
+        "category": "財務省",
+        "title": "第537回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+        "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu1989.htm"
+    },
+    {
+        "category": "農林水産省",
+        "title": "有限会社水迫畜産における牛の牛種、原産地及び個体識別番号の不適正表示に対する措置について",
+        "link": "https://www.maff.go.jp/j/press/syouan/kansa/260310.html"
+    },
+    {
+        "category": "農林水産省",
+        "title": "「令和7年度第2回生物多様性影響評価検討会総合検討会」の開催及び一般傍聴の募集",
+        "link": "https://www.affrc.maff.go.jp/docs/press/260310.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第11回労働政策審議会雇用環境・均等分科会家内労働部会（ハイブリッド会議） の開催について（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_71051.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "「第92回 労働政策審議会勤労者生活分科会中小企業退職金共済部会」を開催します（開催案内）",
+        "link": "https://www.mhlw.go.jp/stf/newpage_71081.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "病院報告（令和７(2025)年12月分概数）",
+        "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m25/12.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "薬事審議会を開催します",
+        "link": "https://www.mhlw.go.jp/stf/newpage_71242.html"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "労働者派遣法違反に係る告発について",
+        "link": "https://www.mhlw.go.jp/stf/newpage_71419.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "2025年ノーベル賞受賞の坂口志文氏・北川進氏の写真を追加した 「一家に１枚周期表」第14版を公開します。",
+        "link": "https://www.mext.go.jp/b_menu/houdou/mext_01605.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "全国的な学力調査に関する専門家会議（令和7年度第8回）の開催について",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/200/kaisai/mext_00004.html"
+    },
+    {
+        "category": "文部科学省",
+        "title": "教育・学習の質向上に向けた新たな評価の在り方ワーキンググループ（第9回）",
+        "link": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/056/1422340_00011.html"
+    },
+    {
+        "category": "総務省",
+        "title": "緊急消防援助隊の出動に係る総務大臣感謝状贈呈式及び消防庁長官賞状授与式（令和８年３月10日）",
+        "link": "https://www.fdma.go.jp/pressrelease/houdou/#069662"
+    },
+    {
+        "category": "消費者庁",
+        "title": "令和7年度第4回食品衛生基準審議会器具・容器包装部会の開催について",
+        "link": "https://www.caa.go.jp/notice/entry/045242/"
+    },
+    {
+        "category": "厚生労働省",
+        "title": "第22回年金広報検討会",
+        "link": "https://www.mhlw.go.jp/stf/newpage_70958.html"
+    },
+    {
+        "category": "首相官邸",
+        "title": "高市総理は第２０回犯罪被害者等施策推進会議を開催しました",
+        "link": "https://www.kantei.go.jp/jp/105/actions/202603/10hanzaihigai.html"
     }
 ]
