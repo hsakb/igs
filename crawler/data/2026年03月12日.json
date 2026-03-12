@@ -1,0 +1,37 @@
+[
+    {
+        "category": "財務省",
+        "title": "国債金利情報(令和8年3月11日)",
+        "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
+    },
+    {
+        "category": "財務省",
+        "title": "新型窓口販売方式による5年利付国債（第183回）の発行条件等",
+        "link": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260312.htm"
+    },
+    {
+        "category": "財務省",
+        "title": "法人企業景気予測調査(令和8年1～3月期)の結果",
+        "link": "https://www.mof.go.jp/insideLink/20260311121708.html"
+    },
+    {
+        "category": "財務省",
+        "title": "法人企業景気予測調査時系列データ(BSI項目)",
+        "link": "https://www.mof.go.jp/insideLink/20260311121748.html"
+    },
+    {
+        "category": "内閣府",
+        "title": "法人企業景気予測調査（令和８年１-３月期）",
+        "link": "https://www.esri.cao.go.jp/jp/stat/hojin/menu_hojin.html"
+    },
+    {
+        "category": "財務省",
+        "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース) ",
+        "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf"
+    },
+    {
+        "category": "国土交通省",
+        "title": "「「食」の力を最大活用したガストロノミーツーリズム推進事業」成果報告会のお知らせ",
+        "link": "http://www.mlit.go.jp/kankocho/topics05_00042.html"
+    }
+]
